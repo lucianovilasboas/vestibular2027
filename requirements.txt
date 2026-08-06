@@ -7,6 +7,10 @@ schedule
 notebook
 selenium
 webdriver-manager
+pytz
+requests
+python-dotenv
+GitPython
 # mysqlclient
 # st-gsheets-connection
 # SQLAlchemy
