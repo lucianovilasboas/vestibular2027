@@ -1,0 +1,13 @@
+pandas
+streamlit
+plotly
+openpyxl
+watchdog
+schedule
+notebook
+selenium
+webdriver-manager
+# mysqlclient
+# st-gsheets-connection
+# SQLAlchemy
+# mysql-connector-python
