@@ -9,14 +9,14 @@ PYTHON = "/mnt/DATA/Dev/python_projetos/vestibular2027/.venv/bin/python"
 # Função para executar os scripts 
 def executar():
     print("Executando agenda.py...")
-    print("  Executando scraper_v3_final.py...")
-    logger.info("Executando scraper_v3_final.py...")
-    subprocess.run([PYTHON, "scraper_v3_final.py"])
+    print("  Executando scraper_v4.py...")
+    logger.info("Executando scraper_v4.py...")
+    subprocess.run([PYTHON, "scraper_v4.py"])
     logger.info("Execução finalizada.")
 
-    print("  Executando processa.py...")
-    logger.info("Executando processa.py...")
-    subprocess.run([PYTHON, "processa.py"])
+    print("  Executando processa_v2.py...")
+    logger.info("Executando processa_v2.py...")
+    subprocess.run([PYTHON, "processa_v2.py"])
     logger.info("Execução finalizada.")
 
     print("  Executando gitrun.py...")

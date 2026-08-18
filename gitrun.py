@@ -23,6 +23,8 @@ if __name__ == "__main__":
         repo.git.add([
             "./dados/processed/all_data.csv",
             "./dados/processed/cards.csv",
+            "./dados/processed/escolas_all.csv",
+            "./dados/processed/escolas_resumo_all.csv",
             "./dados/vagas_referencia.csv",
         ])
 

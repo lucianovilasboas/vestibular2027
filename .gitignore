@@ -20,6 +20,9 @@ dados/backup/
 # Arquivos não utilizados (análise posterior)
 _nao_usados/
 
+# Artefatos de navegação (Playwright MCP)
+.playwright-mcp/
+
 # Diretórios de agentes locais
 .agents/
 .claude/

@@ -6,7 +6,7 @@ watchdog
 schedule
 notebook
 selenium
-webdriver-manager
+beautifulsoup4
 pytz
 requests
 python-dotenv

@@ -240,8 +240,14 @@ def aplicar_vagas(df_all):
     df_vagas_map = df_vagas[['Chave', 'TotalVagas']].drop_duplicates(subset='Chave')
     df_all = df_all.merge(df_vagas_map, on='Chave', how='left')
 
-    # Preenche vagas: se não encontrou, 0
-    df_all['Vagas'] = df_all['TotalVagas'].fillna(0).astype(int)
+    # Preserva a vaga do scraper quando disponível (painel do site), senão usa a referência do edital
+    if 'Vagas' not in df_all.columns:
+        df_all['Vagas'] = 0
+    df_all['Vagas'] = df_all.apply(
+        lambda r: int(r['Vagas']) if pd.notna(r['Vagas']) and r['Vagas'] > 0
+        else (int(r['TotalVagas']) if pd.notna(r['TotalVagas']) else 0),
+        axis=1
+    )
     df_all.drop(columns=['TotalVagas'], inplace=True)
 
     # Inscr./Vagas (protegido contra divisão por zero)
@@ -258,6 +264,10 @@ def aplicar_vagas(df_all):
 @st.cache_data(ttl=60) # Cache por 60 segundos para atualização mais rápida
 def load_data():
     df_all = pd.read_csv("dados/processed/all_data.csv")
+    
+    # Normaliza a Unidade para maiúsculas (histórico antigo usa "ARCOS", novo scraper "Arcos")
+    if 'Unidade' in df_all.columns:
+        df_all['Unidade'] = df_all['Unidade'].str.upper()
     
     df_all['Data'] = pd.to_datetime(df_all['Timestamp'])
     df_all.drop(columns=['Timestamp'], inplace=True)
@@ -289,3 +299,43 @@ def load_cards():
     df_cards = df_cards.drop_duplicates(subset=['Data', 'Modalidade']).copy()
     
     return df_cards
+
+
+@st.cache_data(ttl=60) # Cache por 60 segundos para atualização mais rápida
+def load_escolas():
+    """Carrega o histórico Top 30 de escolas por modalidade."""
+    escolas_file = "dados/processed/escolas_all.csv"
+    if not os.path.exists(escolas_file):
+        return pd.DataFrame()
+
+    df_escolas = pd.read_csv(escolas_file)
+    if 'Campus' not in df_escolas.columns:
+        df_escolas['Campus'] = ''
+    df_escolas['Campus'] = df_escolas['Campus'].fillna('').astype(str).str.strip()
+    df_escolas['Data'] = pd.to_datetime(df_escolas['Timestamp'])
+    df_escolas.drop(columns=['Timestamp'], inplace=True)
+
+    # Remove duplicatas por segurança
+    df_escolas = df_escolas.drop_duplicates(subset=['Data', 'Modalidade', 'Campus', 'Escola']).copy()
+
+    return df_escolas
+
+
+@st.cache_data(ttl=60) # Cache por 60 segundos para atualização mais rápida
+def load_escolas_resumo():
+    """Carrega o histórico dos resumos por tipo/área/cidade de escolas."""
+    resumo_file = "dados/processed/escolas_resumo_all.csv"
+    if not os.path.exists(resumo_file):
+        return pd.DataFrame()
+
+    df_resumo = pd.read_csv(resumo_file)
+    if 'Campus' not in df_resumo.columns:
+        df_resumo['Campus'] = ''
+    df_resumo['Campus'] = df_resumo['Campus'].fillna('').astype(str).str.strip()
+    df_resumo['Data'] = pd.to_datetime(df_resumo['Timestamp'])
+    df_resumo.drop(columns=['Timestamp'], inplace=True)
+
+    # Remove duplicatas por segurança
+    df_resumo = df_resumo.drop_duplicates(subset=['Data', 'Modalidade', 'Campus', 'Categoria', 'Label']).copy()
+
+    return df_resumo
