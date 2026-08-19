@@ -2481,3 +2481,1245 @@ Rank,Campus,Escola,Cidade,Tipo,Area,Inscritos,Timestamp,Modalidade
 28,São João Evangelista,EE PRESIDENTE JOAO PINHEIRO,Santos Dumont - MG,Pública Estadual,Urbana,1,2026-08-18 18:58:00.000000,SUP
 29,São João Evangelista,EE CONEGO LAFAIETE,José Raydan - MG,Pública Estadual,Urbana,1,2026-08-18 18:58:00.000000,SUP
 30,São João Evangelista,EE PROFESSORA HEROINA TORRES,Coluna - MG,Pública Estadual,Urbana,1,2026-08-18 18:58:00.000000,SUP
+1,Todas as unidades,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,107,2026-08-18 19:20:00.000000,INT
+2,Todas as unidades,ESCOLA MUNICIPAL JOSE MARIA DA FONSECA,Ponte Nova - MG,Pública Municipal,Urbana,81,2026-08-18 19:20:00.000000,INT
+3,Todas as unidades,EE JOAO CORREA ARMOND,Ribeirão das Neves - MG,Pública Estadual,Urbana,59,2026-08-18 19:20:00.000000,INT
+4,Todas as unidades,ESCOLA MUNICIPAL MANOEL SALVADOR DE OLIVEIRA,Itabirito - MG,Pública Municipal,Urbana,59,2026-08-18 19:20:00.000000,INT
+5,Todas as unidades,EE MONSENHOR PINHEIRO,São João Evangelista - MG,Pública Estadual,Urbana,52,2026-08-18 19:20:00.000000,INT
+6,Todas as unidades,ESCOLA MUNICIPAL PROFESSOR DORIOL BEATO,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,52,2026-08-18 19:20:00.000000,INT
+7,Todas as unidades,EE PAULA ROCHA,Sabará - MG,Pública Estadual,Urbana,50,2026-08-18 19:20:00.000000,INT
+8,Todas as unidades,ESCOLA MUNICIPAL JOSE FERREIRA BASTOS,Itabirito - MG,Pública Municipal,Urbana,46,2026-08-18 19:20:00.000000,INT
+9,Todas as unidades,EM TOMAS ANTONIO GONZAGA,Ouro Preto - MG,Pública Municipal,Urbana,35,2026-08-18 19:20:00.000000,INT
+10,Todas as unidades,EE PROFESSOR SOARES FERREIRA,Mariana - MG,Pública Estadual,Urbana,35,2026-08-18 19:20:00.000000,INT
+11,Todas as unidades,EM FORTUNATA DE FREITAS JUNQUEIRA,Congonhas - MG,Pública Municipal,Urbana,34,2026-08-18 19:20:00.000000,INT
+12,Todas as unidades,INSTITUTO MONTESSORI,Ponte Nova - MG,Privada,Urbana,34,2026-08-18 19:20:00.000000,INT
+13,Todas as unidades,EM ISABEL NASCIMENTO DE MATTOS,Contagem - MG,Pública Municipal,Urbana,34,2026-08-18 19:20:00.000000,INT
+14,Todas as unidades,EE JOAO BATISTA DE CARVALHO,Bambuí - MG,Pública Estadual,Urbana,32,2026-08-18 19:20:00.000000,INT
+15,Todas as unidades,EE FAZENDA SAO SEBASTIAO,Guanhães - MG,Pública Estadual,Urbana,31,2026-08-18 19:20:00.000000,INT
+16,Todas as unidades,EE HENRIQUE SAPORI,Ribeirão das Neves - MG,Pública Estadual,Urbana,30,2026-08-18 19:20:00.000000,INT
+17,Todas as unidades,EM ZULEIKA HALFELD DE ALBUQUERQUE,Jeceaba - MG,Pública Municipal,Urbana,30,2026-08-18 19:20:00.000000,INT
+18,Todas as unidades,COLEGIO MUNICIPAL JOAO XXIII,Ouro Branco - MG,Pública Municipal,Urbana,29,2026-08-18 19:20:00.000000,INT
+19,Todas as unidades,ESCOLA MUNICIPAL DONA QUITA,Santa Luzia - MG,Pública Municipal,Urbana,28,2026-08-18 19:20:00.000000,INT
+20,Todas as unidades,EM MARIA VIEIRA BARBOSA,Ribeirão das Neves - MG,Pública Municipal,Urbana,28,2026-08-18 19:20:00.000000,INT
+21,Todas as unidades,ESCOLA MUNICIPAL LIVRE MENTE,Ouro Branco - MG,Pública Municipal,Urbana,27,2026-08-18 19:20:00.000000,INT
+22,Todas as unidades,EE ALTIVO COELHO,Guanhães - MG,Pública Estadual,Urbana,27,2026-08-18 19:20:00.000000,INT
+23,Todas as unidades,ESCOLA MUNICIPAL JUDITH AUGUSTA FERREIRA,Congonhas - MG,Pública Municipal,Urbana,27,2026-08-18 19:20:00.000000,INT
+24,Todas as unidades,ESCOLA MUNICIPAL ANA AMELIA QUEIROZ,Itabirito - MG,Pública Municipal,Urbana,26,2026-08-18 19:20:00.000000,INT
+25,Todas as unidades,ESCOLA MUNICIPAL NAPOLEAO REIS,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,26,2026-08-18 19:20:00.000000,INT
+26,Todas as unidades,ESCOLA MUNICIPAL VINICIUS DE MORAES,Belo Horizonte - MG,Pública Municipal,Urbana,26,2026-08-18 19:20:00.000000,INT
+27,Todas as unidades,E M RAUL SARAIVA RIBEIRO,Betim - MG,Pública Municipal,Urbana,26,2026-08-18 19:20:00.000000,INT
+28,Todas as unidades,EE PRESIDENTE ITAMAR FRANCO,Santa Luzia - MG,Pública Estadual,Urbana,25,2026-08-18 19:20:00.000000,INT
+29,Todas as unidades,EE LEVINDO COSTA CARVALHO,Ouro Branco - MG,Pública Estadual,Urbana,25,2026-08-18 19:20:00.000000,INT
+30,Todas as unidades,ESCOLA SESI HAMLETO MAGNAVACCA,Belo Horizonte - MG,Privada,Urbana,25,2026-08-18 19:20:00.000000,INT
+1,Arcos,EE YOLANDA JOVINO VAZ,Arcos - MG,Pública Estadual,Urbana,20,2026-08-18 19:20:00.000000,INT
+2,Arcos,EE DA VILA BOA VISTA,Arcos - MG,Pública Estadual,Urbana,12,2026-08-18 19:20:00.000000,INT
+3,Arcos,CENTRO EDUC CONCEICAO FERREIRA NUNES-CECON,Arcos - MG,Privada,Urbana,7,2026-08-18 19:20:00.000000,INT
+4,Arcos,EE DONA BERENICE DE MAGALHAES PINTO,Arcos - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+5,Arcos,ESCOLA NOSSA SENHORA DO CARMO,Arcos - MG,Privada,Urbana,4,2026-08-18 19:20:00.000000,INT
+6,Arcos,EE DONA MARICOTA PINTO,Arcos - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,INT
+7,Arcos,INPA INSTITUTO PEDAGOGICO ARCOENSE,Arcos - MG,Privada,Urbana,3,2026-08-18 19:20:00.000000,INT
+8,Arcos,INSTITUTO EDUCACIONAL MARIA APARECIDA RIBEIRO,Arcos - MG,Privada,Urbana,3,2026-08-18 19:20:00.000000,INT
+9,Arcos,COLEGIO LOSANGO DE ARCOS,Arcos - MG,Privada,Urbana,3,2026-08-18 19:20:00.000000,INT
+10,Arcos,CESEC MONSENHOR GERALDO M VASCONCELOS,Arcos - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,INT
+11,Arcos,EE PAULA CARVALHO,Iguatama - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+12,Arcos,ESC ALTINA MAGALHAES DA SILVA,Acrelândia - AC,Pública Municipal,Rural,1,2026-08-18 19:20:00.000000,INT
+13,Arcos,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+14,Arcos,EM LAURA ANDRADE,Arcos - MG,Pública Municipal,Rural,1,2026-08-18 19:20:00.000000,INT
+15,Arcos,EE JOSE GERALDO DE MELO,Arcos - MG,Pública Estadual,Rural,1,2026-08-18 19:20:00.000000,INT
+16,Arcos,EM MARIA EULALIA DE JESUS,Doresópolis - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,INT
+17,Arcos,EE PADRE PEDRO LAMBERTI,Japaraíba - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+18,Arcos,INSTITUTO SAGRADA FAMILIA,Natal - RN,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+1,Bambuí,EE JOAO BATISTA DE CARVALHO,Bambuí - MG,Pública Estadual,Urbana,32,2026-08-18 19:20:00.000000,INT
+2,Bambuí,EE PAULA CARVALHO,Iguatama - MG,Pública Estadual,Urbana,11,2026-08-18 19:20:00.000000,INT
+3,Bambuí,C EDUC EVOLUCAO,Bambuí - MG,Privada,Urbana,11,2026-08-18 19:20:00.000000,INT
+4,Bambuí,EM SEBASTIAO LEMOS TORRES,Medeiros - MG,Pública Municipal,Urbana,9,2026-08-18 19:20:00.000000,INT
+5,Bambuí,EE DOUTOR JOSE CORDEIRO DE CAMPOS,Campos Altos - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+6,Bambuí,EE PROFESSOR FRANCISCO ROCHA,Córrego Danta - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,INT
+7,Bambuí,EE CAPITAO ALEXANDRE DU,Luz - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,INT
+8,Bambuí,EM DE PAU FERRO,Bambuí - MG,Pública Municipal,Rural,3,2026-08-18 19:20:00.000000,INT
+9,Bambuí,EM DOM MANOEL NUNES COELHO,Luz - MG,Pública Municipal,Urbana,2,2026-08-18 19:20:00.000000,INT
+10,Bambuí,CIEP MUN PE MARIO GERLIN,Bambuí - MG,Pública Municipal,Rural,2,2026-08-18 19:20:00.000000,INT
+11,Bambuí,EE PADRE PEDRO LAMBERTI,Japaraíba - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,INT
+12,Bambuí,ESC COOP DE ENSINO DE BAMBUI,Bambuí - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,INT
+13,Bambuí,ESCOLA MUNICIPAL CEL SEBASTIAO FONTE BOA,Santa Rosa da Serra - MG,Pública Municipal,Rural,2,2026-08-18 19:20:00.000000,INT
+14,Bambuí,EE PROFESSOR JOSE VICENTE,Piumhi - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,INT
+15,Bambuí,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,2,2026-08-18 19:20:00.000000,INT
+16,Bambuí,ESCOLA PARTICULAR GAMA CENTRO EDUCACIONAL GARCIA MARQUES,São Gotardo - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+17,Bambuí,EE JOSE ALZAMORA,Bambuí - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+18,Bambuí,EE DR JACINTO CAMPOS,Pompéu - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+19,Bambuí,EE VASCO SANTOS,Araxá - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+20,Bambuí,ESCOLA MUNICIPAL BRAZILINO RODRIGUES DE SOUZA,Carlos Chagas - MG,Pública Municipal,Rural,1,2026-08-18 19:20:00.000000,INT
+21,Bambuí,EE JOAO GUIMARAES ROSA,Três Marias - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+22,Bambuí,ESCOLA MUNICIPAL DOM BOSCO,Belo Horizonte - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,INT
+23,Bambuí,EE DONA FRANCISCA DE OLIVEIRA,Pompéu - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+24,Bambuí,EE YOLANDA JOVINO VAZ,Arcos - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+25,Bambuí,ESCOLA DE REFERENCIA EM ENSINO MEDIO DJALMA MACEDO GOMES,Santa Filomena - PE,Pública Estadual,Rural,1,2026-08-18 19:20:00.000000,INT
+26,Bambuí,EE PROFESSOR JOAQUIM RODARTE,Formiga - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+27,Bambuí,EE CUSTODIO COSTA,Cláudio - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+28,Bambuí,COL MILITAR TIRADENTES,Brasília - DF,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+29,Bambuí,EE PAULO PINHEIRO DA SILVA,Caeté - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+30,Bambuí,EE ANTERO MAGALHAES DE AGUIAR,Santa Rosa da Serra - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+1,Betim,EM ISABEL NASCIMENTO DE MATTOS,Contagem - MG,Pública Municipal,Urbana,34,2026-08-18 19:20:00.000000,INT
+2,Betim,E M RAUL SARAIVA RIBEIRO,Betim - MG,Pública Municipal,Urbana,26,2026-08-18 19:20:00.000000,INT
+3,Betim,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,24,2026-08-18 19:20:00.000000,INT
+4,Betim,EM PROFESSORA MARIA MARTINS MARIINHA,Contagem - MG,Pública Municipal,Urbana,24,2026-08-18 19:20:00.000000,INT
+5,Betim,E M RITA MARIA DA SILVA - TIA RITINHA,Betim - MG,Pública Municipal,Urbana,24,2026-08-18 19:20:00.000000,INT
+6,Betim,COLEGIO NEUZA DUTRA,Betim - MG,Privada,Urbana,22,2026-08-18 19:20:00.000000,INT
+7,Betim,EM ELI HORTA COSTA,Contagem - MG,Pública Municipal,Urbana,21,2026-08-18 19:20:00.000000,INT
+8,Betim,E M MARIA CRISTINA,Betim - MG,Pública Municipal,Urbana,18,2026-08-18 19:20:00.000000,INT
+9,Betim,ESCOLA SESI ALVIMAR CARNEIRO DE REZENDE,Contagem - MG,Privada,Urbana,17,2026-08-18 19:20:00.000000,INT
+10,Betim,E M ANTONIO DASSIS MARTINS,Betim - MG,Pública Municipal,Urbana,17,2026-08-18 19:20:00.000000,INT
+11,Betim,CENTRO EDUCACIONAL TECNICO E DE ARTES PROFISSIONAIS - CETAP,Betim - MG,Pública Municipal,Urbana,15,2026-08-18 19:20:00.000000,INT
+12,Betim,INSTITUTO OLIVEIRA LARA,Betim - MG,Privada,Urbana,15,2026-08-18 19:20:00.000000,INT
+13,Betim,E M MARIA DA CONCEICAO BRITO,Betim - MG,Pública Municipal,Urbana,14,2026-08-18 19:20:00.000000,INT
+14,Betim,COLEGIO SANTA MARIA MINAS UNIDADE CONTAGEM,Contagem - MG,Privada,Urbana,14,2026-08-18 19:20:00.000000,INT
+15,Betim,EE ESTUDANTE LIVIA MARA DE CASTRO,Betim - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,INT
+16,Betim,E M MARGARIDA SOARES GUIMARAES,Betim - MG,Pública Municipal,Urbana,12,2026-08-18 19:20:00.000000,INT
+17,Betim,E M CLOVIS SALGADO,Betim - MG,Pública Municipal,Urbana,12,2026-08-18 19:20:00.000000,INT
+18,Betim,E M PROFESSOR KASSIO VINICIUS CASTRO GOMES,Betim - MG,Pública Municipal,Urbana,11,2026-08-18 19:20:00.000000,INT
+19,Betim,E M ANA CANDIDA DE JESUS,Betim - MG,Pública Municipal,Urbana,11,2026-08-18 19:20:00.000000,INT
+20,Betim,E M JOSEFINA MACEDO GONTIJO,Betim - MG,Pública Municipal,Urbana,11,2026-08-18 19:20:00.000000,INT
+21,Betim,E M ARISTIDES JOSE DA SILVA,Betim - MG,Pública Municipal,Urbana,10,2026-08-18 19:20:00.000000,INT
+22,Betim,ESCOLA SESI BETIM MARIA MADALENA NOGUEIRA,Betim - MG,Privada,Urbana,10,2026-08-18 19:20:00.000000,INT
+23,Betim,E M ABILIO GOMES DA COSTA,Betim - MG,Pública Municipal,Urbana,10,2026-08-18 19:20:00.000000,INT
+24,Betim,INSTITUTO EROS GUSTAVO,Contagem - MG,Privada,Urbana,9,2026-08-18 19:20:00.000000,INT
+25,Betim,E M ANTONIO TEREZA DOS SANTOS,Betim - MG,Pública Municipal,Urbana,9,2026-08-18 19:20:00.000000,INT
+26,Betim,EE CANDIDO PORTINARI,Betim - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,INT
+27,Betim,EM SOCRATES MARIANI BITTENCOURT,Contagem - MG,Pública Municipal,Urbana,9,2026-08-18 19:20:00.000000,INT
+28,Betim,E M PRESIDENTE RAUL SOARES,Betim - MG,Pública Municipal,Urbana,8,2026-08-18 19:20:00.000000,INT
+29,Betim,E M WALDEMAR DLUZ GONCALVES,Betim - MG,Pública Municipal,Urbana,8,2026-08-18 19:20:00.000000,INT
+30,Betim,COLEGIO SAO JUDAS TADEU,Contagem - MG,Privada,Urbana,8,2026-08-18 19:20:00.000000,INT
+1,Congonhas,EM FORTUNATA DE FREITAS JUNQUEIRA,Congonhas - MG,Pública Municipal,Urbana,34,2026-08-18 19:20:00.000000,INT
+2,Congonhas,ESCOLA MUNICIPAL JUDITH AUGUSTA FERREIRA,Congonhas - MG,Pública Municipal,Urbana,27,2026-08-18 19:20:00.000000,INT
+3,Congonhas,EM ZULEIKA HALFELD DE ALBUQUERQUE,Jeceaba - MG,Pública Municipal,Urbana,21,2026-08-18 19:20:00.000000,INT
+4,Congonhas,ESCOLA MUNICIPAL DOM JOAO MUNIZ,Congonhas - MG,Pública Municipal,Urbana,17,2026-08-18 19:20:00.000000,INT
+5,Congonhas,COLEGIO SAGRADO CORACAO DE JESUS,Congonhas - MG,Privada,Urbana,13,2026-08-18 19:20:00.000000,INT
+6,Congonhas,EM MICHAEL PEREIRA DE SOUZA,Congonhas - MG,Pública Municipal,Urbana,10,2026-08-18 19:20:00.000000,INT
+7,Congonhas,COL N SRA DA PIEDADE,Congonhas - MG,Privada,Urbana,10,2026-08-18 19:20:00.000000,INT
+8,Congonhas,ESCOLA MUNICIPAL JOSE MONTEIRO DE CASTRO,Congonhas - MG,Pública Municipal,Urbana,10,2026-08-18 19:20:00.000000,INT
+9,Congonhas,COLEGIO ARCEBISPO DOM OSCAR DE OLIVEIRA,Congonhas - MG,Privada,Urbana,10,2026-08-18 19:20:00.000000,INT
+10,Congonhas,EM AMELIA DANUNCIACAO PYRAMO,São Brás do Suaçuí - MG,Pública Municipal,Urbana,10,2026-08-18 19:20:00.000000,INT
+11,Congonhas,EE DOUTOR GAMA CERQUEIRA,Belo Vale - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,INT
+12,Congonhas,EE BARAO DE PARAOPEBA,Congonhas - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,INT
+13,Congonhas,EE RIBEIRO DE OLIVEIRA,Entre Rios de Minas - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,INT
+14,Congonhas,C EDUC TEC GAL EDMUNDO M S SILVA,Congonhas - MG,Privada,Urbana,7,2026-08-18 19:20:00.000000,INT
+15,Congonhas,EM JOAO NARCISO,Congonhas - MG,Pública Municipal,Urbana,7,2026-08-18 19:20:00.000000,INT
+16,Congonhas,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,6,2026-08-18 19:20:00.000000,INT
+17,Congonhas,ESCOLA MUNICIPAL DONA CAETANA PEREIRA TRINDADE,Congonhas - MG,Pública Municipal,Urbana,5,2026-08-18 19:20:00.000000,INT
+18,Congonhas,EE FELICIANO MENDES,Congonhas - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+19,Congonhas,ESCOLA MUNICIPAL PROFESSOR DORIOL BEATO,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,4,2026-08-18 19:20:00.000000,INT
+20,Congonhas,EE AUGUSTO JOSE VIEIRA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,INT
+21,Congonhas,EM SR ODORICO MARTINHO DA SILVA,Congonhas - MG,Pública Municipal,Urbana,2,2026-08-18 19:20:00.000000,INT
+22,Congonhas,EE QUEIROZ JUNIOR,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,INT
+23,Congonhas,EM ROSALIA ANDRADE DA GLORIA,Congonhas - MG,Pública Municipal,Urbana,2,2026-08-18 19:20:00.000000,INT
+24,Congonhas,COL POTENCIA,Conselheiro Lafaiete - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,INT
+25,Congonhas,EE LAMARTINE DE FREITAS,Congonhas - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,INT
+26,Congonhas,ESCOLA MUNICIPAL PROFESSORA NILCE MOREIRA,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,2,2026-08-18 19:20:00.000000,INT
+27,Congonhas,ESCOLA MUNICIPAL DOUTOR RUI PENA CAIC,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,INT
+28,Congonhas,COLEGIO BATISTA MINEIRO- UNIDADE OURO BRANCO,Ouro Branco - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+29,Congonhas,EE FLAVIO DOS SANTOS,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+30,Congonhas,COLEGIO NOSSA SENHORA DE NAZARE,Conselheiro Lafaiete - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+1,Conselheiro Lafaiete,ESCOLA MUNICIPAL PROFESSOR DORIOL BEATO,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,21,2026-08-18 19:20:00.000000,INT
+2,Conselheiro Lafaiete,ESCOLA MUNICIPAL NAPOLEAO REIS,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,19,2026-08-18 19:20:00.000000,INT
+3,Conselheiro Lafaiete,ESCOLA MUNICIPAL MERIDIONAL,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,12,2026-08-18 19:20:00.000000,INT
+4,Conselheiro Lafaiete,EE AUGUSTO JOSE VIEIRA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,12,2026-08-18 19:20:00.000000,INT
+5,Conselheiro Lafaiete,EE DOMINGOS BEBIANO,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,INT
+6,Conselheiro Lafaiete,ESCOLA MUNICIPAL PROFESSOR LUIZ CARLOS GOMES BEATO,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,9,2026-08-18 19:20:00.000000,INT
+7,Conselheiro Lafaiete,ESCOLA MUNICIPAL PROFESSORA NILCE MOREIRA,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,8,2026-08-18 19:20:00.000000,INT
+8,Conselheiro Lafaiete,EM DEPUTADO SEBASTIAO PATRUS DE SOUSA,Carandaí - MG,Pública Municipal,Urbana,8,2026-08-18 19:20:00.000000,INT
+9,Conselheiro Lafaiete,EE FRANCISCO DO CARMO,Carandaí - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,INT
+10,Conselheiro Lafaiete,EE GENERAL SYLVIO RAULINO DE OLIVEIRA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,INT
+11,Conselheiro Lafaiete,EE NARCISO DE QUEIROS,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,INT
+12,Conselheiro Lafaiete,EE LOPES FRANCO,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+13,Conselheiro Lafaiete,EE GUSTAVO AUGUSTO DA SILVA,Catas Altas da Noruega - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+14,Conselheiro Lafaiete,EE CORONEL CELSO RESENDE,Caranaíba - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+15,Conselheiro Lafaiete,COL POTENCIA,Conselheiro Lafaiete - MG,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+16,Conselheiro Lafaiete,EE LUIZ DE MELLO VIANNA SOBRINHO,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+17,Conselheiro Lafaiete,COL QUELUZ DE MINAS,Conselheiro Lafaiete - MG,Privada,Urbana,4,2026-08-18 19:20:00.000000,INT
+18,Conselheiro Lafaiete,COLEGIO NOSSA SENHORA DE NAZARE,Conselheiro Lafaiete - MG,Privada,Urbana,4,2026-08-18 19:20:00.000000,INT
+19,Conselheiro Lafaiete,COLEGIO PROFESSORA ELI MARQUES,Conselheiro Lafaiete - MG,Privada,Urbana,4,2026-08-18 19:20:00.000000,INT
+20,Conselheiro Lafaiete,EE MOACIR DE SOUZA DIAS,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,INT
+21,Conselheiro Lafaiete,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,3,2026-08-18 19:20:00.000000,INT
+22,Conselheiro Lafaiete,EM MONS RAUL COUTINHO,Cristiano Otoni - MG,Pública Municipal,Urbana,3,2026-08-18 19:20:00.000000,INT
+23,Conselheiro Lafaiete,EE PROFESSOR ASTOR VIANNA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,INT
+24,Conselheiro Lafaiete,EE GERALDO BITTENCOURT,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,INT
+25,Conselheiro Lafaiete,INST EDUC LISBOA,Carandaí - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,INT
+26,Conselheiro Lafaiete,EM ZULEIKA HALFELD DE ALBUQUERQUE,Jeceaba - MG,Pública Municipal,Urbana,2,2026-08-18 19:20:00.000000,INT
+27,Conselheiro Lafaiete,ESCOLA MUNICIPAL VEREADOR JOSE ALEIXO DE MATOS,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,2,2026-08-18 19:20:00.000000,INT
+28,Conselheiro Lafaiete,EE SANTO AMARO,Queluzito - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,INT
+29,Conselheiro Lafaiete,EE PREFEITO GENTIL PEREIRA LIMA,Carandaí - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,INT
+30,Conselheiro Lafaiete,EE CONSELHEIRO ANTAO,Itaverava - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,INT
+1,Formiga,EE DR ABILIO MACHADO,Formiga - MG,Pública Estadual,Urbana,21,2026-08-18 19:20:00.000000,INT
+2,Formiga,EE PADRE JOSE VENANCIO,Pains - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,INT
+3,Formiga,EE JALCIRA SANTOS VALADAO,Formiga - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,INT
+4,Formiga,EM ARLINDO DE MELLO,Formiga - MG,Pública Municipal,Urbana,12,2026-08-18 19:20:00.000000,INT
+5,Formiga,EE PROFESSOR JOAQUIM RODARTE,Formiga - MG,Pública Estadual,Urbana,12,2026-08-18 19:20:00.000000,INT
+6,Formiga,EM RAFAEL JOSE ALVES,Córrego Fundo - MG,Pública Municipal,Urbana,8,2026-08-18 19:20:00.000000,INT
+7,Formiga,EE AURELIANO RODRIGUES NUNES,Formiga - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+8,Formiga,EE RODOLFO ALMEIDA,Formiga - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+9,Formiga,COLEGIO LOSANGO DE FORMIGA,Formiga - MG,Privada,Urbana,3,2026-08-18 19:20:00.000000,INT
+10,Formiga,COLEGIO UNIFOR,Formiga - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,INT
+11,Formiga,EE PADRE JOSE SANGALI,Córrego Fundo - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,INT
+12,Formiga,EM MIRALDA DA SILVA CARVALHO,Formiga - MG,Pública Municipal,Urbana,2,2026-08-18 19:20:00.000000,INT
+13,Formiga,EM JOSE JOAO DE MELO,Formiga - MG,Pública Municipal,Rural,2,2026-08-18 19:20:00.000000,INT
+14,Formiga,COL STA TERESINHA,Formiga - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+15,Formiga,COLEGIO ROBERTO CARNEIRO,Divinópolis - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+16,Formiga,ESCOLA NOSSA SENHORA DO CARMO,Arcos - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+17,Formiga,EM CENTRO DE ATENCAO INTEGRAL A CRIANCA - CAIC,Formiga - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,INT
+18,Formiga,EE PROFESSOR FRANCISCO ROCHA,Córrego Danta - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+19,Formiga,INSTITUTO EDUCACIONAL CONVIVER,Barra da Estiva - BA,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+20,Formiga,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+21,Formiga,COLEGIO LOSANGO DE FORMIGA-UNIDADE II,Formiga - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+22,Formiga,INSTITUTO EDUCACIONAL AQUARELA,Campo Belo - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+23,Formiga,EM JOSE ANTONIO DO COUTO,Formiga - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,INT
+1,Governador Valadares,COL IBITURUNA,Governador Valadares - MG,Privada,Urbana,19,2026-08-18 19:20:00.000000,INT
+2,Governador Valadares,EE PROFESSORA ONDINA PINTO DE ALMEIDA,Engenheiro Caldas - MG,Pública Estadual,Urbana,15,2026-08-18 19:20:00.000000,INT
+3,Governador Valadares,EE FREI INOCENCIO,Frei Inocêncio - MG,Pública Estadual,Urbana,14,2026-08-18 19:20:00.000000,INT
+4,Governador Valadares,EE SAO JOSE,Governador Valadares - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,INT
+5,Governador Valadares,CENTRO EDUCACIONAL ADVENTISTA DR OTTO KEPPKE,Governador Valadares - MG,Privada,Urbana,12,2026-08-18 19:20:00.000000,INT
+6,Governador Valadares,NUCLEO EDUCACIONAL ROSELY ROCHA,Governador Valadares - MG,Privada,Urbana,11,2026-08-18 19:20:00.000000,INT
+7,Governador Valadares,EE DIOCESANO,Governador Valadares - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,INT
+8,Governador Valadares,COLEGIO NOSSA SENHORA DE LOURDES,Governador Valadares - MG,Privada,Urbana,10,2026-08-18 19:20:00.000000,INT
+9,Governador Valadares,EM PROFA ANA MORAIS PESSAMILIO,Mathias Lobato - MG,Pública Municipal,Urbana,10,2026-08-18 19:20:00.000000,INT
+10,Governador Valadares,COLEGIO FRANCISCANO IMACULADA CONCEICAO,Governador Valadares - MG,Privada,Urbana,10,2026-08-18 19:20:00.000000,INT
+11,Governador Valadares,EE NACLE MIGUEL HABIB,Governador Valadares - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,INT
+12,Governador Valadares,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,9,2026-08-18 19:20:00.000000,INT
+13,Governador Valadares,COLEGIO TIRADENTES PMMG,Governador Valadares - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,INT
+14,Governador Valadares,EE PROFESSOR PAULO FREIRE,Governador Valadares - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,INT
+15,Governador Valadares,ESCOLA NOVO SABER,Governador Valadares - MG,Privada,Urbana,6,2026-08-18 19:20:00.000000,INT
+16,Governador Valadares,COLEGIO BARROS OLIVEIRA,Governador Valadares - MG,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+17,Governador Valadares,ESCOLA SESI ABILIO RODRIGUES PATTO,Governador Valadares - MG,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+18,Governador Valadares,COLEGIO HERINGER,Governador Valadares - MG,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+19,Governador Valadares,EE SINVAL RODRIGUES COELHO,Governador Valadares - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+20,Governador Valadares,EE CORONEL ANTONIO LOPES,Jampruca - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+21,Governador Valadares,EE PREFEITO JOAQUIM PEDRO NASCIMENTO,Governador Valadares - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+22,Governador Valadares,EE PROFESSORA MARIA DAMAZIO DE BARROS MENEZES,Governador Valadares - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+23,Governador Valadares,EE LABOR CLUB,Governador Valadares - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+24,Governador Valadares,EE GERALDA PEREIRA DE ALMEIDA,Sardoá - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+25,Governador Valadares,EE ISRAEL PINHEIRO,Governador Valadares - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+26,Governador Valadares,EE ENGENHEIRO AMARO FERREIRA,Tarumirim - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+27,Governador Valadares,COLEGIO GENOMA I,Governador Valadares - MG,Privada,Urbana,3,2026-08-18 19:20:00.000000,INT
+28,Governador Valadares,EE PROFESSOR NELSON DE SENA,Governador Valadares - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,INT
+29,Governador Valadares,ESCOLA MUNICIPAL VEREADOR HAMILTON TEODORO,Governador Valadares - MG,Pública Municipal,Urbana,3,2026-08-18 19:20:00.000000,INT
+30,Governador Valadares,EE QUINTINO BOCAIUVA,Governador Valadares - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,INT
+1,Ibirité,ESCOLA MUNICIPAL VINICIUS DE MORAES,Belo Horizonte - MG,Pública Municipal,Urbana,25,2026-08-18 19:20:00.000000,INT
+2,Ibirité,ESCOLA SESI HAMLETO MAGNAVACCA,Belo Horizonte - MG,Privada,Urbana,25,2026-08-18 19:20:00.000000,INT
+3,Ibirité,ESCOLA MUNICIPAL JONAS BARCELLOS CORREA,Belo Horizonte - MG,Pública Municipal,Urbana,24,2026-08-18 19:20:00.000000,INT
+4,Ibirité,E M DO BAIRRO MORADA DA SERRA,Ibirité - MG,Pública Municipal,Urbana,20,2026-08-18 19:20:00.000000,INT
+5,Ibirité,E M DE BARREIRINHO,Ibirité - MG,Pública Municipal,Urbana,18,2026-08-18 19:20:00.000000,INT
+6,Ibirité,ESCOLA MUNICIPAL PEDRO ALEIXO,Belo Horizonte - MG,Pública Municipal,Urbana,17,2026-08-18 19:20:00.000000,INT
+7,Ibirité,ESCOLA MUNICIPAL PROFESSOR HILTON ROCHA,Belo Horizonte - MG,Pública Municipal,Urbana,16,2026-08-18 19:20:00.000000,INT
+8,Ibirité,ESCOLA MUNICIPAL CONEGO SEQUEIRA,Belo Horizonte - MG,Pública Municipal,Urbana,14,2026-08-18 19:20:00.000000,INT
+9,Ibirité,COLEGIO CRESCER BUSCAR E MULTIPLICAR,Ibirité - MG,Privada,Urbana,11,2026-08-18 19:20:00.000000,INT
+10,Ibirité,EE PROFESSORA NILZA GOMES BERGMAN,Sarzedo - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,INT
+11,Ibirité,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,10,2026-08-18 19:20:00.000000,INT
+12,Ibirité,ESCOLA MUNICIPAL PETRINA DE FREITAS CAMPOS,Ibirité - MG,Pública Municipal,Urbana,10,2026-08-18 19:20:00.000000,INT
+13,Ibirité,ESCOLA SESI GENERAL ONESIMO BECKER DE ARAUJO,Belo Horizonte - MG,Privada,Urbana,9,2026-08-18 19:20:00.000000,INT
+14,Ibirité,COLEGIO CLOTILDE LEITE,Belo Horizonte - MG,Privada,Urbana,8,2026-08-18 19:20:00.000000,INT
+15,Ibirité,EE ANTONIO PINHEIRO DINIZ,Ibirité - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,INT
+16,Ibirité,E M MARIA DAS MERCES AGUIAR,Ibirité - MG,Pública Municipal,Urbana,8,2026-08-18 19:20:00.000000,INT
+17,Ibirité,E M DO BAIRRO JARDIM MONTREAL OURO NEGRO,Ibirité - MG,Pública Municipal,Urbana,8,2026-08-18 19:20:00.000000,INT
+18,Ibirité,E M MARIA JOSE CAMPOS DIAS,Ibirité - MG,Pública Municipal,Urbana,8,2026-08-18 19:20:00.000000,INT
+19,Ibirité,ESCOLA SESI ALVIMAR CARNEIRO DE REZENDE,Contagem - MG,Privada,Urbana,7,2026-08-18 19:20:00.000000,INT
+20,Ibirité,EM MACHADO DE ASSIS,Contagem - MG,Pública Municipal,Urbana,6,2026-08-18 19:20:00.000000,INT
+21,Ibirité,ESCOLA MUNICIPAL AURELIO BUARQUE DE HOLANDA,Belo Horizonte - MG,Pública Municipal,Urbana,6,2026-08-18 19:20:00.000000,INT
+22,Ibirité,E M VALERIO FERREIRA PALHARES,Betim - MG,Pública Municipal,Urbana,6,2026-08-18 19:20:00.000000,INT
+23,Ibirité,E M DO BAIRRO PALMEIRAS,Ibirité - MG,Pública Municipal,Urbana,6,2026-08-18 19:20:00.000000,INT
+24,Ibirité,EE NO PARQUE ELIZABETH,Ibirité - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+25,Ibirité,COLEGIO LOS ANGELOS - IPLAS,Belo Horizonte - MG,Privada,Urbana,6,2026-08-18 19:20:00.000000,INT
+26,Ibirité,ESCOLA MUNICIPAL LUIZ GATTI,Belo Horizonte - MG,Pública Municipal,Urbana,5,2026-08-18 19:20:00.000000,INT
+27,Ibirité,ESCOLA SESI BENJAMIN GUIMARAES,Contagem - MG,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+28,Ibirité,E M PROFESSORA CARMELITA CARVALHO GARCIA,Ibirité - MG,Pública Municipal,Urbana,5,2026-08-18 19:20:00.000000,INT
+29,Ibirité,EE MARGARIDA BROCHADO,Belo Horizonte - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+30,Ibirité,ESCOLA SANDOVAL SOARES DE AZEVEDO - ESSA,Ibirité - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+1,Ipatinga,ESCOLA MUNICIPAL PROFESSORA MARIA DA CONCEICAO PENA ROCHA,Ipatinga - MG,Pública Municipal,Urbana,21,2026-08-18 19:20:00.000000,INT
+2,Ipatinga,ESCOLA MUNICIPAL CARLOS DRUMMOND DE ANDRADE,Ipatinga - MG,Pública Municipal,Urbana,14,2026-08-18 19:20:00.000000,INT
+3,Ipatinga,EE ALMIRANTE TOYODA,Ipatinga - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,INT
+4,Ipatinga,COLEGIO CATOLICA PADRE DE MAN,Coronel Fabriciano - MG,Privada,Urbana,12,2026-08-18 19:20:00.000000,INT
+5,Ipatinga,ESCOLA MUNICIPAL ARTUR BERNARDES,Ipatinga - MG,Pública Municipal,Urbana,12,2026-08-18 19:20:00.000000,INT
+6,Ipatinga,ESCOLA MUNICIPAL PADRE BERTOLLO,Ipatinga - MG,Pública Municipal,Urbana,11,2026-08-18 19:20:00.000000,INT
+7,Ipatinga,ESCOLA MUNICIPAL ZELIA DUARTE PASSOS,Ipatinga - MG,Pública Municipal,Urbana,11,2026-08-18 19:20:00.000000,INT
+8,Ipatinga,EE PADRE JOSE MARIA DE MAN,Coronel Fabriciano - MG,Pública Estadual,Urbana,11,2026-08-18 19:20:00.000000,INT
+9,Ipatinga,EE JOAO WALMICK,Ipatinga - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,INT
+10,Ipatinga,EE ENGENHEIRO MARCIO AGUIAR DA CUNHA,Ipatinga - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,INT
+11,Ipatinga,ESCOLA MUNICIPAL LEVINDO MARIANO,Ipatinga - MG,Pública Municipal,Urbana,9,2026-08-18 19:20:00.000000,INT
+12,Ipatinga,EE DOUTOR OVIDIO DE ANDRADE,Ipatinga - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,INT
+13,Ipatinga,ESCOLA MUNICIPAL PADRE CICERO DE CASTRO,Ipatinga - MG,Pública Municipal,Urbana,9,2026-08-18 19:20:00.000000,INT
+14,Ipatinga,ESCOLA MUNICIPAL CHIRLENE CRISTINA PEREIRA,Ipatinga - MG,Pública Municipal,Urbana,8,2026-08-18 19:20:00.000000,INT
+15,Ipatinga,ESCOLA MUNICIPAL VILMA DE FARIA SILVA,Ipatinga - MG,Pública Municipal,Urbana,8,2026-08-18 19:20:00.000000,INT
+16,Ipatinga,EE HERBERT JOSE DE SOUZA BETINHO,Santana do Paraíso - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,INT
+17,Ipatinga,ESCOLA SESI SANTA RITA DE CASSIA,Ipatinga - MG,Privada,Urbana,8,2026-08-18 19:20:00.000000,INT
+18,Ipatinga,ESCOLA MUNICIPAL ALTINA OLIVIA GONCALVES,Ipatinga - MG,Pública Municipal,Urbana,7,2026-08-18 19:20:00.000000,INT
+19,Ipatinga,EE JOAO XXIII,Ipatinga - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+20,Ipatinga,ESCOLA MUNICIPAL MARCIO ANDRADE GUERRA,Ipatinga - MG,Pública Municipal,Urbana,6,2026-08-18 19:20:00.000000,INT
+21,Ipatinga,COLEGIO SAO FRANCISCO XAVIER - CARIRU,Ipatinga - MG,Privada,Urbana,6,2026-08-18 19:20:00.000000,INT
+22,Ipatinga,ESCOLA MUNICIPAL DEOLINDA TAVARES LAMEGO,Ipatinga - MG,Pública Municipal,Urbana,6,2026-08-18 19:20:00.000000,INT
+23,Ipatinga,ESCOLA MUNICIPAL FRANCISCO GONCALVES DE BRITTO,Belo Oriente - MG,Pública Municipal,Urbana,5,2026-08-18 19:20:00.000000,INT
+24,Ipatinga,ESCOLA MUNICIPAL NELCINA ROSA DE JESUS,Ipatinga - MG,Pública Municipal,Urbana,5,2026-08-18 19:20:00.000000,INT
+25,Ipatinga,EE SONIA MARIA SILVA GOMES,Ipatinga - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+26,Ipatinga,EE DOM HELVECIO,Ipatinga - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+27,Ipatinga,NUCLEO PEDAG SEMENTINHA MAGICA,Ipatinga - MG,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+28,Ipatinga,COLEGIO ADVENTISTA DE IPATINGA,Ipatinga - MG,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+29,Ipatinga,ESCOLA CRIAR E APRENDER,Ipatinga - MG,Privada,Urbana,4,2026-08-18 19:20:00.000000,INT
+30,Ipatinga,COLEGIO CATOLICA DE TIMOTEO,Timóteo - MG,Privada,Urbana,4,2026-08-18 19:20:00.000000,INT
+1,Itabirito,ESCOLA MUNICIPAL MANOEL SALVADOR DE OLIVEIRA,Itabirito - MG,Pública Municipal,Urbana,40,2026-08-18 19:20:00.000000,INT
+2,Itabirito,ESCOLA MUNICIPAL JOSE FERREIRA BASTOS,Itabirito - MG,Pública Municipal,Urbana,34,2026-08-18 19:20:00.000000,INT
+3,Itabirito,ESCOLA MUNICIPAL ANA AMELIA QUEIROZ,Itabirito - MG,Pública Municipal,Urbana,17,2026-08-18 19:20:00.000000,INT
+4,Itabirito,EE PROFESSOR TIBURCIO,Itabirito - MG,Pública Estadual,Urbana,16,2026-08-18 19:20:00.000000,INT
+5,Itabirito,CEMI - PROF ALCIDES RODRIGUES PEREIRA,Itabirito - MG,Pública Municipal,Urbana,14,2026-08-18 19:20:00.000000,INT
+6,Itabirito,EE DOUTOR RAUL SOARES,Itabirito - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,INT
+7,Itabirito,ESCOLA EPHIGENIA DE OLIVEIRA BATISTA,Itabirito - MG,Privada,Urbana,9,2026-08-18 19:20:00.000000,INT
+8,Itabirito,INSTITUTO SANTO ANTONIO DE PADUA,Itabirito - MG,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+9,Itabirito,EE ENGENHEIRO QUEIROZ JUNIOR,Itabirito - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+10,Itabirito,EE HENRIQUE MICHEL,Itabirito - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+11,Itabirito,ESCOLA PROFESSOR JAYME DE SOUZA MARTINS - UNIDADE II,Itabirito - MG,Privada,Urbana,3,2026-08-18 19:20:00.000000,INT
+12,Itabirito,EE INTENDENTE CAMARA,Itabirito - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,INT
+13,Itabirito,COL CHROMOS BURITIS,Belo Horizonte - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+14,Itabirito,EM MAJOR RAIMUNDO FELICISSIMO,Ouro Preto - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,INT
+15,Itabirito,CENTRO DE EDUCACAO MUNICIPAL PADRE AVELAR,Mariana - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,INT
+16,Itabirito,EE LEVINDO COSTA CARVALHO,Ouro Branco - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+17,Itabirito,CENTRO EDUCACIONAL OURO PRETO,Ouro Preto - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+18,Itabirito,IFMG - CAMPUS AVANCADO ITABIRITO,Itabirito - MG,Pública Federal,Urbana,1,2026-08-18 19:20:00.000000,INT
+19,Itabirito,EE MARIA JOSEFINA SALES WARDI,Nova Lima - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+1,Ouro Branco,COLEGIO MUNICIPAL JOAO XXIII,Ouro Branco - MG,Pública Municipal,Urbana,29,2026-08-18 19:20:00.000000,INT
+2,Ouro Branco,ESCOLA MUNICIPAL PROFESSOR DORIOL BEATO,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,27,2026-08-18 19:20:00.000000,INT
+3,Ouro Branco,ESCOLA MUNICIPAL LIVRE MENTE,Ouro Branco - MG,Pública Municipal,Urbana,25,2026-08-18 19:20:00.000000,INT
+4,Ouro Branco,EE LEVINDO COSTA CARVALHO,Ouro Branco - MG,Pública Estadual,Urbana,24,2026-08-18 19:20:00.000000,INT
+5,Ouro Branco,COLEGIO ARQUIDIOCESANO DE OURO BRANCO,Ouro Branco - MG,Privada,Urbana,19,2026-08-18 19:20:00.000000,INT
+6,Ouro Branco,EE CONEGO LUIZ VIEIRA DA SILVA,Ouro Branco - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,INT
+7,Ouro Branco,COLEGIO BATISTA MINEIRO- UNIDADE OURO BRANCO,Ouro Branco - MG,Privada,Urbana,12,2026-08-18 19:20:00.000000,INT
+8,Ouro Branco,COLEGIO MUN PIO XII,Ouro Branco - MG,Pública Municipal,Urbana,11,2026-08-18 19:20:00.000000,INT
+9,Ouro Branco,COLEGIO NOSSA SENHORA DE NAZARE,Conselheiro Lafaiete - MG,Privada,Urbana,10,2026-08-18 19:20:00.000000,INT
+10,Ouro Branco,ESCOLA MUNICIPAL MERIDIONAL,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,8,2026-08-18 19:20:00.000000,INT
+11,Ouro Branco,ESCOLA MUNICIPAL NAPOLEAO REIS,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,7,2026-08-18 19:20:00.000000,INT
+12,Ouro Branco,EM ZULEIKA HALFELD DE ALBUQUERQUE,Jeceaba - MG,Pública Municipal,Urbana,7,2026-08-18 19:20:00.000000,INT
+13,Ouro Branco,EM OSWALDO CRUZ,Ouro Branco - MG,Pública Municipal,Rural,6,2026-08-18 19:20:00.000000,INT
+14,Ouro Branco,EE PROFESSOR ASTOR VIANNA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+15,Ouro Branco,INSTITUTO EDUCACIONAL MARGARIDA REZENDE,Conselheiro Lafaiete - MG,Privada,Urbana,4,2026-08-18 19:20:00.000000,INT
+16,Ouro Branco,COL POTENCIA,Conselheiro Lafaiete - MG,Privada,Urbana,4,2026-08-18 19:20:00.000000,INT
+17,Ouro Branco,COLEGIO MONTEIRO LOBATO,Conselheiro Lafaiete - MG,Privada,Urbana,4,2026-08-18 19:20:00.000000,INT
+18,Ouro Branco,COLEGIO EDUCAR,Conselheiro Lafaiete - MG,Privada,Urbana,3,2026-08-18 19:20:00.000000,INT
+19,Ouro Branco,EE CORONEL JOSE ILDEFONSO,Piranga - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,INT
+20,Ouro Branco,EE CORONEL CELSO RESENDE,Caranaíba - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,INT
+21,Ouro Branco,EE RIBEIRO DE OLIVEIRA,Entre Rios de Minas - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,INT
+22,Ouro Branco,ESCOLA MUNICIPAL PROFESSORA NILCE MOREIRA,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,2,2026-08-18 19:20:00.000000,INT
+23,Ouro Branco,EE PROFESSORA NOEMI NOGUEIRA,Itaverava - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,INT
+24,Ouro Branco,EE GENERAL SYLVIO RAULINO DE OLIVEIRA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,INT
+25,Ouro Branco,EE JOAO XXIII,Ipatinga - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+26,Ouro Branco,EE LOPES FRANCO,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+27,Ouro Branco,ESCOLA MUNICIPAL PROFESSOR LUIZ CARLOS GOMES BEATO,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,INT
+28,Ouro Branco,EE IRACEMA DE ALMEIDA,Ouro Branco - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,INT
+29,Ouro Branco,COL N SRA DA PIEDADE,Congonhas - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+30,Ouro Branco,CENTRO DE EDUCACAO MARIA NILZA AZEVEDO SILVA,Brumado - BA,Privada,Urbana,1,2026-08-18 19:20:00.000000,INT
+1,Ouro Preto,EE PROFESSOR SOARES FERREIRA,Mariana - MG,Pública Estadual,Urbana,35,2026-08-18 19:20:00.000000,INT
+2,Ouro Preto,EM TOMAS ANTONIO GONZAGA,Ouro Preto - MG,Pública Municipal,Urbana,35,2026-08-18 19:20:00.000000,INT
+3,Ouro Preto,EE PADRE AFONSO DE LEMOS,Ouro Preto - MG,Pública Estadual,Urbana,23,2026-08-18 19:20:00.000000,INT
+4,Ouro Preto,EE DOM VELLOSO,Ouro Preto - MG,Pública Estadual,Urbana,20,2026-08-18 19:20:00.000000,INT
+5,Ouro Preto,ESCOLA MUNICIPAL MANOEL SALVADOR DE OLIVEIRA,Itabirito - MG,Pública Municipal,Urbana,19,2026-08-18 19:20:00.000000,INT
+6,Ouro Preto,EE MARILIA DE DIRCEU,Ouro Preto - MG,Pública Estadual,Urbana,19,2026-08-18 19:20:00.000000,INT
+7,Ouro Preto,COLEGIO ARQUIDIOCESANO DE OURO PRETO,Ouro Preto - MG,Privada,Urbana,17,2026-08-18 19:20:00.000000,INT
+8,Ouro Preto,CENTRO DE EDUCACAO MUNICIPAL PADRE AVELAR,Mariana - MG,Pública Municipal,Urbana,16,2026-08-18 19:20:00.000000,INT
+9,Ouro Preto,EM MAJOR RAIMUNDO FELICISSIMO,Ouro Preto - MG,Pública Municipal,Urbana,14,2026-08-18 19:20:00.000000,INT
+10,Ouro Preto,EM DOM LUCIANO PEDRO MENDES DE ALMEIDA,Mariana - MG,Pública Municipal,Urbana,13,2026-08-18 19:20:00.000000,INT
+11,Ouro Preto,ESCOLA MUNICIPAL JOSE FERREIRA BASTOS,Itabirito - MG,Pública Municipal,Urbana,12,2026-08-18 19:20:00.000000,INT
+12,Ouro Preto,COLEGIO DOM VICOSO,Mariana - MG,Privada,Urbana,11,2026-08-18 19:20:00.000000,INT
+13,Ouro Preto,EM PROFA HAYDEE ANTUNES,Ouro Preto - MG,Pública Municipal,Urbana,10,2026-08-18 19:20:00.000000,INT
+14,Ouro Preto,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,10,2026-08-18 19:20:00.000000,INT
+15,Ouro Preto,COL SINAPSE,Ouro Preto - MG,Privada,Urbana,9,2026-08-18 19:20:00.000000,INT
+16,Ouro Preto,ESCOLA PROFESSOR JAYME DE SOUZA MARTINS - UNIDADE II,Itabirito - MG,Privada,Urbana,9,2026-08-18 19:20:00.000000,INT
+17,Ouro Preto,ESCOLA MUNICIPAL ANA AMELIA QUEIROZ,Itabirito - MG,Pública Municipal,Urbana,9,2026-08-18 19:20:00.000000,INT
+18,Ouro Preto,INSTITUTO SANTO ANTONIO DE PADUA,Itabirito - MG,Privada,Urbana,9,2026-08-18 19:20:00.000000,INT
+19,Ouro Preto,ESCOLA TEIXEIRA DIAS,Mariana - MG,Privada,Urbana,8,2026-08-18 19:20:00.000000,INT
+20,Ouro Preto,EM BENEDITO XAVIER,Ouro Preto - MG,Pública Municipal,Urbana,8,2026-08-18 19:20:00.000000,INT
+21,Ouro Preto,EM DOM OSCAR DE OLIVEIRA,Mariana - MG,Pública Municipal,Urbana,8,2026-08-18 19:20:00.000000,INT
+22,Ouro Preto,EE ALZIRA AYRES PEREIRA,Catas Altas - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,INT
+23,Ouro Preto,ESCOLA MUNICIPAL DOUTOR ALVES DE BRITO,Ouro Preto - MG,Pública Municipal,Urbana,8,2026-08-18 19:20:00.000000,INT
+24,Ouro Preto,EE DOM PEDRO II,Ouro Preto - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,INT
+25,Ouro Preto,EM PROFA JUVENTINA DRUMMOND,Ouro Preto - MG,Pública Municipal,Urbana,7,2026-08-18 19:20:00.000000,INT
+26,Ouro Preto,EM ALEIJADINHO,Ouro Preto - MG,Pública Municipal,Urbana,7,2026-08-18 19:20:00.000000,INT
+27,Ouro Preto,COLEGIO PROVIDENCIA,Mariana - MG,Privada,Urbana,7,2026-08-18 19:20:00.000000,INT
+28,Ouro Preto,EM PADRE CARMELIO AUGUSTO TEIXEIRA,Ouro Preto - MG,Pública Municipal,Urbana,6,2026-08-18 19:20:00.000000,INT
+29,Ouro Preto,EE PADRE VIEGAS,Mariana - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+30,Ouro Preto,ADJETIVO - CETEP CENTRO TECNICO ENSINO PROFISSIONAL,Mariana - MG,Privada,Urbana,6,2026-08-18 19:20:00.000000,INT
+1,Piumhi,EE PADRE JOSE ESPINDOLA,Pimenta - MG,Pública Estadual,Urbana,16,2026-08-18 19:20:00.000000,INT
+2,Piumhi,EE PROFESSOR JOSE VICENTE,Piumhi - MG,Pública Estadual,Urbana,15,2026-08-18 19:20:00.000000,INT
+3,Piumhi,EE PROFESSOR FRANCISCO DE PAULA REBELO HORTA,Piumhi - MG,Pública Estadual,Urbana,11,2026-08-18 19:20:00.000000,INT
+4,Piumhi,COLEGIO PRESBITERIANO DE PIUMHI,Piumhi - MG,Privada,Urbana,10,2026-08-18 19:20:00.000000,INT
+5,Piumhi,EE CORONEL LOURENCO BELO,Capitólio - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,INT
+6,Piumhi,INSTITUTO PERFIL DE EDUCACAO,Piumhi - MG,Privada,Urbana,8,2026-08-18 19:20:00.000000,INT
+7,Piumhi,COL LOSANGO DE PIUMHI,Piumhi - MG,Privada,Urbana,7,2026-08-18 19:20:00.000000,INT
+8,Piumhi,EE PROFESSOR JOAO MENEZES,Piumhi - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+9,Piumhi,EM MARIA EULALIA DE JESUS,Doresópolis - MG,Pública Municipal,Urbana,3,2026-08-18 19:20:00.000000,INT
+1,Ponte Nova,ESCOLA MUNICIPAL JOSE MARIA DA FONSECA,Ponte Nova - MG,Pública Municipal,Urbana,81,2026-08-18 19:20:00.000000,INT
+2,Ponte Nova,INSTITUTO MONTESSORI,Ponte Nova - MG,Privada,Urbana,34,2026-08-18 19:20:00.000000,INT
+3,Ponte Nova,COLEGIO ATHENAS EQUIPE DE PONTE NOVA,Ponte Nova - MG,Privada,Urbana,20,2026-08-18 19:20:00.000000,INT
+4,Ponte Nova,EE PROFESSOR MANUEL RUFINO,Urucânia - MG,Pública Estadual,Urbana,19,2026-08-18 19:20:00.000000,INT
+5,Ponte Nova,ESC N SRA AUXILIADORA,Ponte Nova - MG,Privada,Urbana,17,2026-08-18 19:20:00.000000,INT
+6,Ponte Nova,EE ALFREDO DO CARMO,Amparo do Serra - MG,Pública Estadual,Urbana,15,2026-08-18 19:20:00.000000,INT
+7,Ponte Nova,EE PRESIDENTE TANCREDO NEVES,Dom Silvério - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,INT
+8,Ponte Nova,EE CAETANO MARINHO,Ponte Nova - MG,Pública Estadual,Urbana,12,2026-08-18 19:20:00.000000,INT
+9,Ponte Nova,EE CARLOS TRIVELLATO,Ponte Nova - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,INT
+10,Ponte Nova,EE PROFESSOR CANDIDO GOMES,Alvinópolis - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,INT
+11,Ponte Nova,EE PROFESSOR RAYMUNDO MARTINIANO FERREIRA,Ponte Nova - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,INT
+12,Ponte Nova,ESCOLA MUNICIPAL REINALDO ALVES COSTA,Ponte Nova - MG,Pública Municipal,Urbana,6,2026-08-18 19:20:00.000000,INT
+13,Ponte Nova,EM LUIZ MARTINS SOARES SOBRINHO,Ponte Nova - MG,Pública Municipal,Urbana,6,2026-08-18 19:20:00.000000,INT
+14,Ponte Nova,EM PE ALIPIO MARTINS PINHEIRO,Oratórios - MG,Pública Municipal,Urbana,6,2026-08-18 19:20:00.000000,INT
+15,Ponte Nova,EE PADRE BENEVENUTO,Jequeri - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+16,Ponte Nova,ESCOLA MUNICIPAL SENADOR CUPERTINO,Rio Casca - MG,Pública Municipal,Urbana,5,2026-08-18 19:20:00.000000,INT
+17,Ponte Nova,CENTRO EDUCACIONAL MACIEL AGUIAR PRIMEIRO - CEMAP - UNIDADE I,Ponte Nova - MG,Privada,Urbana,4,2026-08-18 19:20:00.000000,INT
+18,Ponte Nova,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,4,2026-08-18 19:20:00.000000,INT
+19,Ponte Nova,ESCOLA MUNICIPAL NOSSA SENHORA DO ROSARIO,Ponte Nova - MG,Pública Municipal,Urbana,4,2026-08-18 19:20:00.000000,INT
+20,Ponte Nova,EE PROFESSOR ANTONIO GONCALVES LANNA,Ponte Nova - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+21,Ponte Nova,EE DOUTOR OTAVIO SOARES,Santa Cruz do Escalvado - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+22,Ponte Nova,EE SENADOR ANTONIO MARTINS,Ponte Nova - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+23,Ponte Nova,EE CORONEL CANTIDIO DRUMOND,Ponte Nova - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+24,Ponte Nova,EE JOSE MATEUS DE VASCONCELOS,Guaraciaba - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,INT
+25,Ponte Nova,COLEGIO DARWIN DE RAUL SOARES,Raul Soares - MG,Privada,Urbana,3,2026-08-18 19:20:00.000000,INT
+26,Ponte Nova,EE BENEDITO VALADARES,Raul Soares - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,INT
+27,Ponte Nova,EE MARIA AMELIA,Rio Doce - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,INT
+28,Ponte Nova,ESCOLA MUNICIPAL PADRE RAFAEL FARACI,Ponte Nova - MG,Pública Municipal,Rural,3,2026-08-18 19:20:00.000000,INT
+29,Ponte Nova,EM CORONEL JOAO DOMINGOS,Raul Soares - MG,Pública Municipal,Urbana,3,2026-08-18 19:20:00.000000,INT
+30,Ponte Nova,EE TENENTE MOL,Jequeri - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,INT
+1,Ribeirão das Neves,EE JOAO CORREA ARMOND,Ribeirão das Neves - MG,Pública Estadual,Urbana,59,2026-08-18 19:20:00.000000,INT
+2,Ribeirão das Neves,EE HENRIQUE SAPORI,Ribeirão das Neves - MG,Pública Estadual,Urbana,30,2026-08-18 19:20:00.000000,INT
+3,Ribeirão das Neves,EM MARIA VIEIRA BARBOSA,Ribeirão das Neves - MG,Pública Municipal,Urbana,28,2026-08-18 19:20:00.000000,INT
+4,Ribeirão das Neves,EE DR REYNALDO MARTINS MARQUES,Ribeirão das Neves - MG,Pública Estadual,Urbana,23,2026-08-18 19:20:00.000000,INT
+5,Ribeirão das Neves,ESCOLA MUNICIPAL PROFESSOR MOACYR ANDRADE,Belo Horizonte - MG,Pública Municipal,Urbana,22,2026-08-18 19:20:00.000000,INT
+6,Ribeirão das Neves,EE ANTONIO RIGUEIRA DA FONSECA,Ribeirão das Neves - MG,Pública Estadual,Urbana,21,2026-08-18 19:20:00.000000,INT
+7,Ribeirão das Neves,EM MARIA DA CRUZ RESENDE,Ribeirão das Neves - MG,Pública Municipal,Urbana,20,2026-08-18 19:20:00.000000,INT
+8,Ribeirão das Neves,EE CIDADE DOS MENINOS,Ribeirão das Neves - MG,Pública Estadual,Urbana,18,2026-08-18 19:20:00.000000,INT
+9,Ribeirão das Neves,EE NOSSA SENHORA DA CONCEICAO,Ribeirão das Neves - MG,Pública Estadual,Urbana,16,2026-08-18 19:20:00.000000,INT
+10,Ribeirão das Neves,ESCOLA MUNICIPAL DEPUTADO RENATO AZEREDO,Belo Horizonte - MG,Pública Municipal,Urbana,16,2026-08-18 19:20:00.000000,INT
+11,Ribeirão das Neves,EE JOSE BONIFACIO NOGUEIRA,Ribeirão das Neves - MG,Pública Estadual,Urbana,16,2026-08-18 19:20:00.000000,INT
+12,Ribeirão das Neves,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,16,2026-08-18 19:20:00.000000,INT
+13,Ribeirão das Neves,EM INACIA DE CARVALHO,São José da Lapa - MG,Pública Municipal,Urbana,15,2026-08-18 19:20:00.000000,INT
+14,Ribeirão das Neves,ESCOLA MUNICIPAL MARIETA RODRIGUES SOARES,Esmeraldas - MG,Pública Municipal,Urbana,14,2026-08-18 19:20:00.000000,INT
+15,Ribeirão das Neves,INSTITUTO EDUCACIONAL DOM BOSCO,Ribeirão das Neves - MG,Privada,Urbana,14,2026-08-18 19:20:00.000000,INT
+16,Ribeirão das Neves,REDE DE ENSINO GENESIS,Ribeirão das Neves - MG,Privada,Urbana,13,2026-08-18 19:20:00.000000,INT
+17,Ribeirão das Neves,C EDUC MARTINHO LUTERO,Ribeirão das Neves - MG,Privada,Urbana,10,2026-08-18 19:20:00.000000,INT
+18,Ribeirão das Neves,ESCOLA MUNICIPAL ARMANDO ZILLER,Belo Horizonte - MG,Pública Municipal,Urbana,10,2026-08-18 19:20:00.000000,INT
+19,Ribeirão das Neves,EE PROFESSOR HELVECIO DAHE,Ribeirão das Neves - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,INT
+20,Ribeirão das Neves,EE MARIA PEREIRA DE ARAUJO,Ribeirão das Neves - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,INT
+21,Ribeirão das Neves,ESCOLA MUNICIPAL GERALDO TEIXEIRA DA COSTA,Belo Horizonte - MG,Pública Municipal,Urbana,7,2026-08-18 19:20:00.000000,INT
+22,Ribeirão das Neves,EE JOSE JOAQUIM LAGES,Ribeirão das Neves - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,INT
+23,Ribeirão das Neves,EE HENRIQUE DE SOUZA FILHO HENFIL,Ribeirão das Neves - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,INT
+24,Ribeirão das Neves,EE MARIA DA GLORIA ASSUNCAO,Ribeirão das Neves - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+25,Ribeirão das Neves,ESCOLA MARIA CLARA MACHADO,Ribeirão das Neves - MG,Privada,Urbana,6,2026-08-18 19:20:00.000000,INT
+26,Ribeirão das Neves,EM VER BENEDITO BATISTA,Contagem - MG,Pública Municipal,Urbana,5,2026-08-18 19:20:00.000000,INT
+27,Ribeirão das Neves,INSTITUTO EDUCACIONAL RIO BRANCO,Belo Horizonte - MG,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+28,Ribeirão das Neves,ESCOLA MUNICIPAL PADRE MARZANO MATIAS,Belo Horizonte - MG,Pública Municipal,Urbana,5,2026-08-18 19:20:00.000000,INT
+29,Ribeirão das Neves,COL CHROMOS VENDA NOVA,Belo Horizonte - MG,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+30,Ribeirão das Neves,EE JUSCELINO KUBITSCHEK DE OLIVEIRA,Belo Horizonte - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+1,Sabará,EE PAULA ROCHA,Sabará - MG,Pública Estadual,Urbana,50,2026-08-18 19:20:00.000000,INT
+2,Sabará,EE DONA BILU FIGUEIREDO,Sabará - MG,Pública Estadual,Urbana,22,2026-08-18 19:20:00.000000,INT
+3,Sabará,ESCOLA MUNICIPAL ADAO DE FATIMA PEREIRA,Sabará - MG,Pública Municipal,Urbana,21,2026-08-18 19:20:00.000000,INT
+4,Sabará,EE SEBASTIAO RIBEIRO DE BRITO,Caeté - MG,Pública Estadual,Urbana,19,2026-08-18 19:20:00.000000,INT
+5,Sabará,COLEGIO VILLA REAL,Sabará - MG,Privada,Urbana,18,2026-08-18 19:20:00.000000,INT
+6,Sabará,EE CHRISTIANO GUIMARAES,Sabará - MG,Pública Estadual,Urbana,16,2026-08-18 19:20:00.000000,INT
+7,Sabará,EE PROFESSORA ANGELICA MARIA DE ALMEIDA,Sabará - MG,Pública Estadual,Urbana,15,2026-08-18 19:20:00.000000,INT
+8,Sabará,EM PROFA ROSALINA ALVES NOGUEIRA,Sabará - MG,Pública Municipal,Urbana,14,2026-08-18 19:20:00.000000,INT
+9,Sabará,ESCOLA MUNICIPAL GABRIELA LEITE ARAUJO,Sabará - MG,Pública Municipal,Urbana,13,2026-08-18 19:20:00.000000,INT
+10,Sabará,ESCOLA MUNICIPAL ANIBAL MACHADO,Sabará - MG,Pública Municipal,Urbana,12,2026-08-18 19:20:00.000000,INT
+11,Sabará,EM PROFESSORA MARITA DIAS,Sabará - MG,Pública Municipal,Urbana,11,2026-08-18 19:20:00.000000,INT
+12,Sabará,COLEGIO AUGUSTUS,Sabará - MG,Privada,Urbana,11,2026-08-18 19:20:00.000000,INT
+13,Sabará,EE CORONEL ADELINO CASTELO BRANCO,Sabará - MG,Pública Estadual,Urbana,11,2026-08-18 19:20:00.000000,INT
+14,Sabará,EE BARAO DE MACAUBAS,Belo Horizonte - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,INT
+15,Sabará,ESCOLA SESI NEWTON ANTONIO DA SILVA PEREIRA,Belo Horizonte - MG,Privada,Urbana,8,2026-08-18 19:20:00.000000,INT
+16,Sabará,EE ELISIO CARVALHO DE BRITO,Sabará - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,INT
+17,Sabará,ESCOLA MUNICIPAL BERNARDINO AUGUSTO FERREIRA,Sabará - MG,Pública Municipal,Urbana,7,2026-08-18 19:20:00.000000,INT
+18,Sabará,EE JUQUINHA DE ALMEIDA,Sabará - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,INT
+19,Sabará,E M ORDALIA FERREIRA CAMPOS,Sabará - MG,Pública Municipal,Urbana,7,2026-08-18 19:20:00.000000,INT
+20,Sabará,COLEGIO ESPANHOL SANTA MARIA MINAS - UNIDADE CIDADE NOVA,Belo Horizonte - MG,Privada,Urbana,6,2026-08-18 19:20:00.000000,INT
+21,Sabará,EE PROFESSORA MARIA ELIZABETH VIANA,Sabará - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+22,Sabará,ESCOLA MUNICIPAL EDITH DE ASSIS COSTA,Sabará - MG,Pública Municipal,Urbana,6,2026-08-18 19:20:00.000000,INT
+23,Sabará,COLEGIO SANTA MARIA MINAS - UNIDADE FLORESTA,Belo Horizonte - MG,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+24,Sabará,EE PROFESSOR ZOROASTRO VIANNA PASSOS,Sabará - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+25,Sabará,ESCOLA MUNICIPAL PREFEITO SOUZA LIMA,Belo Horizonte - MG,Pública Municipal,Urbana,5,2026-08-18 19:20:00.000000,INT
+26,Sabará,ESCOLA MUNICIPAL ANISIO TEIXEIRA,Belo Horizonte - MG,Pública Municipal,Urbana,5,2026-08-18 19:20:00.000000,INT
+27,Sabará,EE PEDRO II,Belo Horizonte - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+28,Sabará,INST ED PSICOPED SENA FIGUEREDO,Caeté - MG,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+29,Sabará,ESCOLA MUNICIPAL JARDIM VITORIA,Belo Horizonte - MG,Pública Municipal,Urbana,5,2026-08-18 19:20:00.000000,INT
+30,Sabará,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+1,Santa Luzia,ESCOLA MUNICIPAL DONA QUITA,Santa Luzia - MG,Pública Municipal,Urbana,28,2026-08-18 19:20:00.000000,INT
+2,Santa Luzia,EE PRESIDENTE ITAMAR FRANCO,Santa Luzia - MG,Pública Estadual,Urbana,25,2026-08-18 19:20:00.000000,INT
+3,Santa Luzia,ESCOLA MUNICIPAL DR OSWALDO FERREIRA,Santa Luzia - MG,Pública Municipal,Urbana,19,2026-08-18 19:20:00.000000,INT
+4,Santa Luzia,ESCOLA MUNICIPAL MIGUEL RESENDE,Santa Luzia - MG,Pública Municipal,Urbana,19,2026-08-18 19:20:00.000000,INT
+5,Santa Luzia,EE FRANCISCO TIBURCIO DE OLIVEIRA,Santa Luzia - MG,Pública Estadual,Urbana,17,2026-08-18 19:20:00.000000,INT
+6,Santa Luzia,ESCOLA MUNICIPAL DULCE VIANA DE ASSIS MOREIRA,Santa Luzia - MG,Pública Municipal,Urbana,14,2026-08-18 19:20:00.000000,INT
+7,Santa Luzia,EE GERVASIO LARA,Santa Luzia - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,INT
+8,Santa Luzia,EE GERALDO TEIXEIRA DA COSTA,Santa Luzia - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,INT
+9,Santa Luzia,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,13,2026-08-18 19:20:00.000000,INT
+10,Santa Luzia,EE PROFESSOR DOMINGOS ORNELAS,Santa Luzia - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,INT
+11,Santa Luzia,EE PASCHOAL COMANDUCCI,Belo Horizonte - MG,Pública Estadual,Urbana,11,2026-08-18 19:20:00.000000,INT
+12,Santa Luzia,ESCOLA SESI JOAO CARLOS GIOVANNINI,Santa Luzia - MG,Privada,Urbana,10,2026-08-18 19:20:00.000000,INT
+13,Santa Luzia,COLEGIO SAO BENEDITO,Santa Luzia - MG,Privada,Urbana,10,2026-08-18 19:20:00.000000,INT
+14,Santa Luzia,INST EDUC LONDRINA,Santa Luzia - MG,Privada,Urbana,9,2026-08-18 19:20:00.000000,INT
+15,Santa Luzia,EE MURGY HIBRAIM SARAH,Santa Luzia - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,INT
+16,Santa Luzia,EE AFONSINO ALTIVO DINIZ,Santa Luzia - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,INT
+17,Santa Luzia,COLEGIO SAO BENEDITO- UNIDADE II,Santa Luzia - MG,Privada,Urbana,8,2026-08-18 19:20:00.000000,INT
+18,Santa Luzia,EE RAUL TEIXEIRA DA COSTA SOBRINHO,Santa Luzia - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,INT
+19,Santa Luzia,INSTITUTO EDUCACIONAL SANTA AMELIA,Santa Luzia - MG,Privada,Urbana,7,2026-08-18 19:20:00.000000,INT
+20,Santa Luzia,E M MARIA APARECIDA BARROS SANTOS,Vespasiano - MG,Pública Municipal,Urbana,6,2026-08-18 19:20:00.000000,INT
+21,Santa Luzia,EE TANCREDO DE ALMEIDA NEVES,Santa Luzia - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+22,Santa Luzia,ESCOLA MUNICIPAL LUISA ROSALIA DINIZ KENTISH,Santa Luzia - MG,Pública Municipal,Urbana,5,2026-08-18 19:20:00.000000,INT
+23,Santa Luzia,EE PROFESSOR ANTONIO JOSE RIBEIRO FILHO,Belo Horizonte - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+24,Santa Luzia,EE SAO JOAO DA ESCOCIA,Santa Luzia - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+25,Santa Luzia,ESCOLA SESI NEWTON ANTONIO DA SILVA PEREIRA,Belo Horizonte - MG,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+26,Santa Luzia,EE PADRE JOSE SENABRE,Vespasiano - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+27,Santa Luzia,E M CARLOS MOURA MURTA FILHO,Vespasiano - MG,Pública Municipal,Urbana,4,2026-08-18 19:20:00.000000,INT
+28,Santa Luzia,EE ALTAIR DE ALMEIDA VIANA,Santa Luzia - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+29,Santa Luzia,EE JOSE ELIAS ISSA,São José da Lapa - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,INT
+30,Santa Luzia,COLEGIO OURO MINAS LTDA,Belo Horizonte - MG,Privada,Urbana,3,2026-08-18 19:20:00.000000,INT
+1,São João Evangelista,EE MONSENHOR PINHEIRO,São João Evangelista - MG,Pública Estadual,Urbana,52,2026-08-18 19:20:00.000000,INT
+2,São João Evangelista,EE FAZENDA SAO SEBASTIAO,Guanhães - MG,Pública Estadual,Urbana,31,2026-08-18 19:20:00.000000,INT
+3,São João Evangelista,EE ALTIVO COELHO,Guanhães - MG,Pública Estadual,Urbana,27,2026-08-18 19:20:00.000000,INT
+4,São João Evangelista,EE PROFESSORA ALMERINDA AGUIAR,Coluna - MG,Pública Estadual,Urbana,17,2026-08-18 19:20:00.000000,INT
+5,São João Evangelista,EE JOAO PINHEIRO,São Pedro do Suaçuí - MG,Pública Estadual,Urbana,15,2026-08-18 19:20:00.000000,INT
+6,São João Evangelista,EE DEPUTADO SADY DA CUNHA,Peçanha - MG,Pública Estadual,Urbana,15,2026-08-18 19:20:00.000000,INT
+7,São João Evangelista,EE JOSEFINA PIMENTA,São João Evangelista - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,INT
+8,São João Evangelista,EE ODILON BEHRENS,Guanhães - MG,Pública Estadual,Urbana,12,2026-08-18 19:20:00.000000,INT
+9,São João Evangelista,EE PROFESSORA ESTER SIQUEIRA,Cantagalo - MG,Pública Estadual,Urbana,11,2026-08-18 19:20:00.000000,INT
+10,São João Evangelista,EE PADRE JOSE MARIA,Santa Maria do Suaçuí - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,INT
+11,São João Evangelista,EE JOHN KENNEDY,São José do Jacuri - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,INT
+12,São João Evangelista,EE PROFESSOR CARVALHAIS,Divinolândia de Minas - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,INT
+13,São João Evangelista,EE SENADOR FRANCISCO NUNES COELHO,Guanhães - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,INT
+14,São João Evangelista,EE JOSE GONCALVES DE SOUZA,Frei Lagonegro - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,INT
+15,São João Evangelista,EE PROFESSORA HEROINA TORRES,Coluna - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,INT
+16,São João Evangelista,EE IVETA GOMES SANTANA,Angelândia - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,INT
+17,São João Evangelista,INSTITUTO CONEXAO DE VIRGINOPOLIS,Virginópolis - MG,Privada,Urbana,8,2026-08-18 19:20:00.000000,INT
+18,São João Evangelista,EE ROSARINHA PIMENTINHA,Capelinha - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,INT
+19,São João Evangelista,EE HAUY PETRUCELI MAYRINK,Santa Maria do Suaçuí - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,INT
+20,São João Evangelista,EE PROFESSOR FRANCISCO DIAS,Virginópolis - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,INT
+21,São João Evangelista,EE NAGIB MAHMUD NEDIR,Setubinha - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+22,São João Evangelista,EE CORONEL JONAS CAMARA,Itamarandiba - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+23,São João Evangelista,INST EDUC BRAVIEIRA,Peçanha - MG,Privada,Urbana,6,2026-08-18 19:20:00.000000,INT
+24,São João Evangelista,EE NOSSA SENHORA DO PATROCINIO,Virginópolis - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+25,São João Evangelista,EE SAO SEBASTIAO DO MARANHAO,São Sebastião do Maranhão - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+26,São João Evangelista,EE CONEGO BENTO RIBEIRO,Dom Joaquim - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,INT
+27,São João Evangelista,EE SENADOR SIMAO DA CUNHA,Peçanha - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+28,São João Evangelista,EE PROFESSORA CIVA SIMOES FONSECA,Senhora do Porto - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+29,São João Evangelista,EE DOUTOR ANTONIO DA CUNHA PEREIRA,Peçanha - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,INT
+30,São João Evangelista,ESPACO EDUCACIONAL NOVO SER,Guanhães - MG,Privada,Urbana,5,2026-08-18 19:20:00.000000,INT
+1,Todas as unidades,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,26,2026-08-18 19:20:00.000000,SUB
+2,Todas as unidades,EE DOM PEDRO II,Ouro Preto - MG,Pública Estadual,Urbana,17,2026-08-18 19:20:00.000000,SUB
+3,Todas as unidades,EE LAMARTINE DE FREITAS,Congonhas - MG,Pública Estadual,Urbana,14,2026-08-18 19:20:00.000000,SUB
+4,Todas as unidades,EE PROFESSOR JOAO MENEZES,Piumhi - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,SUB
+5,Todas as unidades,EE NARCISO DE QUEIROS,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,SUB
+6,Todas as unidades,EE GERALDO TEIXEIRA DA COSTA,Santa Luzia - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,SUB
+7,Todas as unidades,EE MONSENHOR HORTA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,SUB
+8,Todas as unidades,EE PADRE JOSE ESPINDOLA,Pimenta - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,SUB
+9,Todas as unidades,CESEC PROFESSOR JOSE MARTINS SOBRINHO,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUB
+10,Todas as unidades,ESCOLA MUNICIPAL NAPOLEAO REIS,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,5,2026-08-18 19:20:00.000000,SUB
+11,Todas as unidades,EE PROFESSOR FRANCISCO DE PAULA REBELO HORTA,Piumhi - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUB
+12,Todas as unidades,EE DESEMBARGADOR HORACIO ANDRADE,Ouro Preto - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUB
+13,Todas as unidades,EE DOM SILVERIO,Mariana - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUB
+14,Todas as unidades,CESEC SEBASTIAO GONCALVES DA SILVA,Piumhi - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUB
+15,Todas as unidades,EE TANCREDO DE ALMEIDA NEVES,Santa Luzia - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUB
+16,Todas as unidades,EE LEONINA MOURTHE DE ARAUJO,Santa Luzia - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+17,Todas as unidades,EE ALZIRA AYRES PEREIRA,Catas Altas - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+18,Todas as unidades,EE ANTONIO RIGUEIRA DA FONSECA,Ribeirão das Neves - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+19,Todas as unidades,EE PROFESSOR ASTOR VIANNA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+20,Todas as unidades,EE FELICIANO MENDES,Congonhas - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+21,Todas as unidades,IFMG - CAMPUS AVANCADO PIUMHI,Piumhi - MG,Pública Federal,Urbana,3,2026-08-18 19:20:00.000000,SUB
+22,Todas as unidades,EE SAO JOAO DA ESCOCIA,Santa Luzia - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+23,Todas as unidades,EE JOSE LEANDRO,Ouro Preto - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+24,Todas as unidades,EE JOAO RAMOS FILHO,Mariana - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+25,Todas as unidades,IFMG - CAMPUS OURO PRETO,Ouro Preto - MG,Pública Federal,Urbana,3,2026-08-18 19:20:00.000000,SUB
+26,Todas as unidades,EE CHAVES RIBEIRO,Itaobim - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+27,Todas as unidades,EE PROFESSORA THEOLINDA DE SOUZA CARMO,Governador Valadares - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+28,Todas as unidades,EE PREFEITO JOAQUIM PEDRO NASCIMENTO,Governador Valadares - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+29,Todas as unidades,EE ENGENHEIRO QUEIROZ JUNIOR,Itabirito - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+30,Todas as unidades,EE JOAO XXIII,Ipatinga - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+1,Bambuí,ESCOLA MUNICIPAL CEL SEBASTIAO FONTE BOA,Santa Rosa da Serra - MG,Pública Municipal,Rural,1,2026-08-18 19:20:00.000000,SUB
+2,Bambuí,C E I PROFESSOR JOSE JERONIMO,Formiga - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,SUB
+3,Bambuí,ESC COOP DE ENSINO DE BAMBUI,Bambuí - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+4,Bambuí,SESI 208 CENTRO EDUCACIONAL,Leme - SP,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+5,Bambuí,E M PROFESSORA SALETE APARECIDA DE CASTRO SILVA,Oliveira - MG,Pública Municipal,Rural,1,2026-08-18 19:20:00.000000,SUB
+6,Bambuí,CESEC JOAO APOLINARIO DE OLIVEIRA,Bambuí - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+7,Bambuí,EE PADRE JOSE ESPINDOLA,Pimenta - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+8,Bambuí,EE DE CARAI,Caraí - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+9,Bambuí,EE DONA BERENICE DE MAGALHAES PINTO,Arcos - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+10,Bambuí,SESI 403 CENTRO EDUCACIONAL,Campinas - SP,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+11,Bambuí,COLEGIO LOSANGO DE FORMIGA,Formiga - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+12,Bambuí,EE JOSE ALZAMORA,Bambuí - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+13,Bambuí,EE PROFESSOR GETULIO JOSE SOARES,Perdões - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+14,Bambuí,EE PAULO DAS GRACAS DA SILVA,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+15,Bambuí,ESCOLA DE REFERENCIA EM ENSINO MEDIO DJALMA MACEDO GOMES,Santa Filomena - PE,Pública Estadual,Rural,1,2026-08-18 19:20:00.000000,SUB
+1,Congonhas,EE LAMARTINE DE FREITAS,Congonhas - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,SUB
+2,Congonhas,EE FELICIANO MENDES,Congonhas - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+3,Congonhas,EE PROFESSOR ZOROASTRO VIANNA PASSOS,Sabará - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+4,Congonhas,EE AMELIA SANTANA BARBOSA,Betim - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+5,Congonhas,JOSE LUIZ DE SIQUEIRA PROFESSOR,Barrinha - SP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+6,Congonhas,COL N SRA DA PIEDADE,Congonhas - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+7,Congonhas,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+8,Congonhas,EE PEDRO DOMINGUES,Entre Rios de Minas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+9,Congonhas,ESCOLA ESTADUAL DR EDSON DOS SANTOS BERNARDES,Maceió - AL,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+10,Congonhas,EE DESEMBARGADOR APRIGIO RIBEIRO DE OLIVEIRA,São Brás do Suaçuí - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+11,Congonhas,CARLOS GOMES C EEF M P,Ubiratã - PR,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+12,Congonhas,ESCOLA ESTADUAL DR ALMIR GABRIEL,Oriximiná - PA,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+1,Conselheiro Lafaiete,EE MONSENHOR HORTA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,SUB
+2,Conselheiro Lafaiete,EE NARCISO DE QUEIROS,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,SUB
+3,Conselheiro Lafaiete,CESEC PROFESSOR JOSE MARTINS SOBRINHO,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUB
+4,Conselheiro Lafaiete,ESCOLA MUNICIPAL NAPOLEAO REIS,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,5,2026-08-18 19:20:00.000000,SUB
+5,Conselheiro Lafaiete,EE LAMARTINE DE FREITAS,Congonhas - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+6,Conselheiro Lafaiete,EE PROFESSOR ASTOR VIANNA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+7,Conselheiro Lafaiete,EE QUINZINHO INACIO,Senhora de Oliveira - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+8,Conselheiro Lafaiete,EE RIBEIRO DE OLIVEIRA,Entre Rios de Minas - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+9,Conselheiro Lafaiete,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUB
+10,Conselheiro Lafaiete,EE AUGUSTO JOSE VIEIRA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+11,Conselheiro Lafaiete,CENTRO EDUCACIONAL APRENDIZ DE EDUCACAO INFANTIL ENSINO FUNDAMENTAL E ENSINO MEDIO,Barbacena - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUB
+12,Conselheiro Lafaiete,EE ISAURA FERREIRA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+13,Conselheiro Lafaiete,OZILDE ALBUQUERQUE PASSARELLA DR,Mairiporã - SP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+14,Conselheiro Lafaiete,COLEGIO TIRADENTES PMMG,Patos de Minas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+15,Conselheiro Lafaiete,EE ODILON BEHRENS,Guanhães - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+16,Conselheiro Lafaiete,EE GERALDO BITTENCOURT,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+17,Conselheiro Lafaiete,EE CONEGO LUIZ VIEIRA DA SILVA,Ouro Branco - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+18,Conselheiro Lafaiete,EE QUEIROZ JUNIOR,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+19,Conselheiro Lafaiete,EE HENRIQUE DINIZ,Barbacena - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+20,Conselheiro Lafaiete,CEJA CASA DO MARINHEIRO,Rio de Janeiro - RJ,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+21,Conselheiro Lafaiete,EE JOSE LEANDRO,Ouro Preto - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+22,Conselheiro Lafaiete,EE LUIZ DE MELLO VIANNA SOBRINHO,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+23,Conselheiro Lafaiete,EM DEPUTADO SEBASTIAO PATRUS DE SOUSA,Carandaí - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,SUB
+24,Conselheiro Lafaiete,EE CORONEL JOSE ILDEFONSO,Piranga - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+25,Conselheiro Lafaiete,EE JOAO FELIPE DA ROCHA,Nova Lima - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+26,Conselheiro Lafaiete,IFMG - CAMPUS AVANCADO CONSELHEIRO LAFAIETE,Conselheiro Lafaiete - MG,Pública Federal,Urbana,1,2026-08-18 19:20:00.000000,SUB
+27,Conselheiro Lafaiete,COLEGIO SAGRADO CORACAO DE JESUS,Congonhas - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+28,Conselheiro Lafaiete,EE CORACAO DE JESUS,Varginha - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+29,Conselheiro Lafaiete,EE IRACEMA DE ALMEIDA,Ouro Branco - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+30,Conselheiro Lafaiete,EE MONSENHOR ANTONIO JOSE FERREIRA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+1,Governador Valadares,EE PROFESSORA THEOLINDA DE SOUZA CARMO,Governador Valadares - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+2,Governador Valadares,EE LEVINDO VALADARES DA FONSECA,Galiléia - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+3,Governador Valadares,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUB
+4,Governador Valadares,EEEFM SAO DOMINGOS,São Domingos do Norte - ES,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+5,Governador Valadares,EE PEDRO RIBEIRO CAVALCANTE FILHO,Governador Valadares - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+6,Governador Valadares,EE MARCAL CIRIACO DA SILVA,Governador Valadares - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+7,Governador Valadares,CCA NOVE DE JULHO,São Paulo - SP,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+8,Governador Valadares,EE COMENDADOR NASCIMENTO NUNES LEAL,Resplendor - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+9,Governador Valadares,EE FREI JORGE,São Félix de Minas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+10,Governador Valadares,EE ALEXANDRE PEIXOTO DA SILVA,Governador Valadares - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+11,Governador Valadares,EE BOM PASTOR,Governador Valadares - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+12,Governador Valadares,EEEFM SANTO ANTONIO,São Mateus - ES,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+13,Governador Valadares,EE DIOCESANO,Governador Valadares - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+14,Governador Valadares,EE JULIO SOARES,Governador Valadares - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+15,Governador Valadares,CISO-COLEGIO SESQUICENTENARIO,Itabuna - BA,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,SUB
+16,Governador Valadares,EE HAUY PETRUCELI MAYRINK,Santa Maria do Suaçuí - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+17,Governador Valadares,EE PREFEITO JOAQUIM PEDRO NASCIMENTO,Governador Valadares - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+18,Governador Valadares,CIE DR RAIMUNDO SOARES DE ALBERGARIA FILHO,Governador Valadares - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+1,Ipatinga,COLEGIO TIRADENTES PMMG,Ipatinga - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+2,Ipatinga,EE JOAO XXIII,Ipatinga - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+3,Ipatinga,EE DONA CANUTA ROSA OLIVEIRA BARBOSA,Ipatinga - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+4,Ipatinga,EE PROFESSORA HAYDEE DE SOUZA ABREU,Timóteo - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+5,Ipatinga,EE PRUDENTE DE MORAIS,Mesquita - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+6,Ipatinga,EE LAURA XAVIER SANTANA,Ipatinga - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+7,Ipatinga,EE CORONEL JOAO BARRETO,Dores de Guanhães - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+8,Ipatinga,EE PADRE DIONISIO HOMEM DE FARIA,Bom Jesus do Galho - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+9,Ipatinga,EE JOAO COTTA DE FIGUEIREDO BARCELOS,Timóteo - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+10,Ipatinga,EE ANTONIO LUIZ,Santana do Paraíso - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+11,Ipatinga,EE ENGENHEIRO MARCIO AGUIAR DA CUNHA,Ipatinga - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+12,Ipatinga,EE NILZA LUZIA DE SOUZA BUTTA,Ipatinga - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+13,Ipatinga,EE DOUTOR GERALDO PERLINGEIRO DE ABREU,Coronel Fabriciano - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+14,Ipatinga,EE ANTONIO ALTICIANO,Açucena - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+15,Ipatinga,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+16,Ipatinga,EE HERBERT JOSE DE SOUZA BETINHO,Santana do Paraíso - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+17,Ipatinga,EE CHAVES RIBEIRO,Itaobim - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+18,Ipatinga,EE CORONEL SILVINO PEREIRA,Coronel Fabriciano - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+19,Ipatinga,EE MENINO JESUS DE PRAGA,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+20,Ipatinga,ESCOLA MUNICIPAL LIMOEIRO,Timóteo - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,SUB
+21,Ipatinga,EE PROFESSORA DINALVA MARIA DE SOUZA,Pingo-d'Água - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+22,Ipatinga,EE FREI MARCELINO DE MILAO,Iapu - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+23,Ipatinga,EE DOUTOR JOAO BERALDO,Carlos Chagas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+24,Ipatinga,EE - COLEGIO ESTADUAL ODORICO TAVARES,Salvador - BA,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+25,Ipatinga,IFSP - CAMPUS SAO PAULO,São Paulo - SP,Pública Federal,Urbana,1,2026-08-18 19:20:00.000000,SUB
+26,Ipatinga,EE ALBERTINO FERREIRA DRUMOND,Santana do Paraíso - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+27,Ipatinga,EE ENGENHEIRO AMARO LANARI JUNIOR,Ipatinga - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+28,Ipatinga,EE RAULINO COTTA PACHECO,Coronel Fabriciano - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+29,Ipatinga,EE INDUSTRIAL SAO JOSE,Araçuaí - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+1,Ouro Preto,EE DOM PEDRO II,Ouro Preto - MG,Pública Estadual,Urbana,17,2026-08-18 19:20:00.000000,SUB
+2,Ouro Preto,EE DESEMBARGADOR HORACIO ANDRADE,Ouro Preto - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUB
+3,Ouro Preto,EE DOM SILVERIO,Mariana - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUB
+4,Ouro Preto,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,4,2026-08-18 19:20:00.000000,SUB
+5,Ouro Preto,EE ALZIRA AYRES PEREIRA,Catas Altas - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+6,Ouro Preto,EE JOAO RAMOS FILHO,Mariana - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+7,Ouro Preto,IFMG - CAMPUS OURO PRETO,Ouro Preto - MG,Pública Federal,Urbana,3,2026-08-18 19:20:00.000000,SUB
+8,Ouro Preto,EE PADRE AFONSO DE LEMOS,Ouro Preto - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+9,Ouro Preto,EE CONEGO BRAGA,Mariana - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+10,Ouro Preto,EE ENGENHEIRO QUEIROZ JUNIOR,Itabirito - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+11,Ouro Preto,EE JOSE LEANDRO,Ouro Preto - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+12,Ouro Preto,EE LAMARTINE DE FREITAS,Congonhas - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+13,Ouro Preto,ESCOLA NOVAERENSE DE ENSINO FUNDAMENTAL E MEDIO,Nova Era - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+14,Ouro Preto,CENTRO DE EDUCACAO MUNICIPAL PADRE AVELAR,Mariana - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,SUB
+15,Ouro Preto,EE OLEGARIO MACIEL,Januária - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+16,Ouro Preto,INST EST EDUC MAE DE DEUS,Tupanciretã - RS,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+17,Ouro Preto,EE MAURICIO MURGEL,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+18,Ouro Preto,EE CLOTILDE ONOFRI DE CAMPOS,Teófilo Otoni - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+19,Ouro Preto,EDUCANDARIO NS DAJUDA LTDA - LAND,Salvador - BA,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+20,Ouro Preto,COLEGIO SOLIDO MEDIO,Montes Claros - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+21,Ouro Preto,COLEGIO IMACULADA CONCEICAO,Machado - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+22,Ouro Preto,EE NARCISO DE QUEIROS,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+23,Ouro Preto,COLEGIO DO INSTITUTO PADRE MACHADO,Belo Horizonte - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+24,Ouro Preto,CE PAULO ASSIS RIBEIRO,Niterói - RJ,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+25,Ouro Preto,COLEGIO ESTADUAL DOM JOAO MUNIZ,Santana - BA,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+26,Ouro Preto,EE PROFESSOR JOSE MONTEIRO FONSECA,Padre Paraíso - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+27,Ouro Preto,ESC EST PROF MARIA DE NAZARE RODRIGUES DA SILVA,Laranjal do Jari - AP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+28,Ouro Preto,EE PROFESSOR GONCALVES COUTO,Muriaé - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+29,Ouro Preto,EE MONSENHOR MARIO ARAUJO GUIMARAES,Carmo do Rio Claro - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+30,Ouro Preto,DONIZETTI TAVARES DE LIMA PADRE,Tambaú - SP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+1,Piumhi,EE PROFESSOR JOAO MENEZES,Piumhi - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,SUB
+2,Piumhi,EE PADRE JOSE ESPINDOLA,Pimenta - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUB
+3,Piumhi,EE PROFESSOR FRANCISCO DE PAULA REBELO HORTA,Piumhi - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUB
+4,Piumhi,CESEC SEBASTIAO GONCALVES DA SILVA,Piumhi - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUB
+5,Piumhi,IFMG - CAMPUS AVANCADO PIUMHI,Piumhi - MG,Pública Federal,Urbana,3,2026-08-18 19:20:00.000000,SUB
+6,Piumhi,EE STA TEREZINHA,Doresópolis - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+7,Piumhi,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+8,Piumhi,INST ELLOS DE EDUCACAO,São Roque de Minas - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+9,Piumhi,EE ARI DA FRANCA,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+10,Piumhi,LAURA DE MELLO FRANCO PROFA,Franca - SP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+11,Piumhi,COLEGIO ESTADUAL DE TEMPO INTEGRAL PAULO FREIRE,Ibicuí - BA,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+12,Piumhi,ATOMO ENEM E PRE VESTIBULAR,Rio Verde - GO,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+13,Piumhi,EE GENERAL CARNEIRO,São Roque de Minas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+14,Piumhi,EE JOAO BATISTA DE CARVALHO,Bambuí - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+15,Piumhi,EE SAO FRANCISCO,Vargem Bonita - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+16,Piumhi,CEJA ANA VIEIRA PINHEIRO,Icó - CE,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+17,Piumhi,PEDRO NUNES ROCHA PROF,Franca - SP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+18,Piumhi,EE SEBASTIANA PEREIRA DA SILVA,São Francisco - MG,Pública Estadual,Rural,1,2026-08-18 19:20:00.000000,SUB
+19,Piumhi,COLEGIO PRESBITERIANO DE PIUMHI,Piumhi - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+20,Piumhi,ETEMIG - ESCOLA TECNICA PROFISSIONAL MINAS GERAIS - ARCOS,Arcos - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+1,Ribeirão das Neves,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,11,2026-08-18 19:20:00.000000,SUB
+2,Ribeirão das Neves,EE ANTONIO RIGUEIRA DA FONSECA,Ribeirão das Neves - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+3,Ribeirão das Neves,EE PEDRO ALCANTARA NOGUEIRA,Ribeirão das Neves - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+4,Ribeirão das Neves,EE FRANCISCO INACIO PEIXOTO,Cataguases - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+5,Ribeirão das Neves,EE CIDADE DOS MENINOS,Ribeirão das Neves - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+6,Ribeirão das Neves,EE NOSSA SENHORA DA CONCEICAO,Ribeirão das Neves - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+7,Ribeirão das Neves,CESEC MARIA VIEIRA BARBOSA,Belo Horizonte - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+8,Ribeirão das Neves,EE DESEMBARGADOR RODRIGUES CAMPOS,Belo Horizonte - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+9,Ribeirão das Neves,EE PROFESSOR HELVECIO DAHE,Ribeirão das Neves - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+10,Ribeirão das Neves,CIEP 295 PROFESSORA GLORIA ROUSSIM GUEDES PINTO,Volta Redonda - RJ,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+11,Ribeirão das Neves,EE CHAVES RIBEIRO,Itaobim - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+12,Ribeirão das Neves,EE JOSE BONIFACIO,São Vicente de Minas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+13,Ribeirão das Neves,IFRR - CAMPUS NOVO PARAISO,Caracaraí - RR,Pública Federal,Rural,1,2026-08-18 19:20:00.000000,SUB
+14,Ribeirão das Neves,EE MAURICIO AUGUSTO DE AZEVEDO,Janaúba - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+15,Ribeirão das Neves,ESC TECNICA EST PROFESSORA SYLVIA MELLO,Pelotas - RS,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+16,Ribeirão das Neves,EE ODILON BEHRENS,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+17,Ribeirão das Neves,EEEFM CAP CLAUDIO MANOEL DA COSTA,Porto Velho - RO,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+18,Ribeirão das Neves,EE MESTRE ZECA AMANCIO,Itabira - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+19,Ribeirão das Neves,SESI 032 CENTRO EDUCACIONAL,São Paulo - SP,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+20,Ribeirão das Neves,EE LAUDELINA DIAS LACERDA,Almenara - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+21,Ribeirão das Neves,EE AFONSO PENA,Santa Bárbara - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+22,Ribeirão das Neves,EE PROFESSORA CONCEICAO HILARIO,Contagem - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+23,Ribeirão das Neves,VLADIMIR HERZOG JORNALISTA,São Bernardo do Campo - SP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+24,Ribeirão das Neves,COLEGIO SETE DE SETEMBRO,Paulo Afonso - BA,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+25,Ribeirão das Neves,CE JACINTHO XAVIER MARTINS,Rio das Ostras - RJ,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+26,Ribeirão das Neves,CENTRO DE EXCELENCIA PROFESSORA MARIA IVANDA DE CARVALHO NASCIMENTO,Aracaju - SE,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+27,Ribeirão das Neves,EE MARIA CAROLINA CAMPOS,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+28,Ribeirão das Neves,IFF - CENTRO DE REFERENCIA EM TECNOLOGIA INFORMACAO E COMUNICACAO NA EDUCACAO,Campos dos Goytacazes - RJ,Pública Federal,Urbana,1,2026-08-18 19:20:00.000000,SUB
+29,Ribeirão das Neves,IFRN - CAMPUS PAU DOS FERROS,Pau dos Ferros - RN,Pública Federal,Urbana,1,2026-08-18 19:20:00.000000,SUB
+30,Ribeirão das Neves,EE PROFESSOR SAMUEL JOAO DE DEUS,Paula Cândido - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+1,Santa Luzia,EE GERALDO TEIXEIRA DA COSTA,Santa Luzia - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,SUB
+2,Santa Luzia,EE TANCREDO DE ALMEIDA NEVES,Santa Luzia - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUB
+3,Santa Luzia,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,4,2026-08-18 19:20:00.000000,SUB
+4,Santa Luzia,EE LEONINA MOURTHE DE ARAUJO,Santa Luzia - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUB
+5,Santa Luzia,EE RAUL TEIXEIRA DA COSTA SOBRINHO,Santa Luzia - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+6,Santa Luzia,EE FRANCISCO TIBURCIO DE OLIVEIRA,Santa Luzia - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+7,Santa Luzia,EE PROFESSOR DOMINGOS ORNELAS,Santa Luzia - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+8,Santa Luzia,EE SAO JOAO DA ESCOCIA,Santa Luzia - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+9,Santa Luzia,IFMG - CAMPUS SANTA LUZIA,Santa Luzia - MG,Pública Federal,Urbana,2,2026-08-18 19:20:00.000000,SUB
+10,Santa Luzia,EE AFONSINO ALTIVO DINIZ,Santa Luzia - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+11,Santa Luzia,EE PRESIDENTE ITAMAR FRANCO,Santa Luzia - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUB
+12,Santa Luzia,EE JOSE MARIA BICALHO,Santa Luzia - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+13,Santa Luzia,EE PROFESSOR GUILHERME AZEVEDO LAGE,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+14,Santa Luzia,EE MURGY HIBRAIM SARAH,Santa Luzia - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+15,Santa Luzia,ESCOLA ESTACIO,Belo Horizonte - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+16,Santa Luzia,EE JOAO LOPES GONTIJO,Ribeirão das Neves - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+17,Santa Luzia,ESCOLA DE REFERENCIA EM ENSINO MEDIO FRANCISCO PEREIRA DA COSTA,Iati - PE,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+18,Santa Luzia,FLAMINIO LESSA DR,Guaratinguetá - SP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+19,Santa Luzia,C DE EDUC INF FIDE,Itabira - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+20,Santa Luzia,EE JOSE ERMIRIO DE MORAIS,Três Marias - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+21,Santa Luzia,EE DO BAIRRO SAO CAETANO,Betim - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+22,Santa Luzia,COLEGIO SAO BENEDITO,Santa Luzia - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+23,Santa Luzia,EE FLAVIO DOS SANTOS,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+24,Santa Luzia,EE SANTOS DUMONT,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+25,Santa Luzia,ESCOLA SESI MARIZA ARAUJO,Belo Horizonte - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUB
+26,Santa Luzia,EE JOSE LUIZ GONZAGA FERREIRA,Sabará - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+27,Santa Luzia,IFBA - CAMPUS BARREIRAS,Barreiras - BA,Pública Federal,Urbana,1,2026-08-18 19:20:00.000000,SUB
+28,Santa Luzia,IFAM - CAMPUS MANAUS CENTRO,Manaus - AM,Pública Federal,Urbana,1,2026-08-18 19:20:00.000000,SUB
+29,Santa Luzia,PEDRO I C E DEF M PROFIS,Santo Inácio - PR,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+30,Santa Luzia,EE DORA MATARAZZO,Lavras - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUB
+1,Todas as unidades,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,58,2026-08-18 19:20:00.000000,SUP
+2,Todas as unidades,EE CONEGO LUIZ VIEIRA DA SILVA,Ouro Branco - MG,Pública Estadual,Urbana,43,2026-08-18 19:20:00.000000,SUP
+3,Todas as unidades,EE LAMARTINE DE FREITAS,Congonhas - MG,Pública Estadual,Urbana,38,2026-08-18 19:20:00.000000,SUP
+4,Todas as unidades,IFMG - CAMPUS BAMBUI,Bambuí - MG,Pública Federal,Rural,35,2026-08-18 19:20:00.000000,SUP
+5,Todas as unidades,IFMG - CAMPUS BETIM,Betim - MG,Pública Federal,Urbana,28,2026-08-18 19:20:00.000000,SUP
+6,Todas as unidades,EE DA VILA BOA VISTA,Arcos - MG,Pública Estadual,Urbana,27,2026-08-18 19:20:00.000000,SUP
+7,Todas as unidades,EE CIDADE DOS MENINOS,Ribeirão das Neves - MG,Pública Estadual,Urbana,26,2026-08-18 19:20:00.000000,SUP
+8,Todas as unidades,EE JOAO BATISTA DE CARVALHO,Bambuí - MG,Pública Estadual,Urbana,24,2026-08-18 19:20:00.000000,SUP
+9,Todas as unidades,IFMG - CAMPUS OURO BRANCO,Ouro Branco - MG,Pública Federal,Urbana,24,2026-08-18 19:20:00.000000,SUP
+10,Todas as unidades,EE DONA BERENICE DE MAGALHAES PINTO,Arcos - MG,Pública Estadual,Urbana,23,2026-08-18 19:20:00.000000,SUP
+11,Todas as unidades,EE PROFESSOR ZOROASTRO VIANNA PASSOS,Sabará - MG,Pública Estadual,Urbana,22,2026-08-18 19:20:00.000000,SUP
+12,Todas as unidades,IFMG - CAMPUS FORMIGA,Formiga - MG,Pública Federal,Urbana,20,2026-08-18 19:20:00.000000,SUP
+13,Todas as unidades,EE JOSEFINA PIMENTA,São João Evangelista - MG,Pública Estadual,Urbana,19,2026-08-18 19:20:00.000000,SUP
+14,Todas as unidades,EE IRACEMA DE ALMEIDA,Ouro Branco - MG,Pública Estadual,Urbana,16,2026-08-18 19:20:00.000000,SUP
+15,Todas as unidades,IFMG - CAMPUS IBIRITE,Ibirité - MG,Pública Federal,Urbana,15,2026-08-18 19:20:00.000000,SUP
+16,Todas as unidades,IFMG - CAMPUS OURO PRETO,Ouro Preto - MG,Pública Federal,Urbana,15,2026-08-18 19:20:00.000000,SUP
+17,Todas as unidades,EE DOM PEDRO II,Ouro Preto - MG,Pública Estadual,Urbana,14,2026-08-18 19:20:00.000000,SUP
+18,Todas as unidades,EE PEDRO ALCANTARA NOGUEIRA,Ribeirão das Neves - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,SUP
+19,Todas as unidades,EE PROFESSOR JOAQUIM RODARTE,Formiga - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,SUP
+20,Todas as unidades,IFMG - CAMPUS SABARA,Sabará - MG,Pública Federal,Urbana,13,2026-08-18 19:20:00.000000,SUP
+21,Todas as unidades,EE ODILON BEHRENS,Guanhães - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,SUP
+22,Todas as unidades,EE DR ABILIO MACHADO,Formiga - MG,Pública Estadual,Urbana,12,2026-08-18 19:20:00.000000,SUP
+23,Todas as unidades,EE LEVINDO COSTA CARVALHO,Ouro Branco - MG,Pública Estadual,Urbana,12,2026-08-18 19:20:00.000000,SUP
+24,Todas as unidades,IFMG - CAMPUS AVANCADO ARCOS,Arcos - MG,Pública Federal,Urbana,11,2026-08-18 19:20:00.000000,SUP
+25,Todas as unidades,EE JOSE BONIFACIO NOGUEIRA,Ribeirão das Neves - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,SUP
+26,Todas as unidades,EE NARCISO DE QUEIROS,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,SUP
+27,Todas as unidades,EE DONA MARICOTA PINTO,Arcos - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,SUP
+28,Todas as unidades,EE JALCIRA SANTOS VALADAO,Formiga - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,SUP
+29,Todas as unidades,EE JOSE ALZAMORA,Bambuí - MG,Pública Estadual,Urbana,9,2026-08-18 19:20:00.000000,SUP
+30,Todas as unidades,IFMG - CAMPUS AVANCADO ITABIRITO,Itabirito - MG,Pública Federal,Urbana,9,2026-08-18 19:20:00.000000,SUP
+1,Arcos,EE DA VILA BOA VISTA,Arcos - MG,Pública Estadual,Urbana,21,2026-08-18 19:20:00.000000,SUP
+2,Arcos,EE DONA BERENICE DE MAGALHAES PINTO,Arcos - MG,Pública Estadual,Urbana,18,2026-08-18 19:20:00.000000,SUP
+3,Arcos,IFMG - CAMPUS AVANCADO ARCOS,Arcos - MG,Pública Federal,Urbana,9,2026-08-18 19:20:00.000000,SUP
+4,Arcos,EE DONA MARICOTA PINTO,Arcos - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,SUP
+5,Arcos,EE PAULA CARVALHO,Iguatama - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,SUP
+6,Arcos,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,4,2026-08-18 19:20:00.000000,SUP
+7,Arcos,IFMG - CAMPUS FORMIGA,Formiga - MG,Pública Federal,Urbana,3,2026-08-18 19:20:00.000000,SUP
+8,Arcos,EE DR ABILIO MACHADO,Formiga - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+9,Arcos,EE PADRE JOSE VENANCIO,Pains - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+10,Arcos,EE PROFESSOR JOAQUIM RODARTE,Formiga - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+11,Arcos,EE JOAO BATISTA DE CARVALHO,Bambuí - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+12,Arcos,CESEC MONSENHOR GERALDO M VASCONCELOS,Arcos - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+13,Arcos,EE RODOLFO ALMEIDA,Formiga - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+14,Arcos,COLEGIO LOSANGO DE ARCOS,Arcos - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+15,Arcos,ESCOLA ESTADUAL IRMA INES PENHA,São Gabriel da Cachoeira - AM,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+16,Arcos,EE PROFESSOR TONICO LEITE,Formiga - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+17,Arcos,ESCOLA TECNICA UNIUBE - UNIDADE,Uberaba - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+18,Arcos,EE PROFESSOR CARVALHAIS,Divinolândia de Minas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+19,Arcos,EE DOUTOR ADIRON GONCALVES BOAVENTURA,Rio Paranaíba - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+20,Arcos,CESEC MARIA VIEIRA BARBOSA,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+21,Arcos,EE NOSSA SENHORA DA PENHA,Passos - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+22,Arcos,EE JOSE ALZAMORA,Bambuí - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+23,Arcos,ESCOLA ESTADUAL NOSSA SENHORA DE GUADALUPE,Lagoa da Prata - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+24,Arcos,ESCOLA NOSSA SENHORA DO CARMO,Arcos - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+25,Arcos,COL XIX DE MARCO,Itajubá - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+26,Arcos,ESCOLA DE REFERENCIA EM ENSINO MEDIO CLETO CAMPELO,Gravatá - PE,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+27,Arcos,CENTRO ESTADUAL DE EDUCACAO DE JOVENS E ADULTOS ARIQUEMES,Ariquemes - RO,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+28,Arcos,IE RANGEL PESTANA,Nova Iguaçu - RJ,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+29,Arcos,EE SERAFIM RIBEIRO DE REZENDE,Florestal - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+30,Arcos,EE GERALDO TEIXEIRA DA COSTA,Santa Luzia - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,Bambuí,IFMG - CAMPUS BAMBUI,Bambuí - MG,Pública Federal,Rural,32,2026-08-18 19:20:00.000000,SUP
+2,Bambuí,EE JOAO BATISTA DE CARVALHO,Bambuí - MG,Pública Estadual,Urbana,22,2026-08-18 19:20:00.000000,SUP
+3,Bambuí,EE JOSE ALZAMORA,Bambuí - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,SUP
+4,Bambuí,EE JOSE SABINO DA PAIXAO,Medeiros - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUP
+5,Bambuí,ESC COOP DE ENSINO DE BAMBUI,Bambuí - MG,Privada,Urbana,4,2026-08-18 19:20:00.000000,SUP
+6,Bambuí,EE FRANCISCO CAMPOS,Dores do Indaiá - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+7,Bambuí,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,3,2026-08-18 19:20:00.000000,SUP
+8,Bambuí,EE JOAQUIM NABUCO,Divinópolis - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+9,Bambuí,EE COMENDADOR ZICO TOBIAS,Luz - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+10,Bambuí,EE CHICO REZENDE,Lagoa da Prata - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+11,Bambuí,EE PROFESSOR FRANCISCO DE PAULA REBELO HORTA,Piumhi - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+12,Bambuí,EM TATAO ANACLETO,Ibiá - MG,Pública Municipal,Urbana,2,2026-08-18 19:20:00.000000,SUP
+13,Bambuí,EE PROFESSOR JOAO MENEZES,Piumhi - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+14,Bambuí,EE HELENA GUERRA,Contagem - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+15,Bambuí,EE PADRE CLEMENTE DE MALETO,Campos Altos - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+16,Bambuí,COLEGIO MAIS,Luz - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+17,Bambuí,EE DONA MARICOTA PINTO,Arcos - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+18,Bambuí,EE PADRE JOAO BALKER,Perdizes - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+19,Bambuí,EE CHIQUINHA SOARES,Bom Despacho - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+20,Bambuí,EE JOAO XXIII,Ipatinga - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+21,Bambuí,COLEGIO PRESBITERIANO DE PIUMHI,Piumhi - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+22,Bambuí,COLEGIO ELYSIUM,Dores do Indaiá - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+23,Bambuí,CEFET-MG - UNED ARAXA,Araxá - MG,Pública Federal,Urbana,2,2026-08-18 19:20:00.000000,SUP
+24,Bambuí,EE VIRGINIO PERILLO,Lagoa da Prata - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+25,Bambuí,EE DONA ANTONIA VALADARES,Divinópolis - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+26,Bambuí,IFMG - CAMPUS AVANCADO ARCOS,Arcos - MG,Pública Federal,Urbana,2,2026-08-18 19:20:00.000000,SUP
+27,Bambuí,EE AUGUSTO BARBOSA,Angelândia - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+28,Bambuí,IFSULDEMINAS - CAMPUS MUZAMBINHO,Muzambinho - MG,Pública Federal,Rural,1,2026-08-18 19:20:00.000000,SUP
+29,Bambuí,EE PRESIDENTE KENNEDY,Candeias - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+30,Bambuí,ESCOLA DE REFERENCIA EM ENSINO MEDIO PADRE MAURILO SAMPAIO,Santa Maria da Boa Vista - PE,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,Betim,IFMG - CAMPUS BETIM,Betim - MG,Pública Federal,Urbana,26,2026-08-18 19:20:00.000000,SUP
+2,Betim,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,9,2026-08-18 19:20:00.000000,SUP
+3,Betim,EE CECILIA MEIRELES,Betim - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,SUP
+4,Betim,EE DO BAIRRO SAO CAETANO,Betim - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,SUP
+5,Betim,EE AMELIA SANTANA BARBOSA,Betim - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUP
+6,Betim,EE CONSELHEIRO AFONSO PENA,Betim - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUP
+7,Betim,EE NOSSA SENHORA DO CARMO,Betim - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+8,Betim,FUNDAC FUNDACAO ENSINO DE CONTAGEM,Contagem - MG,Privada,Urbana,4,2026-08-18 19:20:00.000000,SUP
+9,Betim,ESCOLA SESI ALVIMAR CARNEIRO DE REZENDE,Contagem - MG,Privada,Urbana,3,2026-08-18 19:20:00.000000,SUP
+10,Betim,CESEC CLEMENTE DE FARIA,Contagem - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+11,Betim,EE SENADOR TEOTONIO VILELA,Betim - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+12,Betim,CESEC POETA MURILO MENDES,Belo Horizonte - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+13,Betim,EE PROFESSOR OSVALDO FRANCO,Betim - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+14,Betim,EE PROFESSORA NILZA GOMES BERGMAN,Sarzedo - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+15,Betim,EE JUSCELINO KUBITSCHEK DE OLIVEIRA,Betim - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+16,Betim,CEFET-MG - UNED CONTAGEM,Contagem - MG,Pública Federal,Urbana,2,2026-08-18 19:20:00.000000,SUP
+17,Betim,EE ESTUDANTE LIVIA MARA DE CASTRO,Betim - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+18,Betim,EE PROFESSORA VERA MARIA REZENDE,Betim - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+19,Betim,EE DEPUTADO SIMAO DA CUNHA,Betim - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+20,Betim,EE JOAQUIM JOSE PEREIRA,Igarapé - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+21,Betim,EE TITO LIVIO DE SOUZA,Betim - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+22,Betim,CESEC DE BETIM,Betim - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+23,Betim,EE PROFESSORA GERALDA EUGENIA DA SILVA,São Joaquim de Bicas - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+24,Betim,EE CAIO NELSON DE SENA,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+25,Betim,EE DOMINGOS JUSTINO RIBEIRO,Mateus Leme - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+26,Betim,E M JOAO BATISTA MACHADO DE BRITO,Betim - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,SUP
+27,Betim,EE JOSE RODRIGUES BETIM,Ibirité - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+28,Betim,EE PROFESSOR ALISSON PEREIRA GUIMARAES,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+29,Betim,EE LEVINDO VALADARES DA FONSECA,Galiléia - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+30,Betim,EE FRANCISCO FIRMO DE MATOS,Contagem - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,Congonhas,EE LAMARTINE DE FREITAS,Congonhas - MG,Pública Estadual,Urbana,26,2026-08-18 19:20:00.000000,SUP
+2,Congonhas,IFMG - CAMPUS CONGONHAS,Congonhas - MG,Pública Federal,Urbana,5,2026-08-18 19:20:00.000000,SUP
+3,Congonhas,EE BARAO DE PARAOPEBA,Congonhas - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+4,Congonhas,EE FELICIANO MENDES,Congonhas - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+5,Congonhas,EE NARCISO DE QUEIROS,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+6,Congonhas,EE DESEMBARGADOR APRIGIO RIBEIRO DE OLIVEIRA,São Brás do Suaçuí - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+7,Congonhas,EE DOUTOR GAMA CERQUEIRA,Belo Vale - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+8,Congonhas,CENTRO DE EDUCACAO DE JOVENS E ADULTOS PROF LUIZ OCTAVIO PEREIRA,Belém - PA,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+9,Congonhas,JOSE LUIZ DE SIQUEIRA PROFESSOR,Barrinha - SP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+10,Congonhas,EE NOSSA SENHORA AUXILIADORA,Pará de Minas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+11,Congonhas,COL POTENCIA,Conselheiro Lafaiete - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+12,Congonhas,EE LUIZ DE MELLO VIANNA SOBRINHO,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+13,Congonhas,EE FRANCISCO DO CARMO,Carandaí - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+14,Congonhas,EE DOM CABRAL,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+15,Congonhas,EE ASSIS RESENDE,Resende Costa - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+16,Congonhas,EE RIBEIRO DE OLIVEIRA,Entre Rios de Minas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+17,Congonhas,EE ANITA BRINA BRANDAO,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+18,Congonhas,COLEGIO ARQUIDIOCESANO DE OURO BRANCO,Ouro Branco - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+19,Congonhas,EE MONSENHOR HORTA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+20,Congonhas,EM DEPUTADO SEBASTIAO PATRUS DE SOUSA,Carandaí - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,SUP
+21,Congonhas,EE ISABEL DA SILVA POLCK,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+22,Congonhas,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+23,Congonhas,EE CORONEL JOSE ILDEFONSO,Piranga - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+24,Congonhas,EE INTERVENTOR ALCIDES LINS,Curvelo - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+25,Congonhas,EE PROFESSOR ASTOR VIANNA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+26,Congonhas,EE ODILON BEHRENS,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+27,Congonhas,EE AFONSO PENA,Santa Bárbara - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+28,Congonhas,EE ALVIM RODRIGUES DO PRADO,Itaguara - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+29,Congonhas,EE QUEIROZ JUNIOR,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,Formiga,IFMG - CAMPUS FORMIGA,Formiga - MG,Pública Federal,Urbana,16,2026-08-18 19:20:00.000000,SUP
+2,Formiga,EE PROFESSOR JOAQUIM RODARTE,Formiga - MG,Pública Estadual,Urbana,11,2026-08-18 19:20:00.000000,SUP
+3,Formiga,EE JALCIRA SANTOS VALADAO,Formiga - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,SUP
+4,Formiga,EE DR ABILIO MACHADO,Formiga - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,SUP
+5,Formiga,EE RODOLFO ALMEIDA,Formiga - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,SUP
+6,Formiga,EE DA VILA BOA VISTA,Arcos - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUP
+7,Formiga,EE DONA BERENICE DE MAGALHAES PINTO,Arcos - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+8,Formiga,COLEGIO UNIFOR,Formiga - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+9,Formiga,EE PROFESSOR TONICO LEITE,Formiga - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+10,Formiga,EE JOSE TEOTONIO DE CASTRO,Lagoa da Prata - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+11,Formiga,COLEGIO LOSANGO DE FORMIGA,Formiga - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+12,Formiga,EE PADRE JOSE SANGALI,Córrego Fundo - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+13,Formiga,ESCOLA ESTADUAL NOSSA SENHORA DE GUADALUPE,Lagoa da Prata - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+14,Formiga,FUNDAC FUNDACAO ENSINO DE CONTAGEM,Contagem - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+15,Formiga,COL COTEMIG FLORESTA,Belo Horizonte - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+16,Formiga,DAVID CARNEIRO EWBANK,Franca - SP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+17,Formiga,IFMG - CAMPUS SAO JOAO EVANGELISTA,São João Evangelista - MG,Pública Federal,Rural,1,2026-08-18 19:20:00.000000,SUP
+18,Formiga,EE JOSE GERALDO DE MELO,Arcos - MG,Pública Estadual,Rural,1,2026-08-18 19:20:00.000000,SUP
+19,Formiga,EE PROFESSOR PINHEIRO CAMPOS,Oliveira - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+20,Formiga,EE PEDRO LUIZ,Itapecerica - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+21,Formiga,EE JOAQUIM NABUCO,Divinópolis - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+22,Formiga,EE JARBAS GAMBOGI,Campo Belo - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+23,Formiga,GERMINARE ESCOLA,São Paulo - SP,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+24,Formiga,EMEF FRANCISCO ARAUJO,Guarapari - ES,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,SUP
+25,Formiga,ESCOLA NOSSA SENHORA DO CARMO,Arcos - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+26,Formiga,E E PROFESSOR JOAO ALVES FILGUEIRAS CAMPOS,Pedra do Indaiá - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+27,Formiga,EE PRESIDENTE TANCREDO DE ALMEIDA NEVES,Cláudio - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+28,Formiga,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+29,Formiga,CAIC NACOES UNIDAS,Rio de Janeiro - RJ,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+30,Formiga,EE PROFESSOR FRANCISCO DE PAULA REBELO HORTA,Piumhi - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,Governador Valadares,EE PREFEITO JOAQUIM PEDRO NASCIMENTO,Governador Valadares - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,SUP
+2,Governador Valadares,EE PROFESSOR NELSON DE SENA,Governador Valadares - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,SUP
+3,Governador Valadares,IFMG - CAMPUS GOVERNADOR VALADARES,Governador Valadares - MG,Pública Federal,Urbana,5,2026-08-18 19:20:00.000000,SUP
+4,Governador Valadares,EE PROFESSOR DARCY RIBEIRO,Governador Valadares - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+5,Governador Valadares,EE FREI INOCENCIO,Frei Inocêncio - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+6,Governador Valadares,EE PROFESSORA THEOLINDA DE SOUZA CARMO,Governador Valadares - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+7,Governador Valadares,EE JULIO SOARES,Governador Valadares - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+8,Governador Valadares,EE JOAO WESLEY,Governador Valadares - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+9,Governador Valadares,CESEC DE GOVERNADOR VALADARES,Governador Valadares - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+10,Governador Valadares,EE PROFESSOR PAULO FREIRE,Governador Valadares - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+11,Governador Valadares,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+12,Governador Valadares,EE SINVAL RODRIGUES COELHO,Governador Valadares - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+13,Governador Valadares,SUPREMO PALMAS DE ENSINO LTDA,Palmas - TO,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+14,Governador Valadares,EE DIOCESANO,Governador Valadares - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+15,Governador Valadares,ESCOLA ESTADUAL DARCY AUGUSTO MICHILES,Boa Vista do Ramos - AM,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+16,Governador Valadares,IFC - CAMPUS ARAQUARI,Araquari - SC,Pública Federal,Urbana,1,2026-08-18 19:20:00.000000,SUP
+17,Governador Valadares,EEEFM ANGELICA PAIXAO,Guarapari - ES,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+18,Governador Valadares,EE PROFESSOR ANTONIO FERNANDES PINTO,Rio Piracicaba - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+19,Governador Valadares,EE RIBEIRO DE OLIVEIRA,Entre Rios de Minas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+20,Governador Valadares,EE DONA CANUTA ROSA OLIVEIRA BARBOSA,Ipatinga - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+21,Governador Valadares,EE PROFESSORA CONCEICAO HILARIO,Contagem - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+22,Governador Valadares,EE JOSE QUARESMA DA COSTA,Águas Formosas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+23,Governador Valadares,EE DO BAIRRO JARDIM DO IPE,Governador Valadares - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+24,Governador Valadares,ESCOLA ESTADUAL DESEMBARGADOR REGULO TINOCO,Natal - RN,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+25,Governador Valadares,EE ALEXANDRE PEIXOTO DA SILVA,Governador Valadares - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+26,Governador Valadares,COLEGIO ESTADUAL PALMIRA GABRIEL,Barcarena - PA,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+27,Governador Valadares,COLEGIO ESTADUAL DA POLICIA MILITAR DE GOIAS UNIDADE PASTOR JOSE ANTERO RIBEIRO,Bom Jesus de Goiás - GO,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+28,Governador Valadares,ESCOLA SESI ABILIO RODRIGUES PATTO,Governador Valadares - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+29,Governador Valadares,CIEP 259 PROFESSORA MARIA DO AMPARO RANGEL DE SOUZA,Maricá - RJ,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+30,Governador Valadares,EE NAGIB MAHMUD NEDIR,Setubinha - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,Ibirité,IFMG - CAMPUS IBIRITE,Ibirité - MG,Pública Federal,Urbana,14,2026-08-18 19:20:00.000000,SUP
+2,Ibirité,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,10,2026-08-18 19:20:00.000000,SUP
+3,Ibirité,EE DOMINGAS MARIA DE ALMEIDA,Belo Horizonte - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+4,Ibirité,EE PROFESSOR CLAUDIO BRANDAO,Belo Horizonte - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+5,Ibirité,ESCOLA SANDOVAL SOARES DE AZEVEDO - ESSA,Ibirité - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+6,Ibirité,EE JUSCELINO KUBITSCHEK DE OLIVEIRA,Ibirité - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+7,Ibirité,CESEC CLEMENTE DE FARIA,Contagem - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+8,Ibirité,EE PEDRO EVANGELISTA DINIZ,Ibirité - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+9,Ibirité,EE ODILON BEHRENS,Belo Horizonte - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+10,Ibirité,EE GYSLAINE DE FREITAS ARAUJO,Ibirité - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+11,Ibirité,EE ANTONIO MARINHO CAMPOS,Ibirité - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+12,Ibirité,EE JOSE RODRIGUES BETIM,Ibirité - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+13,Ibirité,SIC - ESCOLA PROFISSIONALIZANTE SANTO AGOSTINHO,Belo Horizonte - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+14,Ibirité,ESCOLA SESI HAMLETO MAGNAVACCA,Belo Horizonte - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+15,Ibirité,EE JOAO FERREIRA DE FREITAS,Ibirité - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+16,Ibirité,EE MANUEL CASASANTA,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+17,Ibirité,EE PROFESSOR MANUEL RUFINO,Urucânia - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+18,Ibirité,ESCOLA SESI BETIM MARIA MADALENA NOGUEIRA,Betim - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+19,Ibirité,ESCOLA SESI MARIA JOSE DALMEIDA MELLO,Pedro Leopoldo - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+20,Ibirité,ESCOLA MUNICIPAL EDITH PIMENTA DA VEIGA,Belo Horizonte - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,SUP
+21,Ibirité,EE PROFESSOR ANTONIO GOMES MOREIRA,Joaíma - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+22,Ibirité,COLEGIO SAO PAULO DA CRUZ,Belo Horizonte - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+23,Ibirité,FACULDADE PITAGORAS DE BELO HORIZONTE - CAMPUS CIDADE ACADEMICA,Belo Horizonte - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+24,Ibirité,COLEGIO SANTA MARIA MINAS UNIDADE CONTAGEM,Contagem - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+25,Ibirité,EE MARIA DE LOURDES DE OLIVEIRA,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+26,Ibirité,EE MESTRE CORNELIO,Capim Branco - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+27,Ibirité,EE JOSE PEREIRA DOS SANTOS,Sarzedo - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+28,Ibirité,EE GOVERNADOR MILTON CAMPOS,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+29,Ibirité,EE IONE SILVEIRA MENDES,Mato Verde - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+30,Ibirité,EE PROFESSORA MARIA BELMIRA TRINDADE,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,Ipatinga,EE DONA CANUTA ROSA OLIVEIRA BARBOSA,Ipatinga - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUP
+2,Ipatinga,IFMG - CAMPUS AVANCADO DE IPATINGA,Ipatinga - MG,Pública Federal,Urbana,3,2026-08-18 19:20:00.000000,SUP
+3,Ipatinga,CEFET-MG - UNED TIMOTEO,Timóteo - MG,Pública Federal,Urbana,3,2026-08-18 19:20:00.000000,SUP
+4,Ipatinga,EE JOAO XXIII,Ipatinga - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+5,Ipatinga,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+6,Ipatinga,EE GERALDO GOMES RIBEIRO,Ipatinga - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+7,Ipatinga,EE FREI MARCELINO DE MILAO,Iapu - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+8,Ipatinga,EE LAURA XAVIER SANTANA,Ipatinga - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+9,Ipatinga,EE SAO JOSE,Santa Rita do Itueto - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+10,Ipatinga,EE PROFESSORA DINALVA MARIA DE SOUZA,Pingo-d'Água - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+11,Ipatinga,PILAR INSTITUTO DE EDUCACAO,Ipatinga - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+12,Ipatinga,EE PROFESSOR PEDRO CALMON,Coronel Fabriciano - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+13,Ipatinga,EE PRINCESA ISABEL,Caratinga - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+14,Ipatinga,EE HERBERT JOSE DE SOUZA BETINHO,Santana do Paraíso - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+15,Ipatinga,EE PROFESSOR ANTONIO MARCIANO,Joanésia - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+16,Ipatinga,EE DOUTOR JOAQUIM GOMES DA SILVEIRA NETO,Coronel Fabriciano - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+17,Ipatinga,CAMPUS BARBACENA,Barbacena - MG,Pública Federal,Urbana,1,2026-08-18 19:20:00.000000,SUP
+18,Ipatinga,EE SALVELINO FERNANDES MADEIRA,Santana do Paraíso - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+19,Ipatinga,EE NOSSA SENHORA DE FATIMA,Nova Era - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+20,Ipatinga,CESEC JOAO GUIMARAES ROSA,Ipatinga - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+21,Ipatinga,EE ENGENHEIRO AMARO LANARI JUNIOR,Ipatinga - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+22,Ipatinga,EE ALBERTO GIOVANNINI,Coronel Fabriciano - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+23,Ipatinga,EE DO BAIRRO SAO CAETANO,Betim - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+24,Ipatinga,COLEGIO GENOMA,Teófilo Otoni - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+25,Ipatinga,EE ANTONIO LUIZ,Santana do Paraíso - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+26,Ipatinga,ESCOLA SESI RINALDO CAMPOS SOARES,Ipatinga - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+27,Ipatinga,EE ROTILDINO AVELINO,Coronel Fabriciano - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+28,Ipatinga,CENTRO EDUCA MAIS DR GENESIO REGO,Santo Antônio dos Lopes - MA,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+29,Ipatinga,EE JOAO COTTA DE FIGUEIREDO BARCELOS,Timóteo - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+30,Ipatinga,EE ALBERTINO FERREIRA DRUMOND,Santana do Paraíso - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,Itabirito,IFMG - CAMPUS AVANCADO ITABIRITO,Itabirito - MG,Pública Federal,Urbana,9,2026-08-18 19:20:00.000000,SUP
+2,Itabirito,EE ENGENHEIRO QUEIROZ JUNIOR,Itabirito - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+3,Itabirito,EE INTENDENTE CAMARA,Itabirito - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+4,Itabirito,EE MARIA JOSEFINA SALES WARDI,Nova Lima - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+5,Itabirito,NUCLEO EDUC BRAZ NETTO,Contagem - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+6,Itabirito,EE PROFESSOR ANTONIO GONCALVES LANNA,Ponte Nova - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+7,Itabirito,CENTRO DE ENSINO LICEU TUTOIENSE,Tutóia - MA,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+8,Itabirito,EE HENRIQUE MICHEL,Itabirito - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+9,Itabirito,EE LUIZ DE MELLO VIANNA SOBRINHO,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+10,Itabirito,IFMG - CAMPUS OURO PRETO,Ouro Preto - MG,Pública Federal,Urbana,1,2026-08-18 19:20:00.000000,SUP
+11,Itabirito,ESCOLA ESTADUAL DR TANCREDO DE ALMEIDA NEVES,Curionópolis - PA,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+12,Itabirito,COLEGIO ESTADUAL QUILOMBOLA DE SAO TOME TEMPO INTEGRAL COMUNIDADE QUILOMBOLA,Campo Formoso - BA,Pública Estadual,Rural,1,2026-08-18 19:20:00.000000,SUP
+1,Ouro Branco,EE CONEGO LUIZ VIEIRA DA SILVA,Ouro Branco - MG,Pública Estadual,Urbana,43,2026-08-18 19:20:00.000000,SUP
+2,Ouro Branco,IFMG - CAMPUS OURO BRANCO,Ouro Branco - MG,Pública Federal,Urbana,24,2026-08-18 19:20:00.000000,SUP
+3,Ouro Branco,EE IRACEMA DE ALMEIDA,Ouro Branco - MG,Pública Estadual,Urbana,16,2026-08-18 19:20:00.000000,SUP
+4,Ouro Branco,EE LEVINDO COSTA CARVALHO,Ouro Branco - MG,Pública Estadual,Urbana,12,2026-08-18 19:20:00.000000,SUP
+5,Ouro Branco,EE LAMARTINE DE FREITAS,Congonhas - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,SUP
+6,Ouro Branco,EE NARCISO DE QUEIROS,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,8,2026-08-18 19:20:00.000000,SUP
+7,Ouro Branco,EE MONSENHOR HORTA,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUP
+8,Ouro Branco,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,5,2026-08-18 19:20:00.000000,SUP
+9,Ouro Branco,EE GERALDO BITTENCOURT,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+10,Ouro Branco,ESCOLA MUNICIPAL NAPOLEAO REIS,Conselheiro Lafaiete - MG,Pública Municipal,Urbana,4,2026-08-18 19:20:00.000000,SUP
+11,Ouro Branco,CESEC PROFESSOR JOSE MARTINS SOBRINHO,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+12,Ouro Branco,EE JOSE LEANDRO,Ouro Preto - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+13,Ouro Branco,CESEC JOSE BRAS DOS REIS,Ouro Branco - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+14,Ouro Branco,EE JOSE BONIFACIO,Belo Horizonte - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+15,Ouro Branco,EE JOAO FELIPE DA ROCHA,Nova Lima - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+16,Ouro Branco,EE BARAO DE PARAOPEBA,Congonhas - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+17,Ouro Branco,IFMG - CAMPUS OURO PRETO,Ouro Preto - MG,Pública Federal,Urbana,2,2026-08-18 19:20:00.000000,SUP
+18,Ouro Branco,CEEJA DE VITORIA,Vitória - ES,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+19,Ouro Branco,EE QUEIROZ JUNIOR,Conselheiro Lafaiete - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+20,Ouro Branco,EE PADRE PEDRO THYSEN,Piedade dos Gerais - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+21,Ouro Branco,C EDUC TEC GAL EDMUNDO M S SILVA,Congonhas - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+22,Ouro Branco,PAULO A TOMAZINHO C E PROFEF M PROFIS,Umuarama - PR,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+23,Ouro Branco,EE ALVINO ALCANTARA FERNANDES,Mateus Leme - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+24,Ouro Branco,SOC CULTURAL E ASSIST DOM JOSE THOMAZ,Aracaju - SE,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+25,Ouro Branco,ELOYNA SALGADO RIBEIRO PROFESSORA,Pindamonhangaba - SP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+26,Ouro Branco,EE RIBEIRO DE OLIVEIRA,Entre Rios de Minas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+27,Ouro Branco,CE PROFESSOR DARCY RIBEIRO,Maricá - RJ,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+28,Ouro Branco,EE PROFESSORA MARIA AMALIA CAMPOS,Corinto - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+29,Ouro Branco,EE PROFESSOR ZOROASTRO VIANNA PASSOS,Sabará - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+30,Ouro Branco,IFMG - CAMPUS AVANCADO CONSELHEIRO LAFAIETE,Conselheiro Lafaiete - MG,Pública Federal,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,Ouro Preto,EE DOM PEDRO II,Ouro Preto - MG,Pública Estadual,Urbana,13,2026-08-18 19:20:00.000000,SUP
+2,Ouro Preto,IFMG - CAMPUS OURO PRETO,Ouro Preto - MG,Pública Federal,Urbana,12,2026-08-18 19:20:00.000000,SUP
+3,Ouro Preto,EE DE OURO PRETO,Ouro Preto - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,SUP
+4,Ouro Preto,EE DESEMBARGADOR HORACIO ANDRADE,Ouro Preto - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUP
+5,Ouro Preto,EE DOM SILVERIO,Mariana - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+6,Ouro Preto,COLEGIO ESTADUAL JOAO DURVAL CARNEIRO TEMPO INTEGRAL,São Gabriel - BA,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+7,Ouro Preto,ESC EST PROF MARIA DE NAZARE RODRIGUES DA SILVA,Laranjal do Jari - AP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+8,Ouro Preto,VALCAM COLEGIO EDUCACAO BASICA E EDUCACAO PROFISSIONAL,São João da Boa Vista - SP,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+9,Ouro Preto,EE NOSSA SENHORA DO PATROCINIO,Virginópolis - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+10,Ouro Preto,EE PROFESSOR JOSE MONTEIRO FONSECA,Padre Paraíso - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+11,Ouro Preto,COL CHROMOS CENTRO,Belo Horizonte - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+12,Ouro Preto,CENTRO DE ENSINO HAYDEE CHAVES,São Luís - MA,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+13,Ouro Preto,COLEGIO BOM JESUS CORACAO DE JESUS,Florianópolis - SC,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+14,Ouro Preto,ANTONIO DE OLIVEIRA GODINHO PADRE,Carapicuíba - SP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+15,Ouro Preto,EE PROFESSOR ANTONIO FERNANDES PINTO,Rio Piracicaba - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+16,Ouro Preto,EE PROFESSOR SOARES FERREIRA,Mariana - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+17,Ouro Preto,EE LAMARTINE DE FREITAS,Congonhas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+18,Ouro Preto,COMPLEXO INTEGRADO DE EDUCACAO BASICA PROFISSIONAL E TECNOLOGICA DE EUNAPOLIS,Eunápolis - BA,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+19,Ouro Preto,ESCOLA ESTADUAL SANTA MARIA DE BELEM,Belém - PA,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+20,Ouro Preto,SANTA OLIMPIA,São Bernardo do Campo - SP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+21,Ouro Preto,EE DOUTOR GARCIA DE LIMA,São João del Rei - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+22,Ouro Preto,EE JOSE LEANDRO,Ouro Preto - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+23,Ouro Preto,COLEGIO PIO XII COOPPED,Ouro Branco - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+24,Ouro Preto,EE JOAO RAMOS FILHO,Mariana - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+25,Ouro Preto,CESEC POETA MURILO MENDES,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+26,Ouro Preto,ESC EST PROF JOSE BARROSO TOSTES,Santana - AP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+27,Ouro Preto,ETEC DE HELIOPOLIS - ARQUITETO RUY OHTAKE,São Paulo - SP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+28,Ouro Preto,ESCOLA RUTH BEZERRA DONATO,Três Rios - RJ,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+29,Ouro Preto,EE IMACULADA CONCEICAO,Rio Casca - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+30,Ouro Preto,EE CORONEL BENJAMIM GUIMARAES,Mariana - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,Piumhi,EE PROFESSOR JOAO MENEZES,Piumhi - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+2,Piumhi,EE PROFESSOR FRANCISCO DE PAULA REBELO HORTA,Piumhi - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+3,Piumhi,ESCOLA MUNICIPAL IMACO,Belo Horizonte - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,SUP
+4,Piumhi,IFMG - CAMPUS AVANCADO PIUMHI,Piumhi - MG,Pública Federal,Urbana,1,2026-08-18 19:20:00.000000,SUP
+5,Piumhi,EE PROFESSOR LINDOLFO,São João da Ponte - MG,Pública Estadual,Rural,1,2026-08-18 19:20:00.000000,SUP
+6,Piumhi,EE AZARIAS RIBEIRO,Lavras - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+7,Piumhi,CESEC SEBASTIAO GONCALVES DA SILVA,Piumhi - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,Ponte Nova,EE PROFESSOR ANTONIO GONCALVES LANNA,Ponte Nova - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUP
+2,Ponte Nova,EE SENADOR ANTONIO MARTINS,Ponte Nova - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+3,Ponte Nova,CESEC PROFESSORA VERA PARENTONI,Ponte Nova - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+4,Ponte Nova,EE CAETANO MARINHO,Ponte Nova - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+5,Ponte Nova,IFMG - CAMPUS AVANCADO PONTE NOVA,Ponte Nova - MG,Pública Federal,Urbana,1,2026-08-18 19:20:00.000000,SUP
+6,Ponte Nova,COLEGIO ATHENAS EQUIPE DE PONTE NOVA,Ponte Nova - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+7,Ponte Nova,EE ANTONIO COELHO,Ponte Nova - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+8,Ponte Nova,EE GOVERNADOR BIAS FORTES,Ponte Nova - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+9,Ponte Nova,EE MARIANO GOMES,Santo Antônio do Grama - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+10,Ponte Nova,EE PROFESSOR RAYMUNDO MARTINIANO FERREIRA,Ponte Nova - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+11,Ponte Nova,EE DOM PEDRO II,Ouro Preto - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,Ribeirão das Neves,EE CIDADE DOS MENINOS,Ribeirão das Neves - MG,Pública Estadual,Urbana,23,2026-08-18 19:20:00.000000,SUP
+2,Ribeirão das Neves,EE PEDRO ALCANTARA NOGUEIRA,Ribeirão das Neves - MG,Pública Estadual,Urbana,12,2026-08-18 19:20:00.000000,SUP
+3,Ribeirão das Neves,EE JOSE BONIFACIO NOGUEIRA,Ribeirão das Neves - MG,Pública Estadual,Urbana,10,2026-08-18 19:20:00.000000,SUP
+4,Ribeirão das Neves,EE PROFESSOR HELVECIO DAHE,Ribeirão das Neves - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,SUP
+5,Ribeirão das Neves,EE NOSSA SENHORA DAS NEVES,Ribeirão das Neves - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUP
+6,Ribeirão das Neves,EE HENRIQUE DE SOUZA FILHO HENFIL,Ribeirão das Neves - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUP
+7,Ribeirão das Neves,EE FRANCISCO CARDOSO ASSUMPCAO,Ribeirão das Neves - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+8,Ribeirão das Neves,EE DO BAIRRO ROSANEVES,Ribeirão das Neves - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+9,Ribeirão das Neves,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,4,2026-08-18 19:20:00.000000,SUP
+10,Ribeirão das Neves,IFMG - CAMPUS RIBEIRAO DAS NEVES,Ribeirão das Neves - MG,Pública Federal,Urbana,4,2026-08-18 19:20:00.000000,SUP
+11,Ribeirão das Neves,CESEC DE RIBEIRAO DAS NEVES,Ribeirão das Neves - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+12,Ribeirão das Neves,EE DE MELO VIANA,Esmeraldas - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+13,Ribeirão das Neves,CESEC MARIA VIEIRA BARBOSA,Belo Horizonte - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+14,Ribeirão das Neves,EE ANTONIO RIGUEIRA DA FONSECA,Ribeirão das Neves - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+15,Ribeirão das Neves,EE DJANIRA RODRIGUES DE OLIVEIRA,Belo Horizonte - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+16,Ribeirão das Neves,EE JUSCELINO KUBITSCHEK DE OLIVEIRA,Belo Horizonte - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+17,Ribeirão das Neves,EE MANOEL MARTINS DE MELO,Ribeirão das Neves - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+18,Ribeirão das Neves,EE PROFESSOR RAYMUNDO CANDIDO,Esmeraldas - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+19,Ribeirão das Neves,REDE DE ENSINO GENESIS,Ribeirão das Neves - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+20,Ribeirão das Neves,EE MARIA PEREIRA DE ARAUJO,Ribeirão das Neves - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+21,Ribeirão das Neves,FACULDADE ANHANGUERA DE BELO HORIZONTE - CAMPUS 2,Belo Horizonte - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+22,Ribeirão das Neves,EE PROFESSOR PLINIO RIBEIRO,Montes Claros - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+23,Ribeirão das Neves,EE JOSE BONIFACIO,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+24,Ribeirão das Neves,EE TEOFILO ALVES DA SILVA,Esmeraldas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+25,Ribeirão das Neves,ESCOLA SESI MARIZA ARAUJO,Belo Horizonte - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+26,Ribeirão das Neves,EE DEPUTADO RENATO AZEREDO,Vespasiano - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+27,Ribeirão das Neves,EE JOAO GONCALVES NETO,Ribeirão das Neves - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+28,Ribeirão das Neves,EE BOA VISTA,Contagem - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+29,Ribeirão das Neves,EE JOSE JOAQUIM LAGES,Ribeirão das Neves - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+30,Ribeirão das Neves,ESCOLA MUNICIPAL IMACO,Belo Horizonte - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,Sabará,EE PROFESSOR ZOROASTRO VIANNA PASSOS,Sabará - MG,Pública Estadual,Urbana,20,2026-08-18 19:20:00.000000,SUP
+2,Sabará,IFMG - CAMPUS SABARA,Sabará - MG,Pública Federal,Urbana,13,2026-08-18 19:20:00.000000,SUP
+3,Sabará,EE CORONEL ADELINO CASTELO BRANCO,Sabará - MG,Pública Estadual,Urbana,7,2026-08-18 19:20:00.000000,SUP
+4,Sabará,EE PROFESSORA MARIA ELIZABETH VIANA,Sabará - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUP
+5,Sabará,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,4,2026-08-18 19:20:00.000000,SUP
+6,Sabará,INSTITUTO DE EDUCACAO DE MINAS GERAIS,Belo Horizonte - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+7,Sabará,EE OLEGARIO MACIEL,Belo Horizonte - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+8,Sabará,EE MARIA FLORIPES NASCIMENTO ALVES,Sabará - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+9,Sabará,EE PRESIDENTE DUTRA,Belo Horizonte - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+10,Sabará,EE GOVERNADOR MILTON CAMPOS,Belo Horizonte - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+11,Sabará,EE PROFESSOR JOAO DE ARRUDA PINTO,Sabará - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+12,Sabará,EE PROFESSORA ANGELICA MARIA DE ALMEIDA,Sabará - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+13,Sabará,EE PROFESSORA HENRIQUETA LISBOA,Belo Horizonte - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+14,Sabará,EE JOSE BRANDAO,Caeté - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+15,Sabará,EE PROFESSOR DOMINGOS ORNELAS,Santa Luzia - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+16,Sabará,COLEGIO AUGUSTUS,Sabará - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+17,Sabará,EE GENERAL CARNEIRO,Sabará - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+18,Sabará,UFMG - COLEGIO TECNICO,Belo Horizonte - MG,Pública Federal,Urbana,2,2026-08-18 19:20:00.000000,SUP
+19,Sabará,COLEGIO VILLA REAL,Sabará - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+20,Sabará,EE PAULO DAS GRACAS DA SILVA,Belo Horizonte - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+21,Sabará,EE TECNICO INDUSTRIAL PROFESSOR FONTES,Belo Horizonte - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+22,Sabará,EE SAGRADA FAMILIA II,Belo Horizonte - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+23,Sabará,EE PROFESSORA AMELIA DE CASTRO MONTEIRO,Belo Horizonte - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+24,Sabará,EE DONA BILU FIGUEIREDO,Sabará - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+25,Sabará,EE PROFESSOR LEOPOLDO DE MIRANDA,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+26,Sabará,EE LAURA DAS CHAGAS FERREIRA,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+27,Sabará,INSTITUTO ADVENTISTA TRANSAMAZONICO AGROINDUSTRIAL-IATAI,Uruará - PA,Privada,Rural,1,2026-08-18 19:20:00.000000,SUP
+28,Sabará,EE BATISTA DE OLIVEIRA,Juiz de Fora - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+29,Sabará,ESCOLA SESI MARIZA ARAUJO,Belo Horizonte - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+30,Sabará,CESEC MARIA VIEIRA BARBOSA,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,Santa Luzia,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,11,2026-08-18 19:20:00.000000,SUP
+2,Santa Luzia,IFMG - CAMPUS SANTA LUZIA,Santa Luzia - MG,Pública Federal,Urbana,9,2026-08-18 19:20:00.000000,SUP
+3,Santa Luzia,EE SANTOS DUMONT,Belo Horizonte - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUP
+4,Santa Luzia,EE LEONINA MOURTHE DE ARAUJO,Santa Luzia - MG,Pública Estadual,Urbana,5,2026-08-18 19:20:00.000000,SUP
+5,Santa Luzia,EE GERALDO TEIXEIRA DA COSTA,Santa Luzia - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+6,Santa Luzia,EE PROFESSOR DOMINGOS ORNELAS,Santa Luzia - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+7,Santa Luzia,EE RENY DE SOUZA LIMA,Santa Luzia - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+8,Santa Luzia,EE JOSE MARIA BICALHO,Santa Luzia - MG,Pública Estadual,Urbana,4,2026-08-18 19:20:00.000000,SUP
+9,Santa Luzia,EE FRANCISCO TIBURCIO DE OLIVEIRA,Santa Luzia - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+10,Santa Luzia,EE TANCREDO DE ALMEIDA NEVES,Santa Luzia - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+11,Santa Luzia,EE MURGY HIBRAIM SARAH,Santa Luzia - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+12,Santa Luzia,EE CIDADE DOS MENINOS,Ribeirão das Neves - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+13,Santa Luzia,COL MAXIMUS STA INES,Belo Horizonte - MG,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+14,Santa Luzia,EE MACHADO DE ASSIS,Vespasiano - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+15,Santa Luzia,CENTRO FEDERAL DE EDUCACAO TECNOLOGICA DE MINAS GERAIS,Belo Horizonte - MG,Pública Federal,Urbana,2,2026-08-18 19:20:00.000000,SUP
+16,Santa Luzia,EE RAUL TEIXEIRA DA COSTA SOBRINHO,Santa Luzia - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+17,Santa Luzia,EE JOSE LUIZ GONZAGA FERREIRA,Sabará - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+18,Santa Luzia,EE JOSE JOAQUIM LAGES,Ribeirão das Neves - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+19,Santa Luzia,CEFET-MG - UNED ARAXA,Araxá - MG,Pública Federal,Urbana,2,2026-08-18 19:20:00.000000,SUP
+20,Santa Luzia,EE SAO JOAO DA ESCOCIA,Santa Luzia - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+21,Santa Luzia,EE FLAVIO DOS SANTOS,Belo Horizonte - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+22,Santa Luzia,ESCOLA MUNICIPAL SANTOS DUMONT,Belo Horizonte - MG,Pública Municipal,Urbana,1,2026-08-18 19:20:00.000000,SUP
+23,Santa Luzia,EE PROFESSORA ANGELICA MARIA DE ALMEIDA,Sabará - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+24,Santa Luzia,EE OLEGARIO MACIEL,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+25,Santa Luzia,CEEJA DE SAO JOSE DOS CAMPOS,São José dos Campos - SP,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+26,Santa Luzia,EE PROFESSORA INES GERALDA DE OLIVEIRA,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+27,Santa Luzia,EE DEPUTADO RENATO AZEREDO,Vespasiano - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+28,Santa Luzia,IFMG - CAMPUS AVANCADO PIUMHI,Piumhi - MG,Pública Federal,Urbana,1,2026-08-18 19:20:00.000000,SUP
+29,Santa Luzia,CESEC POETA MURILO MENDES,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+30,Santa Luzia,COLEGIO SESC TEOFILO OTONI,Teófilo Otoni - MG,Privada,Urbana,1,2026-08-18 19:20:00.000000,SUP
+1,São João Evangelista,EE JOSEFINA PIMENTA,São João Evangelista - MG,Pública Estadual,Urbana,19,2026-08-18 19:20:00.000000,SUP
+2,São João Evangelista,EE ODILON BEHRENS,Guanhães - MG,Pública Estadual,Urbana,12,2026-08-18 19:20:00.000000,SUP
+3,São João Evangelista,IFMG - CAMPUS SAO JOAO EVANGELISTA,São João Evangelista - MG,Pública Federal,Rural,7,2026-08-18 19:20:00.000000,SUP
+4,São João Evangelista,EE SENADOR FRANCISCO NUNES COELHO,Guanhães - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,SUP
+5,São João Evangelista,EE DOUTOR ANTONIO DA CUNHA PEREIRA,Peçanha - MG,Pública Estadual,Urbana,6,2026-08-18 19:20:00.000000,SUP
+6,São João Evangelista,EE JOAO PINHEIRO,São Pedro do Suaçuí - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+7,São João Evangelista,EE PADRE JOAO CLARIMUNDO,Paulistas - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+8,São João Evangelista,EE NOSSA SENHORA DO PATROCINIO,Virginópolis - MG,Pública Estadual,Urbana,3,2026-08-18 19:20:00.000000,SUP
+9,São João Evangelista,EE PROFESSORA ESTER SIQUEIRA,Cantagalo - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+10,São João Evangelista,EE TEODOMIRO CALDEIRA LEAO,Aricanduva - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+11,São João Evangelista,EE ANGELO RIBEIRO MIRANDA,Dom Joaquim - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+12,São João Evangelista,OUTROS (ESCOLA NÃO LOCALIZADA/OUTROS PAÍSES),Outra - OU,Privada,Urbana,2,2026-08-18 19:20:00.000000,SUP
+13,São João Evangelista,EE TENENTE JOSE COELHO DA ROCHA,Guanhães - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+14,São João Evangelista,EE JOAQUIM SALLES,Serro - MG,Pública Estadual,Urbana,2,2026-08-18 19:20:00.000000,SUP
+15,São João Evangelista,ESCOLA ESTADUAL CARMINA DE CASTRO,Caapiranga - AM,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+16,São João Evangelista,EE DO POVOADO DE BOM JESUS DA BOA VISTA,Virginópolis - MG,Pública Estadual,Rural,1,2026-08-18 19:20:00.000000,SUP
+17,São João Evangelista,EE HAUY PETRUCELI MAYRINK,Santa Maria do Suaçuí - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+18,São João Evangelista,EE MESTRA BEZINHA GANDRA,Itamarandiba - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+19,São João Evangelista,EE PREFEITO JOAQUIM PEDRO NASCIMENTO,Governador Valadares - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+20,São João Evangelista,EE ADOLFO FERREIRA DE BARROS,Capitão Enéas - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+21,São João Evangelista,EE PROFESSORA CIVA SIMOES FONSECA,Senhora do Porto - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+22,São João Evangelista,EE PROFESSOR CAETANO AZEREDO,Belo Horizonte - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+23,São João Evangelista,EE MAJOR LERMINO PIMENTA,São João Evangelista - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+24,São João Evangelista,CESEC DE SANTA MARIA DE SUACUI,Santa Maria do Suaçuí - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+25,São João Evangelista,CESEC DURCELINO DA SILVA REIS,Guanhães - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+26,São João Evangelista,EE JOSE GONCALVES DE SOUZA,Frei Lagonegro - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+27,São João Evangelista,EE PROFESSOR ANTONIO LAGO,Capelinha - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+28,São João Evangelista,EE ADAO MARQUES DAS ALELUIAS,Água Boa - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+29,São João Evangelista,EE SAO SEBASTIAO DO MARANHAO,São Sebastião do Maranhão - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
+30,São João Evangelista,EE PRESIDENTE JOAO PINHEIRO,Santos Dumont - MG,Pública Estadual,Urbana,1,2026-08-18 19:20:00.000000,SUP
