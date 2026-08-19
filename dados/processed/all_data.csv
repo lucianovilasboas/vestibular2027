@@ -591,7 +591,7 @@ Piumhi,Técnico Subsequente em Enfermagem (SUB),30,43,12,1.43,0.4,5.0,0.0,0.0,8.
 Ribeirão das Neves,Técnico Subsequente em Logística (SUB),120,162,36,1.35,0.3,24.0,1.0,2.0,40.0,47.0,1.0,3.0,85.0,162.0,2026-08-18 22:31:00.000000,SUB
 Santa Luzia,Técnico Subsequente em Defesa Civil (SUB),60,49,14,0.82,0.23,5.0,1.0,0.0,7.0,14.0,1.0,1.0,20.0,49.0,2026-08-18 22:31:00.000000,SUB
 Santa Luzia,Técnico Subsequente em Segurança do Trabalho (SUB),40,41,8,1.02,0.2,13.0,0.0,1.0,14.0,20.0,0.0,2.0,25.0,41.0,2026-08-18 22:31:00.000000,SUB
-Todas,Todos,702,531,142,12.059999999999999,3.5999999999999996,88.0,5.0,5.0,123.0,186.0,7.0,11.0,290.0,531.0,2026-08-18 22:31:00.000000,SUB
+Todas,Todos,702,531,142,12.06,3.6,88.0,5.0,5.0,123.0,186.0,7.0,11.0,290.0,531.0,2026-08-18 22:31:00.000000,SUB
 Arcos,Direito (Histórico e Redação) (SUP),15,108,41,7.2,2.73,15.0,0.0,2.0,26.0,23.0,0.0,4.0,65.0,107.0,2026-08-18 22:31:00.000000,SUP
 Arcos,Engenharia Mecânica (ENEM) (SUP),20,6,2,0.3,0.1,0.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,6.0,2026-08-18 22:31:00.000000,SUP
 Arcos,Engenharia Mecânica (Histórico e Redação) (SUP),15,25,7,1.67,0.47,1.0,0.0,0.0,2.0,4.0,0.0,0.0,13.0,25.0,2026-08-18 22:31:00.000000,SUP
@@ -690,4 +690,177 @@ Santa Luzia,Engenharia Civil (ENEM) (SUP),20,32,10,1.6,0.5,7.0,0.0,0.0,9.0,12.0,
 Santa Luzia,Engenharia Civil (Histórico e Redação) (SUP),10,57,15,5.7,1.5,7.0,0.0,0.0,11.0,20.0,0.0,0.0,29.0,56.0,2026-08-18 22:31:00.000000,SUP
 Santa Luzia,Design de Interiores (ENEM) (SUP),20,8,2,0.4,0.1,0.0,0.0,0.0,0.0,2.0,0.0,0.0,3.0,8.0,2026-08-18 22:31:00.000000,SUP
 Santa Luzia,Design de Interiores (Histórico e Redação) (SUP),10,7,3,0.7,0.3,1.0,0.0,1.0,2.0,4.0,0.0,1.0,6.0,7.0,2026-08-18 22:31:00.000000,SUP
-Todas,Todos,1531,1832,637,118.61,40.839999999999996,259.0,7.0,27.0,427.0,605.0,13.0,63.0,1188.0,1821.0,2026-08-18 22:31:00.000000,SUP
+Todas,Todos,1531,1832,637,118.61,40.84,259.0,7.0,27.0,427.0,605.0,13.0,63.0,1188.0,1821.0,2026-08-18 22:31:00.000000,SUP
+Arcos,Técnico Integrado em Administração (INT),45,53,28,1.18,0.62,5.0,1.0,2.0,11.0,7.0,1.0,3.0,24.0,53.0,2026-08-19 07:01:00.000000,INT
+Arcos,Técnico Integrado em Mecânica (INT),45,19,8,0.42,0.18,0.0,0.0,0.0,2.0,2.0,0.0,1.0,13.0,19.0,2026-08-19 07:01:00.000000,INT
+Bambuí,Técnico Integrado em Administração (INT),40,19,8,0.47,0.2,1.0,0.0,0.0,1.0,1.0,0.0,0.0,9.0,19.0,2026-08-19 07:01:00.000000,INT
+Bambuí,Técnico Integrado em Agroindústria (INT),30,4,1,0.13,0.03,0.0,0.0,0.0,1.0,2.0,0.0,0.0,3.0,4.0,2026-08-19 07:01:00.000000,INT
+Bambuí,Técnico Integrado em Agropecuária (INT),90,50,25,0.56,0.28,3.0,1.0,0.0,9.0,9.0,1.0,0.0,28.0,50.0,2026-08-19 07:01:00.000000,INT
+Bambuí,Técnico Integrado em Biotecnologia (INT),30,21,11,0.7,0.37,2.0,0.0,0.0,5.0,2.0,0.0,0.0,11.0,21.0,2026-08-19 07:01:00.000000,INT
+Bambuí,Técnico Integrado em Eletromecânica (INT),32,9,5,0.28,0.16,2.0,1.0,1.0,3.0,3.0,1.0,1.0,8.0,9.0,2026-08-19 07:01:00.000000,INT
+Bambuí,Técnico Integrado em Informática (INT),35,24,19,0.69,0.54,1.0,0.0,0.0,2.0,4.0,0.0,1.0,11.0,24.0,2026-08-19 07:01:00.000000,INT
+Betim,Técnico Integrado em Automação Industrial (INT),60,350,184,5.83,3.07,38.0,3.0,1.0,68.0,85.0,3.0,5.0,175.0,341.0,2026-08-19 07:01:00.000000,INT
+Betim,Técnico Integrado em Mecânica (INT),60,179,89,2.98,1.48,20.0,0.0,2.0,35.0,46.0,1.0,3.0,92.0,173.0,2026-08-19 07:01:00.000000,INT
+Betim,Técnico Integrado em Química (INT),60,346,168,5.77,2.8,42.0,2.0,2.0,74.0,91.0,4.0,4.0,170.0,340.0,2026-08-19 07:01:00.000000,INT
+Congonhas,Técnico Integrado em Edificações (INT),70,117,75,1.67,1.07,12.0,2.0,3.0,23.0,33.0,2.0,5.0,68.0,114.0,2026-08-19 07:01:00.000000,INT
+Congonhas,Técnico Integrado em Mecânica (INT),35,64,37,1.83,1.06,13.0,1.0,2.0,18.0,31.0,1.0,2.0,48.0,62.0,2026-08-19 07:01:00.000000,INT
+Congonhas,Técnico Integrado em Mineração (INT),35,75,52,2.14,1.49,16.0,0.0,2.0,21.0,32.0,0.0,5.0,51.0,75.0,2026-08-19 07:01:00.000000,INT
+Formiga,Técnico Integrado em Administração (INT),40,44,24,1.1,0.6,4.0,0.0,0.0,14.0,8.0,0.0,0.0,34.0,42.0,2026-08-19 07:01:00.000000,INT
+Formiga,Técnico Integrado em Eletrotécnica (INT),35,18,8,0.51,0.23,3.0,1.0,0.0,5.0,5.0,1.0,0.0,13.0,18.0,2026-08-19 07:01:00.000000,INT
+Formiga,Técnico Integrado em Informática (INT),40,49,37,1.23,0.93,5.0,0.0,0.0,13.0,9.0,0.0,0.0,31.0,48.0,2026-08-19 07:01:00.000000,INT
+Governador Valadares,Técnico Integrado em Edificações (INT),40,80,53,2.0,1.32,4.0,0.0,0.0,10.0,14.0,0.0,0.0,34.0,77.0,2026-08-19 07:01:00.000000,INT
+Governador Valadares,Técnico Integrado em Meio Ambiente (INT),40,89,54,2.23,1.35,8.0,0.0,0.0,13.0,21.0,0.0,0.0,42.0,87.0,2026-08-19 07:01:00.000000,INT
+Governador Valadares,Técnico Integrado em Segurança do Trabalho (INT),40,122,74,3.05,1.85,8.0,0.0,0.0,16.0,30.0,0.0,2.0,61.0,121.0,2026-08-19 07:01:00.000000,INT
+Ibirité,Técnico Integrado em Automação Industrial (INT),40,89,44,2.23,1.1,18.0,0.0,1.0,25.0,35.0,0.0,2.0,53.0,88.0,2026-08-19 07:01:00.000000,INT
+Ibirité,Técnico Integrado em Informática (INT),40,234,119,5.85,2.98,43.0,0.0,2.0,66.0,80.0,0.0,4.0,133.0,232.0,2026-08-19 07:01:00.000000,INT
+Ibirité,Técnico Integrado em Mecatrônica (INT),40,116,67,2.9,1.68,14.0,0.0,1.0,24.0,37.0,0.0,1.0,61.0,116.0,2026-08-19 07:01:00.000000,INT
+Ibirité,Técnico Integrado em Sistemas de Energia Renovável (INT),40,70,33,1.75,0.82,11.0,0.0,0.0,15.0,17.0,0.0,0.0,31.0,69.0,2026-08-19 07:01:00.000000,INT
+Ipatinga,Técnico Integrado em Automação Industrial (INT),40,224,114,5.6,2.85,21.0,1.0,4.0,42.0,58.0,1.0,7.0,132.0,219.0,2026-08-19 07:01:00.000000,INT
+Ipatinga,Técnico Integrado em Eletrotécnica (INT),40,116,61,2.9,1.52,19.0,0.0,2.0,31.0,40.0,0.0,3.0,76.0,113.0,2026-08-19 07:01:00.000000,INT
+Itabirito,Técnico Integrado em Automação Industrial (INT),70,114,83,1.63,1.19,10.0,0.0,2.0,19.0,39.0,0.0,3.0,79.0,111.0,2026-08-19 07:01:00.000000,INT
+Itabirito,Técnico Integrado em Desenvolvimento de Sistemas (INT),30,54,36,1.8,1.2,6.0,0.0,2.0,12.0,15.0,0.0,2.0,36.0,53.0,2026-08-19 07:01:00.000000,INT
+Conselheiro Lafaiete,Técnico Integrado em Eletrotécnica (INT),40,86,59,2.15,1.48,10.0,0.0,0.0,13.0,25.0,0.0,0.0,51.0,82.0,2026-08-19 07:01:00.000000,INT
+Conselheiro Lafaiete,Técnico Integrado em Mecânica (INT),40,45,28,1.12,0.7,7.0,0.0,1.0,13.0,11.0,0.0,2.0,33.0,44.0,2026-08-19 07:01:00.000000,INT
+Conselheiro Lafaiete,Técnico Integrado em Segurança do Trabalho (INT),40,78,40,1.95,1.0,15.0,0.0,1.0,20.0,31.0,0.0,2.0,52.0,70.0,2026-08-19 07:01:00.000000,INT
+Ouro Branco,Técnico Integrado em Administração (INT),40,104,57,2.6,1.43,9.0,2.0,1.0,17.0,25.0,2.0,1.0,51.0,100.0,2026-08-19 07:01:00.000000,INT
+Ouro Branco,Técnico Integrado em Informática (INT),40,124,79,3.1,1.98,13.0,0.0,3.0,20.0,32.0,0.0,4.0,77.0,120.0,2026-08-19 07:01:00.000000,INT
+Ouro Branco,Técnico Integrado em Metalurgia (INT),40,23,8,0.57,0.2,4.0,0.0,0.0,7.0,11.0,0.0,0.0,16.0,23.0,2026-08-19 07:01:00.000000,INT
+Ouro Preto,Técnico Integrado em Administração (INT),60,158,95,2.63,1.58,22.0,2.0,1.0,35.0,61.0,4.0,4.0,100.0,150.0,2026-08-19 07:01:00.000000,INT
+Ouro Preto,Técnico Integrado em Automação Industrial (INT),80,147,97,1.84,1.21,9.0,0.0,0.0,16.0,42.0,0.0,0.0,81.0,142.0,2026-08-19 07:01:00.000000,INT
+Ouro Preto,Técnico Integrado em Edificações (INT),90,93,51,1.03,0.57,6.0,0.0,0.0,10.0,23.0,0.0,1.0,57.0,89.0,2026-08-19 07:01:00.000000,INT
+Ouro Preto,Técnico Integrado em Metalurgia (INT),90,29,18,0.32,0.2,2.0,0.0,0.0,7.0,11.0,0.0,0.0,21.0,29.0,2026-08-19 07:01:00.000000,INT
+Ouro Preto,Técnico Integrado em Mineração (INT),90,87,55,0.97,0.61,11.0,0.0,0.0,18.0,41.0,1.0,0.0,64.0,84.0,2026-08-19 07:01:00.000000,INT
+Piumhi,Técnico Integrado em Edificações (INT),80,86,63,1.07,0.79,0.0,0.0,0.0,10.0,9.0,0.0,3.0,44.0,86.0,2026-08-19 07:01:00.000000,INT
+Ponte Nova,Técnico Integrado em Administração (INT),40,197,105,4.92,2.62,33.0,0.0,2.0,52.0,65.0,1.0,3.0,118.0,189.0,2026-08-19 07:01:00.000000,INT
+Ponte Nova,Técnico Integrado em Informática (INT),35,163,94,4.66,2.69,27.0,0.0,1.0,37.0,48.0,2.0,6.0,98.0,148.0,2026-08-19 07:01:00.000000,INT
+Ribeirão das Neves,Técnico Integrado em Administração (INT),60,252,112,4.2,1.87,49.0,2.0,3.0,75.0,92.0,2.0,5.0,162.0,245.0,2026-08-19 07:01:00.000000,INT
+Ribeirão das Neves,Técnico Integrado em Eletroeletrônica (INT),35,84,43,2.4,1.23,9.0,0.0,1.0,17.0,27.0,0.0,5.0,53.0,83.0,2026-08-19 07:01:00.000000,INT
+Ribeirão das Neves,Técnico Integrado em Informática (INT),60,294,152,4.9,2.53,41.0,0.0,4.0,72.0,93.0,0.0,10.0,180.0,282.0,2026-08-19 07:01:00.000000,INT
+Sabará,Técnico Integrado em Administração (INT),35,197,100,5.63,2.86,34.0,0.0,3.0,46.0,77.0,0.0,6.0,110.0,194.0,2026-08-19 07:01:00.000000,INT
+Sabará,Técnico Integrado em Eletrônica (INT),70,125,63,1.79,0.9,26.0,0.0,0.0,40.0,45.0,0.0,0.0,73.0,125.0,2026-08-19 07:01:00.000000,INT
+Sabará,Técnico Integrado em Informática (INT),35,203,98,5.8,2.8,30.0,0.0,5.0,48.0,57.0,0.0,9.0,111.0,198.0,2026-08-19 07:01:00.000000,INT
+São João Evangelista,Técnico Integrado em Agrimensura (INT),40,22,14,0.55,0.35,5.0,0.0,0.0,5.0,11.0,0.0,0.0,15.0,21.0,2026-08-19 07:01:00.000000,INT
+São João Evangelista,Técnico Integrado em Agropecuária (INT),70,158,71,2.26,1.01,42.0,0.0,0.0,58.0,61.0,1.0,0.0,106.0,143.0,2026-08-19 07:01:00.000000,INT
+São João Evangelista,Técnico Integrado em Informática (INT),70,126,56,1.8,0.8,24.0,1.0,3.0,38.0,36.0,1.0,4.0,74.0,108.0,2026-08-19 07:01:00.000000,INT
+São João Evangelista,Técnico Integrado em Nutrição e Dietética (INT),70,153,83,2.19,1.19,28.0,0.0,0.0,46.0,58.0,1.0,0.0,111.0,137.0,2026-08-19 07:01:00.000000,INT
+Santa Luzia,Técnico Integrado em Edificações (INT),80,228,124,2.85,1.55,24.0,0.0,2.0,44.0,62.0,1.0,2.0,115.0,224.0,2026-08-19 07:01:00.000000,INT
+Santa Luzia,Técnico Integrado em Meio Ambiente (INT),40,110,54,2.75,1.35,13.0,0.0,3.0,24.0,31.0,0.0,5.0,54.0,107.0,2026-08-19 07:01:00.000000,INT
+Santa Luzia,Técnico Integrado em Segurança do Trabalho (INT),40,144,63,3.6,1.57,31.0,0.0,0.0,45.0,56.0,0.0,2.0,90.0,143.0,2026-08-19 07:01:00.000000,INT
+Todas,Todos,2752,6265,3399,129.07999999999998,70.03999999999998,853.0,20.0,63.0,1411.0,1897.0,32.0,128.0,3644.0,6064.0,2026-08-19 07:01:00.000000,INT
+Bambuí,Técnico Subsequente em Agropecuária (SUB),30,15,3,0.5,0.1,2.0,0.0,0.0,2.0,4.0,0.0,0.0,6.0,15.0,2026-08-19 07:01:00.000000,SUB
+Congonhas,Técnico Subsequente em Mecânica (SUB),35,13,1,0.37,0.03,2.0,1.0,1.0,3.0,5.0,1.0,1.0,7.0,13.0,2026-08-19 07:01:00.000000,SUB
+Congonhas,Técnico Subsequente em Mineração (SUB),35,11,4,0.31,0.11,0.0,0.0,0.0,0.0,2.0,0.0,0.0,6.0,11.0,2026-08-19 07:01:00.000000,SUB
+Governador Valadares,Técnico Subsequente em Segurança do Trabalho (SUB),40,21,2,0.53,0.05,4.0,0.0,1.0,5.0,9.0,0.0,1.0,14.0,21.0,2026-08-19 07:01:00.000000,SUB
+Ipatinga,Técnico Subsequente em Eletrotécnica (SUB),40,32,12,0.8,0.3,8.0,0.0,0.0,10.0,15.0,0.0,1.0,22.0,32.0,2026-08-19 07:01:00.000000,SUB
+Conselheiro Lafaiete,Técnico Subsequente em Eletrotécnica (SUB),40,45,15,1.12,0.38,5.0,0.0,0.0,9.0,18.0,0.0,1.0,30.0,45.0,2026-08-19 07:01:00.000000,SUB
+Conselheiro Lafaiete,Técnico Subsequente em Mecânica (SUB),40,15,6,0.38,0.15,2.0,0.0,0.0,3.0,7.0,0.0,0.0,9.0,15.0,2026-08-19 07:01:00.000000,SUB
+Ouro Preto,Técnico Subsequente em Edificações (SUB),30,8,1,0.27,0.03,1.0,0.0,0.0,2.0,2.0,0.0,0.0,5.0,8.0,2026-08-19 07:01:00.000000,SUB
+Ouro Preto,Técnico Subsequente em Joalheria (SUB),12,19,11,1.58,0.92,0.0,0.0,0.0,2.0,2.0,0.0,0.0,6.0,19.0,2026-08-19 07:01:00.000000,SUB
+Ouro Preto,Técnico Subsequente em Meio Ambiente (SUB),30,15,4,0.5,0.13,3.0,1.0,0.0,3.0,8.0,1.0,0.0,9.0,15.0,2026-08-19 07:01:00.000000,SUB
+Ouro Preto,Técnico Subsequente em Metalurgia (SUB),20,5,0,0.25,0.0,3.0,0.0,0.0,3.0,4.0,0.0,0.0,5.0,5.0,2026-08-19 07:01:00.000000,SUB
+Ouro Preto,Técnico Subsequente em Mineração (SUB),30,16,8,0.53,0.27,4.0,0.0,0.0,4.0,6.0,0.0,0.0,9.0,16.0,2026-08-19 07:01:00.000000,SUB
+Ouro Preto,Técnico Subsequente em Segurança do Trabalho (SUB),70,21,7,0.3,0.1,7.0,1.0,0.0,8.0,12.0,2.0,0.0,14.0,21.0,2026-08-19 07:01:00.000000,SUB
+Piumhi,Técnico Subsequente em Enfermagem (SUB),30,43,12,1.43,0.4,5.0,0.0,0.0,8.0,11.0,1.0,1.0,18.0,43.0,2026-08-19 07:01:00.000000,SUB
+Ribeirão das Neves,Técnico Subsequente em Logística (SUB),120,163,36,1.36,0.3,24.0,1.0,2.0,40.0,47.0,1.0,3.0,86.0,163.0,2026-08-19 07:01:00.000000,SUB
+Santa Luzia,Técnico Subsequente em Defesa Civil (SUB),60,49,14,0.82,0.23,5.0,1.0,0.0,7.0,14.0,1.0,1.0,20.0,49.0,2026-08-19 07:01:00.000000,SUB
+Santa Luzia,Técnico Subsequente em Segurança do Trabalho (SUB),40,42,8,1.05,0.2,13.0,0.0,1.0,14.0,20.0,0.0,2.0,25.0,42.0,2026-08-19 07:01:00.000000,SUB
+Todas,Todos,702,533,144,12.100000000000001,3.7,88.0,5.0,5.0,123.0,186.0,7.0,11.0,291.0,533.0,2026-08-19 07:01:00.000000,SUB
+Arcos,Direito (Histórico e Redação) (SUP),15,108,41,7.2,2.73,15.0,0.0,2.0,26.0,23.0,0.0,4.0,65.0,107.0,2026-08-19 07:01:00.000000,SUP
+Arcos,Engenharia Mecânica (ENEM) (SUP),20,6,2,0.3,0.1,0.0,0.0,0.0,2.0,0.0,0.0,0.0,3.0,6.0,2026-08-19 07:01:00.000000,SUP
+Arcos,Engenharia Mecânica (Histórico e Redação) (SUP),15,25,7,1.67,0.47,1.0,0.0,0.0,2.0,4.0,0.0,0.0,13.0,25.0,2026-08-19 07:01:00.000000,SUP
+Bambuí,Administração (ENEM) (SUP),20,13,1,0.65,0.05,2.0,0.0,0.0,3.0,4.0,0.0,0.0,11.0,13.0,2026-08-19 07:01:00.000000,SUP
+Bambuí,Agronomia (ENEM) (SUP),30,21,9,0.7,0.3,4.0,0.0,0.0,7.0,5.0,0.0,1.0,17.0,21.0,2026-08-19 07:01:00.000000,SUP
+Bambuí,Engenharia de Produção (ENEM) (SUP),20,1,0,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2026-08-19 07:01:00.000000,SUP
+Bambuí,Engenharia de Produção (Histórico e Redação) (SUP),5,5,2,1.0,0.4,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,5.0,2026-08-19 07:01:00.000000,SUP
+Bambuí,Inteligênca Artificial (ENEM) (SUP),25,13,6,0.52,0.24,2.0,0.0,0.0,2.0,4.0,0.0,0.0,7.0,13.0,2026-08-19 07:01:00.000000,SUP
+Bambuí,Medicina Veterinária (ENEM) (SUP),25,105,41,4.2,1.64,11.0,0.0,2.0,37.0,23.0,0.0,3.0,78.0,104.0,2026-08-19 07:01:00.000000,SUP
+Bambuí,Zootecnia (ENEM) (SUP),20,3,1,0.15,0.05,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,3.0,2026-08-19 07:01:00.000000,SUP
+Bambuí,Zootecnia (Histórico e Redação) (SUP),4,8,2,2.0,0.5,0.0,0.0,0.0,1.0,2.0,0.0,0.0,4.0,8.0,2026-08-19 07:01:00.000000,SUP
+Bambuí,Ciências Biológicas (ENEM) (SUP),13,2,2,0.15,0.15,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,2.0,2026-08-19 07:01:00.000000,SUP
+Bambuí,Ciências Biológicas (Histórico e Redação) (SUP),12,5,1,0.42,0.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,5.0,2026-08-19 07:01:00.000000,SUP
+Bambuí,Educação Física (ENEM) (SUP),14,3,3,0.21,0.21,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,3.0,2026-08-19 07:01:00.000000,SUP
+Bambuí,Educação Física (Histórico e Redação) (SUP),12,14,4,1.17,0.33,4.0,0.0,0.0,5.0,6.0,0.0,0.0,9.0,14.0,2026-08-19 07:01:00.000000,SUP
+Bambuí,Física (ENEM) (SUP),14,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-08-19 07:01:00.000000,SUP
+Bambuí,Física (Histórico e Redação) (SUP),12,1,0,0.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,2026-08-19 07:01:00.000000,SUP
+Betim,Engenharia de Controle e Automação (ENEM) (SUP),18,75,34,4.17,1.89,7.0,0.0,2.0,14.0,25.0,0.0,3.0,59.0,75.0,2026-08-19 07:01:00.000000,SUP
+Betim,Engenharia Mecânica (ENEM) (SUP),18,71,32,3.94,1.78,3.0,0.0,1.0,8.0,22.0,0.0,2.0,47.0,71.0,2026-08-19 07:01:00.000000,SUP
+Betim,Química (ENEM) (SUP),20,27,10,1.35,0.5,2.0,0.0,0.0,4.0,7.0,0.0,1.0,19.0,27.0,2026-08-19 07:01:00.000000,SUP
+Congonhas,Engenharia de Produção (ENEM) (SUP),20,45,14,2.25,0.7,10.0,1.0,0.0,13.0,18.0,2.0,1.0,34.0,44.0,2026-08-19 07:01:00.000000,SUP
+Congonhas,Física (ENEM) (SUP),10,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2026-08-19 07:01:00.000000,SUP
+Congonhas,Física (Histórico e Redação) (SUP),10,1,0,0.1,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2026-08-19 07:01:00.000000,SUP
+Congonhas,Letras (Português Inglês) (ENEM) (SUP),10,7,1,0.7,0.1,0.0,0.0,0.0,1.0,2.0,0.0,1.0,4.0,7.0,2026-08-19 07:01:00.000000,SUP
+Congonhas,Letras (Português Inglês) (Histórico e Redação) (SUP),10,13,3,1.3,0.3,2.0,0.0,1.0,2.0,3.0,0.0,1.0,5.0,13.0,2026-08-19 07:01:00.000000,SUP
+Formiga,Administração (ENEM) (SUP),15,10,1,0.67,0.07,1.0,0.0,0.0,2.0,4.0,0.0,0.0,8.0,10.0,2026-08-19 07:01:00.000000,SUP
+Formiga,Administração (Histórico e Redação) (SUP),15,23,7,1.53,0.47,1.0,0.0,0.0,3.0,4.0,0.0,0.0,17.0,23.0,2026-08-19 07:01:00.000000,SUP
+Formiga,Ciência da Computação (ENEM) (SUP),20,23,10,1.15,0.5,1.0,0.0,0.0,4.0,3.0,0.0,3.0,13.0,23.0,2026-08-19 07:01:00.000000,SUP
+Formiga,Ciência da Computação (Histórico e Redação) (SUP),8,22,10,2.75,1.25,2.0,0.0,0.0,3.0,4.0,0.0,0.0,12.0,22.0,2026-08-19 07:01:00.000000,SUP
+Formiga,Engenharia Elétrica (ENEM) (SUP),12,6,4,0.5,0.33,1.0,0.0,0.0,1.0,3.0,0.0,0.0,3.0,6.0,2026-08-19 07:01:00.000000,SUP
+Formiga,Engenharia Elétrica (Histórico e Redação) (SUP),14,9,2,0.64,0.14,1.0,0.0,0.0,3.0,2.0,0.0,0.0,6.0,9.0,2026-08-19 07:01:00.000000,SUP
+Formiga,Matemática (ENEM) (SUP),15,1,1,0.07,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2026-08-19 07:01:00.000000,SUP
+Formiga,Matemática (Histórico e Redação) (SUP),10,7,3,0.7,0.3,1.0,0.0,0.0,3.0,3.0,0.0,0.0,6.0,7.0,2026-08-19 07:01:00.000000,SUP
+Governador Valadares,Engenharia Ambiental e Sanitária (ENEM) (SUP),17,3,2,0.18,0.12,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,2026-08-19 07:01:00.000000,SUP
+Governador Valadares,Engenharia Ambiental e Sanitária (Histórico e Redação) (SUP),17,10,5,0.59,0.29,0.0,0.0,0.0,0.0,3.0,0.0,0.0,5.0,10.0,2026-08-19 07:01:00.000000,SUP
+Governador Valadares,Engenharia Civil (ENEM) (SUP),17,25,8,1.47,0.47,1.0,0.0,0.0,3.0,6.0,0.0,0.0,14.0,24.0,2026-08-19 07:01:00.000000,SUP
+Governador Valadares,Engenharia Civil (Histórico e Redação) (SUP),17,23,7,1.35,0.41,3.0,0.0,0.0,5.0,9.0,0.0,2.0,15.0,23.0,2026-08-19 07:01:00.000000,SUP
+Governador Valadares,Engenharia de Produção (ENEM) (SUP),17,7,4,0.41,0.24,0.0,0.0,0.0,1.0,3.0,0.0,0.0,4.0,7.0,2026-08-19 07:01:00.000000,SUP
+Governador Valadares,Engenharia de Produção (Histórico e Redação) (SUP),17,16,5,0.94,0.29,2.0,0.0,0.0,2.0,7.0,0.0,0.0,11.0,16.0,2026-08-19 07:01:00.000000,SUP
+Governador Valadares,Gestão Ambiental (ENEM) (SUP),17,4,2,0.24,0.12,1.0,0.0,0.0,1.0,1.0,0.0,0.0,3.0,4.0,2026-08-19 07:01:00.000000,SUP
+Governador Valadares,Gestão Ambiental (Histórico e Redação) (SUP),17,10,4,0.59,0.24,0.0,0.0,0.0,0.0,2.0,0.0,0.0,4.0,10.0,2026-08-19 07:01:00.000000,SUP
+Ibirité,Ciência da Computação (ENEM) (SUP),20,62,21,3.1,1.05,10.0,0.0,2.0,14.0,22.0,0.0,2.0,40.0,62.0,2026-08-19 07:01:00.000000,SUP
+Ibirité,Engenharia de Controle e Automação (ENEM) (SUP),20,45,21,2.25,1.05,3.0,0.0,0.0,8.0,17.0,0.0,2.0,30.0,45.0,2026-08-19 07:01:00.000000,SUP
+Ipatinga,Engenharia Elétrica (ENEM) (SUP),15,24,8,1.6,0.53,4.0,0.0,0.0,6.0,8.0,0.0,0.0,15.0,24.0,2026-08-19 07:01:00.000000,SUP
+Ipatinga,Engenharia Elétrica (Histórico e Redação) (SUP),10,25,7,2.5,0.7,8.0,0.0,1.0,9.0,11.0,0.0,3.0,15.0,24.0,2026-08-19 07:01:00.000000,SUP
+Itabirito,Engenharia Elétrica (ENEM) (SUP),10,14,3,1.4,0.3,2.0,1.0,0.0,2.0,5.0,1.0,0.0,6.0,14.0,2026-08-19 07:01:00.000000,SUP
+Itabirito,Engenharia Elétrica (Histórico e Redação) (SUP),10,13,6,1.3,0.6,2.0,1.0,0.0,3.0,7.0,1.0,1.0,12.0,13.0,2026-08-19 07:01:00.000000,SUP
+Ouro Branco,Administração (ENEM) (SUP),20,21,8,1.05,0.4,5.0,0.0,2.0,7.0,9.0,0.0,2.0,15.0,21.0,2026-08-19 07:01:00.000000,SUP
+Ouro Branco,Administração (Histórico e Redação) (SUP),20,30,9,1.5,0.45,9.0,0.0,1.0,10.0,17.0,0.0,1.0,22.0,29.0,2026-08-19 07:01:00.000000,SUP
+Ouro Branco,Engenharia Metalúrgica (ENEM) (SUP),10,16,8,1.6,0.8,1.0,0.0,0.0,4.0,3.0,0.0,1.0,9.0,16.0,2026-08-19 07:01:00.000000,SUP
+Ouro Branco,Engenharia Metalúrgica (Histórico e Redação) (SUP),25,16,6,0.64,0.24,0.0,0.0,0.0,1.0,4.0,0.0,0.0,13.0,16.0,2026-08-19 07:01:00.000000,SUP
+Ouro Branco,Sistemas de Informação (ENEM) (SUP),15,25,14,1.67,0.93,3.0,0.0,0.0,6.0,7.0,0.0,1.0,18.0,25.0,2026-08-19 07:01:00.000000,SUP
+Ouro Branco,Sistemas de Informação (Histórico e Redação) (SUP),25,29,12,1.16,0.48,1.0,0.0,1.0,3.0,10.0,0.0,1.0,20.0,28.0,2026-08-19 07:01:00.000000,SUP
+Ouro Branco,Pedagogia (ENEM) (SUP),20,24,9,1.2,0.45,8.0,0.0,1.0,10.0,14.0,0.0,1.0,20.0,24.0,2026-08-19 07:01:00.000000,SUP
+Ouro Branco,Pedagogia (Histórico e Redação) (SUP),20,48,16,2.4,0.8,9.0,0.0,1.0,14.0,17.0,0.0,1.0,34.0,48.0,2026-08-19 07:01:00.000000,SUP
+Ouro Preto,Conservação e Restauro (ENEM) (SUP),15,1,0,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2026-08-19 07:01:00.000000,SUP
+Ouro Preto,Conservação e Restauro (Histórico e Redação) (SUP),15,4,1,0.27,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2026-08-19 07:01:00.000000,SUP
+Ouro Preto,Física (ENEM) (SUP),10,3,0,0.3,0.0,2.0,0.0,1.0,2.0,2.0,0.0,1.0,3.0,3.0,2026-08-19 07:01:00.000000,SUP
+Ouro Preto,Física (Histórico e Redação) (SUP),5,1,0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2026-08-19 07:01:00.000000,SUP
+Ouro Preto,Geografia (ENEM) (SUP),15,3,2,0.2,0.13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,3.0,2026-08-19 07:01:00.000000,SUP
+Ouro Preto,Geografia (Histórico e Redação) (SUP),15,6,1,0.4,0.07,0.0,0.0,0.0,2.0,2.0,0.0,0.0,5.0,6.0,2026-08-19 07:01:00.000000,SUP
+Ouro Preto,Análise e Desenvolvimento de Sistemas (ENEM) (SUP),15,18,7,1.2,0.47,3.0,0.0,2.0,5.0,8.0,0.0,2.0,13.0,18.0,2026-08-19 07:01:00.000000,SUP
+Ouro Preto,Análise e Desenvolvimento de Sistemas (Histórico e Redação) (SUP),5,18,6,3.6,1.2,1.0,0.0,0.0,1.0,7.0,1.0,1.0,12.0,18.0,2026-08-19 07:01:00.000000,SUP
+Ouro Preto,Gestão da Qualidade (ENEM) (SUP),18,16,8,0.89,0.44,0.0,0.0,0.0,2.0,10.0,0.0,1.0,13.0,16.0,2026-08-19 07:01:00.000000,SUP
+Piumhi,Engenharia Civil (ENEM) (SUP),20,9,3,0.45,0.15,0.0,0.0,0.0,0.0,2.0,0.0,0.0,2.0,9.0,2026-08-19 07:01:00.000000,SUP
+Ponte Nova,Processos Gerenciais (ENEM) (SUP),20,7,2,0.35,0.1,1.0,1.0,1.0,2.0,2.0,1.0,1.0,3.0,7.0,2026-08-19 07:01:00.000000,SUP
+Ponte Nova,Processos Gerenciais (Histórico e Redação) (SUP),20,17,6,0.85,0.3,3.0,0.0,0.0,3.0,5.0,1.0,0.0,8.0,17.0,2026-08-19 07:01:00.000000,SUP
+Ribeirão das Neves,Administração (ENEM) (SUP),20,62,17,3.1,0.85,17.0,0.0,0.0,22.0,28.0,2.0,2.0,42.0,62.0,2026-08-19 07:01:00.000000,SUP
+Ribeirão das Neves,Análise e Desenvolvimento de Sistemas (ENEM) (SUP),18,71,17,3.94,0.94,8.0,0.0,1.0,17.0,24.0,1.0,3.0,45.0,71.0,2026-08-19 07:01:00.000000,SUP
+Ribeirão das Neves,Processos Gerenciais (ENEM) (SUP),20,24,5,1.2,0.25,5.0,1.0,1.0,6.0,9.0,1.0,1.0,13.0,24.0,2026-08-19 07:01:00.000000,SUP
+Sabará,Administração (ENEM) (SUP),15,16,6,1.07,0.4,5.0,0.0,0.0,5.0,7.0,0.0,0.0,8.0,15.0,2026-08-19 07:01:00.000000,SUP
+Sabará,Administração (Histórico e Redação) (SUP),15,27,10,1.8,0.67,6.0,0.0,1.0,6.0,6.0,0.0,1.0,10.0,27.0,2026-08-19 07:01:00.000000,SUP
+Sabará,Engenharia de Controle e Automação (ENEM) (SUP),16,19,9,1.19,0.56,3.0,0.0,0.0,4.0,10.0,0.0,1.0,16.0,19.0,2026-08-19 07:01:00.000000,SUP
+Sabará,Engenharia de Controle e Automação (Histórico e Redação) (SUP),12,32,12,2.67,1.0,1.0,0.0,0.0,2.0,12.0,0.0,1.0,22.0,32.0,2026-08-19 07:01:00.000000,SUP
+Sabará,Sistemas de Informação (ENEM) (SUP),15,17,5,1.13,0.33,2.0,0.0,1.0,4.0,5.0,0.0,2.0,12.0,17.0,2026-08-19 07:01:00.000000,SUP
+Sabará,Sistemas de Informação (Histórico e Redação) (SUP),10,36,16,3.6,1.6,5.0,0.0,0.0,7.0,12.0,0.0,4.0,26.0,36.0,2026-08-19 07:01:00.000000,SUP
+Sabará,Logística (ENEM) (SUP),10,3,1,0.3,0.1,1.0,0.0,0.0,2.0,2.0,0.0,0.0,3.0,3.0,2026-08-19 07:01:00.000000,SUP
+Sabará,Logística (Histórico e Redação) (SUP),30,23,7,0.77,0.23,4.0,0.0,0.0,5.0,7.0,0.0,0.0,9.0,23.0,2026-08-19 07:01:00.000000,SUP
+São João Evangelista,Administração (ENEM) (SUP),15,10,4,0.67,0.27,1.0,1.0,0.0,4.0,2.0,1.0,0.0,8.0,10.0,2026-08-19 07:01:00.000000,SUP
+São João Evangelista,Administração (Histórico e Redação) (SUP),15,15,7,1.0,0.47,5.0,0.0,0.0,8.0,8.0,0.0,0.0,12.0,15.0,2026-08-19 07:01:00.000000,SUP
+São João Evangelista,Agronomia (ENEM) (SUP),15,4,0,0.27,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,4.0,2026-08-19 07:01:00.000000,SUP
+São João Evangelista,Agronomia (Histórico e Redação) (SUP),15,10,3,0.67,0.2,3.0,0.0,0.0,6.0,3.0,0.0,0.0,7.0,8.0,2026-08-19 07:01:00.000000,SUP
+São João Evangelista,Engenharia Florestal (ENEM) (SUP),15,1,1,0.07,0.07,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,2026-08-19 07:01:00.000000,SUP
+São João Evangelista,Engenharia Florestal (Histórico e Redação) (SUP),15,1,0,0.07,0.0,1.0,0.0,0.0,1.0,1.0,0.0,0.0,1.0,1.0,2026-08-19 07:01:00.000000,SUP
+São João Evangelista,Sistemas de Informação (ENEM) (SUP),15,8,3,0.53,0.2,1.0,0.0,0.0,3.0,4.0,0.0,0.0,8.0,8.0,2026-08-19 07:01:00.000000,SUP
+São João Evangelista,Sistemas de Informação (Histórico e Redação) (SUP),15,12,2,0.8,0.13,3.0,0.0,1.0,5.0,6.0,0.0,1.0,9.0,12.0,2026-08-19 07:01:00.000000,SUP
+São João Evangelista,Ciências Biológicas (ENEM) (SUP),15,3,1,0.2,0.07,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,3.0,2026-08-19 07:01:00.000000,SUP
+São João Evangelista,Ciências Biológicas (Histórico e Redação) (SUP),15,6,1,0.4,0.07,1.0,0.0,0.0,2.0,1.0,0.0,0.0,3.0,6.0,2026-08-19 07:01:00.000000,SUP
+São João Evangelista,Matemática (ENEM) (SUP),15,2,0,0.13,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,2.0,2.0,2026-08-19 07:01:00.000000,SUP
+São João Evangelista,Matemática (Histórico e Redação) (SUP),15,3,1,0.2,0.07,0.0,0.0,0.0,1.0,0.0,0.0,0.0,2.0,3.0,2026-08-19 07:01:00.000000,SUP
+São João Evangelista,Pedagogia (ENEM) (SUP),15,4,2,0.27,0.13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,2026-08-19 07:01:00.000000,SUP
+São João Evangelista,Pedagogia (Histórico e Redação) (SUP),15,14,2,0.93,0.13,7.0,0.0,0.0,8.0,8.0,0.0,0.0,10.0,14.0,2026-08-19 07:01:00.000000,SUP
+Santa Luzia,Arquitetura e Urbanismo (ENEM) (SUP),20,20,5,1.0,0.25,4.0,0.0,0.0,6.0,4.0,0.0,0.0,8.0,20.0,2026-08-19 07:01:00.000000,SUP
+Santa Luzia,Arquitetura e Urbanismo (Histórico e Redação) (SUP),10,24,7,2.4,0.7,6.0,0.0,0.0,7.0,13.0,0.0,1.0,20.0,24.0,2026-08-19 07:01:00.000000,SUP
+Santa Luzia,Engenharia Civil (ENEM) (SUP),20,32,10,1.6,0.5,7.0,0.0,0.0,9.0,12.0,0.0,1.0,20.0,32.0,2026-08-19 07:01:00.000000,SUP
+Santa Luzia,Engenharia Civil (Histórico e Redação) (SUP),10,57,15,5.7,1.5,7.0,0.0,0.0,11.0,20.0,0.0,0.0,29.0,56.0,2026-08-19 07:01:00.000000,SUP
+Santa Luzia,Design de Interiores (ENEM) (SUP),20,9,2,0.45,0.1,1.0,0.0,0.0,1.0,3.0,0.0,0.0,4.0,9.0,2026-08-19 07:01:00.000000,SUP
+Santa Luzia,Design de Interiores (Histórico e Redação) (SUP),10,7,3,0.7,0.3,1.0,0.0,1.0,2.0,4.0,0.0,1.0,6.0,7.0,2026-08-19 07:01:00.000000,SUP
+Todas,Todos,1531,1838,649,119.03999999999999,41.629999999999995,261.0,7.0,28.0,431.0,608.0,13.0,64.0,1194.0,1827.0,2026-08-19 07:01:00.000000,SUP
