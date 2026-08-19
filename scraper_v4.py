@@ -27,6 +27,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import logging
 from dotenv import load_dotenv
+from validacao import validar_cursos, validar_escolas, validar_escolas_resumo, validar_cards
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
@@ -367,6 +368,9 @@ def main():
 
             df_cursos = fetch_painel_cursos(driver)
             if df_cursos is not None and not df_cursos.empty:
+                # Validação leve na coleta (não aborta; processa_v2 é quem bloqueia via quarentena)
+                resultado = validar_cursos(df_cursos, modalidade)
+                resultado.log(contexto=f"scraper {modalidade}")
                 save_painel_cursos(df_cursos, modalidade, coleta_ts)
             else:
                 logger.warning(f"Sem dados de cursos para {modalidade}")

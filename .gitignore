@@ -16,6 +16,7 @@ run.lock
 # Dados coletados/backup (não sobem para o Streamlit)
 dados/input/
 dados/backup/
+dados/quarentena/
 
 # Arquivos não utilizados (análise posterior)
 _nao_usados/

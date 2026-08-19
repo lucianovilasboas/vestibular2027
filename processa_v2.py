@@ -4,6 +4,28 @@ from datetime import datetime
 import shutil
 import re
 from log import logger
+from validacao import (
+    validar_cursos,
+    validar_escolas,
+    validar_escolas_resumo,
+    validar_cards,
+    validar_salto_total,
+    validar_completude_coleta,
+    mover_para_quarentena,
+)
+
+
+def _validar_e_mover(file_path, validador, contexto=""):
+    """Valida o arquivo; se tiver erros graves, move para quarentena e retorna None."""
+    df = pd.read_csv(file_path)
+    resultado = validador(df)
+    resultado.log(contexto or os.path.basename(file_path))
+
+    if not resultado.valido:
+        motivo = "; ".join(resultado.erros[:3])
+        mover_para_quarentena(file_path, motivo)
+        return None
+    return df
 
 
 # Função para ajustar a linha de totais
@@ -90,7 +112,9 @@ def processar_cards(files, input_folder, processed_folder, backup_folder):
 
     for file in cards_files:
         file_path = os.path.join(input_folder, file)
-        df_cards = pd.read_csv(file_path)
+        df_cards = _validar_e_mover(file_path, validar_cards, contexto=f"cards/{file}")
+        if df_cards is None:
+            continue
         collection_ts = extrair_timestamp_do_arquivo(file_path, file)
         df_cards['Timestamp'] = collection_ts
         cards_dataframes.append(df_cards)
@@ -116,8 +140,10 @@ def processar_dados(files, input_folder, processed_folder, backup_folder):
     for file in data_files:
         file_path = os.path.join(input_folder, file)
 
-        # Lê o arquivo CSV
-        df = pd.read_csv(file_path)
+        # Valida integridade do arquivo (quarentena se inválido)
+        df = _validar_e_mover(file_path, validar_cursos, contexto=f"dados/{file}")
+        if df is None:
+            continue
 
         # Ajusta os totais
         df = ajustar_totais(df)
@@ -125,14 +151,42 @@ def processar_dados(files, input_folder, processed_folder, backup_folder):
         # Registra o timestamp da coleta (preserva o timestamp original)
         collection_ts = extrair_timestamp_do_arquivo(file_path, file, prefixo='dados')
         df['Timestamp'] = collection_ts
-        df["Modalidade"] = extrair_modalidade_do_arquivo(file)
+        modalidade = extrair_modalidade_do_arquivo(file)
+        df["Modalidade"] = modalidade
+
+        # Checa salto vs última coleta histórica (aviso)
+        if not df_all.empty:
+            salto = validar_salto_total(df_all, df['Inscritos'].sum(), modalidade)
+            salto.log(contexto=f"salto/{file}")
 
         dataframes.append(df)
 
         shutil.move(file_path, os.path.join(backup_folder, file))
 
+    # Valida a completude das coletas novas (todas as modalidades por timestamp)
+    # dataframes[0] é o histórico; o restante são as coletas novas
+    coletas_novas = pd.concat(dataframes[1:], ignore_index=True) if len(dataframes) > 1 else pd.DataFrame()
+    if not coletas_novas.empty:
+        completude = validar_completude_coleta(coletas_novas)
+        # Coletas incompletas são removidas do histórico (evita distorção nos gráficos)
+        if completude.erros:
+            completude.log(contexto="completude")
+            timestamps_invalidos = set()
+            for msg in completude.erros:
+                # msg no formato: "coleta <ts> incompleta: ..." (ts pode conter espaços)
+                m = re.search(r'coleta (.+?) incompleta', msg)
+                if m:
+                    timestamps_invalidos.add(m.group(1))
+            coletas_novas = coletas_novas[~coletas_novas['Timestamp'].isin(list(timestamps_invalidos))]
+            logger.error(
+                f"[validacao] coletas incompletas removidas do histórico: {sorted(timestamps_invalidos)}"
+            )
+        else:
+            completude.log(contexto="completude")
+
     csv_file_path = os.path.join(processed_folder, "all_data")
-    df_all = pd.concat(dataframes)
+    df_all = pd.concat([dataframes[0], coletas_novas], ignore_index=True) if not coletas_novas.empty \
+        else dataframes[0].copy()
     df_all.to_csv(f"{csv_file_path}.csv", index=False, encoding="utf-8")
     logger.info(f"Dados processados: {len(df_all)} linhas em {csv_file_path}.csv")
 
@@ -152,7 +206,9 @@ def processar_escolas(files, input_folder, processed_folder, backup_folder):
 
     for file in escola_files:
         file_path = os.path.join(input_folder, file)
-        df = pd.read_csv(file_path)
+        df = _validar_e_mover(file_path, validar_escolas, contexto=f"escolas/{file}")
+        if df is None:
+            continue
         collection_ts = extrair_timestamp_do_arquivo(file_path, file, prefixo='escolas')
         df['Timestamp'] = collection_ts
         df["Modalidade"] = extrair_modalidade_do_arquivo(file)
@@ -179,7 +235,9 @@ def processar_escolas_resumo(files, input_folder, processed_folder, backup_folde
 
     for file in resumo_files:
         file_path = os.path.join(input_folder, file)
-        df = pd.read_csv(file_path)
+        df = _validar_e_mover(file_path, validar_escolas_resumo, contexto=f"escolas_resumo/{file}")
+        if df is None:
+            continue
         collection_ts = extrair_timestamp_do_arquivo(file_path, file, prefixo='escolas_resumo')
         df['Timestamp'] = collection_ts
         df["Modalidade"] = extrair_modalidade_do_arquivo(file)
