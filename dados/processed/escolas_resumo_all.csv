@@ -12912,3 +12912,863 @@ São João Evangelista,cidade,Cantagalo - MG,2,2026-08-20 20:00:00.000000,SUP
 São João Evangelista,cidade,Divinolândia de Minas - MG,2,2026-08-20 20:00:00.000000,SUP
 São João Evangelista,cidade,Serro - MG,2,2026-08-20 20:00:00.000000,SUP
 São João Evangelista,cidade,Ipatinga - MG,2,2026-08-20 20:00:00.000000,SUP
+Arcos,tipo,Pública Estadual,64,2026-08-21 07:00:00.000000,INT
+Arcos,tipo,Privada,28,2026-08-21 07:00:00.000000,INT
+Arcos,tipo,Pública Municipal,4,2026-08-21 07:00:00.000000,INT
+Arcos,area,Urbana,92,2026-08-21 07:00:00.000000,INT
+Arcos,area,Rural,4,2026-08-21 07:00:00.000000,INT
+Arcos,cidade,Arcos - MG,90,2026-08-21 07:00:00.000000,INT
+Arcos,cidade,Japaraíba - MG,1,2026-08-21 07:00:00.000000,INT
+Arcos,cidade,Acrelândia - AC,1,2026-08-21 07:00:00.000000,INT
+Arcos,cidade,Iguatama - MG,1,2026-08-21 07:00:00.000000,INT
+Arcos,cidade,Outra - OU,1,2026-08-21 07:00:00.000000,INT
+Arcos,cidade,Natal - RN,1,2026-08-21 07:00:00.000000,INT
+Arcos,cidade,Doresópolis - MG,1,2026-08-21 07:00:00.000000,INT
+Bambuí,tipo,Pública Estadual,90,2026-08-21 07:00:00.000000,INT
+Bambuí,tipo,Pública Municipal,29,2026-08-21 07:00:00.000000,INT
+Bambuí,tipo,Privada,22,2026-08-21 07:00:00.000000,INT
+Bambuí,area,Urbana,129,2026-08-21 07:00:00.000000,INT
+Bambuí,area,Rural,12,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Bambuí - MG,57,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Iguatama - MG,12,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Medeiros - MG,11,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Campos Altos - MG,6,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Luz - MG,6,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Pompéu - MG,5,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Arcos - MG,4,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Santa Rosa da Serra - MG,3,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Córrego Danta - MG,3,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Japaraíba - MG,3,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Piumhi - MG,3,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Contagem - MG,2,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Outra - OU,2,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Ibiá - MG,2,2026-08-21 07:00:00.000000,INT
+Bambuí,cidade,Araxá - MG,2,2026-08-21 07:00:00.000000,INT
+Betim,tipo,Pública Municipal,689,2026-08-21 07:00:00.000000,INT
+Betim,tipo,Privada,254,2026-08-21 07:00:00.000000,INT
+Betim,tipo,Pública Estadual,162,2026-08-21 07:00:00.000000,INT
+Betim,tipo,Pública Federal,6,2026-08-21 07:00:00.000000,INT
+Betim,area,Urbana,1111,2026-08-21 07:00:00.000000,INT
+Betim,cidade,Betim - MG,635,2026-08-21 07:00:00.000000,INT
+Betim,cidade,Contagem - MG,321,2026-08-21 07:00:00.000000,INT
+Betim,cidade,Belo Horizonte - MG,59,2026-08-21 07:00:00.000000,INT
+Betim,cidade,Outra - OU,27,2026-08-21 07:00:00.000000,INT
+Betim,cidade,São Joaquim de Bicas - MG,17,2026-08-21 07:00:00.000000,INT
+Betim,cidade,Igarapé - MG,12,2026-08-21 07:00:00.000000,INT
+Betim,cidade,Juatuba - MG,10,2026-08-21 07:00:00.000000,INT
+Betim,cidade,Esmeraldas - MG,7,2026-08-21 07:00:00.000000,INT
+Betim,cidade,Sarzedo - MG,6,2026-08-21 07:00:00.000000,INT
+Betim,cidade,Nova Lima - MG,3,2026-08-21 07:00:00.000000,INT
+Betim,cidade,Mário Campos - MG,1,2026-08-21 07:00:00.000000,INT
+Betim,cidade,Ouro Branco - MG,1,2026-08-21 07:00:00.000000,INT
+Betim,cidade,Ribeirão das Neves - MG,1,2026-08-21 07:00:00.000000,INT
+Betim,cidade,Carangola - MG,1,2026-08-21 07:00:00.000000,INT
+Betim,cidade,Turmalina - MG,1,2026-08-21 07:00:00.000000,INT
+Congonhas,tipo,Pública Municipal,205,2026-08-21 07:00:00.000000,INT
+Congonhas,tipo,Privada,62,2026-08-21 07:00:00.000000,INT
+Congonhas,tipo,Pública Estadual,50,2026-08-21 07:00:00.000000,INT
+Congonhas,tipo,Pública Federal,1,2026-08-21 07:00:00.000000,INT
+Congonhas,area,Urbana,318,2026-08-21 07:00:00.000000,INT
+Congonhas,cidade,Congonhas - MG,229,2026-08-21 07:00:00.000000,INT
+Congonhas,cidade,Jeceaba - MG,25,2026-08-21 07:00:00.000000,INT
+Congonhas,cidade,Conselheiro Lafaiete - MG,21,2026-08-21 07:00:00.000000,INT
+Congonhas,cidade,São Brás do Suaçuí - MG,13,2026-08-21 07:00:00.000000,INT
+Congonhas,cidade,Entre Rios de Minas - MG,10,2026-08-21 07:00:00.000000,INT
+Congonhas,cidade,Belo Vale - MG,9,2026-08-21 07:00:00.000000,INT
+Congonhas,cidade,Outra - OU,6,2026-08-21 07:00:00.000000,INT
+Congonhas,cidade,Barrinha - SP,1,2026-08-21 07:00:00.000000,INT
+Congonhas,cidade,Belo Horizonte - MG,1,2026-08-21 07:00:00.000000,INT
+Congonhas,cidade,Ouro Branco - MG,1,2026-08-21 07:00:00.000000,INT
+Congonhas,cidade,Guarapari - ES,1,2026-08-21 07:00:00.000000,INT
+Congonhas,cidade,Barão de Cocais - MG,1,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,tipo,Pública Municipal,112,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,tipo,Pública Estadual,106,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,tipo,Privada,24,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,area,Urbana,241,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,area,Rural,1,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Conselheiro Lafaiete - MG,182,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Carandaí - MG,27,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Catas Altas da Noruega - MG,6,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Caranaíba - MG,5,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Cristiano Otoni - MG,5,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Outra - OU,3,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Queluzito - MG,3,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Jeceaba - MG,2,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Itaverava - MG,2,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Juiz de Fora - MG,2,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Entre Rios de Minas - MG,1,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Ouro Branco - MG,1,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Santana dos Montes - MG,1,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Piranga - MG,1,2026-08-21 07:00:00.000000,INT
+Conselheiro Lafaiete,cidade,Rio Espera - MG,1,2026-08-21 07:00:00.000000,INT
+Formiga,tipo,Pública Estadual,88,2026-08-21 07:00:00.000000,INT
+Formiga,tipo,Pública Municipal,30,2026-08-21 07:00:00.000000,INT
+Formiga,tipo,Privada,12,2026-08-21 07:00:00.000000,INT
+Formiga,area,Urbana,128,2026-08-21 07:00:00.000000,INT
+Formiga,area,Rural,2,2026-08-21 07:00:00.000000,INT
+Formiga,cidade,Formiga - MG,94,2026-08-21 07:00:00.000000,INT
+Formiga,cidade,Pains - MG,17,2026-08-21 07:00:00.000000,INT
+Formiga,cidade,Córrego Fundo - MG,12,2026-08-21 07:00:00.000000,INT
+Formiga,cidade,Divinópolis - MG,1,2026-08-21 07:00:00.000000,INT
+Formiga,cidade,Outra - OU,1,2026-08-21 07:00:00.000000,INT
+Formiga,cidade,Barra da Estiva - BA,1,2026-08-21 07:00:00.000000,INT
+Formiga,cidade,Campo Belo - MG,1,2026-08-21 07:00:00.000000,INT
+Formiga,cidade,Santo Antônio do Monte - MG,1,2026-08-21 07:00:00.000000,INT
+Formiga,cidade,Arcos - MG,1,2026-08-21 07:00:00.000000,INT
+Formiga,cidade,Córrego Danta - MG,1,2026-08-21 07:00:00.000000,INT
+Governador Valadares,tipo,Pública Estadual,200,2026-08-21 07:00:00.000000,INT
+Governador Valadares,tipo,Privada,122,2026-08-21 07:00:00.000000,INT
+Governador Valadares,tipo,Pública Municipal,25,2026-08-21 07:00:00.000000,INT
+Governador Valadares,tipo,Pública Federal,1,2026-08-21 07:00:00.000000,INT
+Governador Valadares,area,Urbana,344,2026-08-21 07:00:00.000000,INT
+Governador Valadares,area,Rural,4,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,Governador Valadares - MG,250,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,Frei Inocêncio - MG,17,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,Engenheiro Caldas - MG,16,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,Mathias Lobato - MG,11,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,Outra - OU,10,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,Tarumirim - MG,7,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,Sardoá - MG,4,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,Jampruca - MG,4,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,Itanhomi - MG,3,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,Aimorés - MG,2,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,Alpercata - MG,2,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,Pescador - MG,2,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,São Geraldo da Piedade - MG,2,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,Teófilo Otoni - MG,1,2026-08-21 07:00:00.000000,INT
+Governador Valadares,cidade,Vitória - ES,1,2026-08-21 07:00:00.000000,INT
+Ibirité,tipo,Pública Municipal,346,2026-08-21 07:00:00.000000,INT
+Ibirité,tipo,Privada,162,2026-08-21 07:00:00.000000,INT
+Ibirité,tipo,Pública Estadual,127,2026-08-21 07:00:00.000000,INT
+Ibirité,area,Urbana,634,2026-08-21 07:00:00.000000,INT
+Ibirité,area,Rural,1,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,Belo Horizonte - MG,329,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,Ibirité - MG,201,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,Contagem - MG,50,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,Betim - MG,16,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,Sarzedo - MG,15,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,Outra - OU,12,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,Brumadinho - MG,4,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,Piedade dos Gerais - MG,1,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,Rio Doce - MG,1,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,Itambacuri - MG,1,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,Nova Serrana - MG,1,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,Ribeirão das Neves - MG,1,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,São Joaquim de Bicas - MG,1,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,Vespasiano - MG,1,2026-08-21 07:00:00.000000,INT
+Ibirité,cidade,Mário Campos - MG,1,2026-08-21 07:00:00.000000,INT
+Ipatinga,tipo,Pública Municipal,186,2026-08-21 07:00:00.000000,INT
+Ipatinga,tipo,Pública Estadual,153,2026-08-21 07:00:00.000000,INT
+Ipatinga,tipo,Privada,72,2026-08-21 07:00:00.000000,INT
+Ipatinga,area,Urbana,409,2026-08-21 07:00:00.000000,INT
+Ipatinga,area,Rural,2,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,Ipatinga - MG,293,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,Coronel Fabriciano - MG,47,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,Belo Oriente - MG,16,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,Timóteo - MG,13,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,Santana do Paraíso - MG,11,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,São Domingos do Prata - MG,5,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,Outra - OU,4,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,Ipaba - MG,3,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,Caratinga - MG,2,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,Dom Cavati - MG,2,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,Pingo-d'Água - MG,2,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,Joanésia - MG,1,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,Naque - MG,1,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,Pocrane - MG,1,2026-08-21 07:00:00.000000,INT
+Ipatinga,cidade,São Geraldo da Piedade - MG,1,2026-08-21 07:00:00.000000,INT
+Itabirito,tipo,Pública Municipal,128,2026-08-21 07:00:00.000000,INT
+Itabirito,tipo,Pública Estadual,48,2026-08-21 07:00:00.000000,INT
+Itabirito,tipo,Privada,19,2026-08-21 07:00:00.000000,INT
+Itabirito,tipo,Pública Federal,2,2026-08-21 07:00:00.000000,INT
+Itabirito,area,Urbana,197,2026-08-21 07:00:00.000000,INT
+Itabirito,cidade,Itabirito - MG,191,2026-08-21 07:00:00.000000,INT
+Itabirito,cidade,Ouro Preto - MG,2,2026-08-21 07:00:00.000000,INT
+Itabirito,cidade,Belo Horizonte - MG,1,2026-08-21 07:00:00.000000,INT
+Itabirito,cidade,Mariana - MG,1,2026-08-21 07:00:00.000000,INT
+Itabirito,cidade,Ouro Branco - MG,1,2026-08-21 07:00:00.000000,INT
+Itabirito,cidade,Nova Lima - MG,1,2026-08-21 07:00:00.000000,INT
+Ouro Branco,tipo,Pública Municipal,145,2026-08-21 07:00:00.000000,INT
+Ouro Branco,tipo,Privada,68,2026-08-21 07:00:00.000000,INT
+Ouro Branco,tipo,Pública Estadual,65,2026-08-21 07:00:00.000000,INT
+Ouro Branco,tipo,Pública Federal,1,2026-08-21 07:00:00.000000,INT
+Ouro Branco,area,Urbana,269,2026-08-21 07:00:00.000000,INT
+Ouro Branco,area,Rural,10,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Ouro Branco - MG,159,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Conselheiro Lafaiete - MG,95,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Jeceaba - MG,7,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Entre Rios de Minas - MG,3,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Caranaíba - MG,2,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Congonhas - MG,2,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Itaverava - MG,2,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Piranga - MG,2,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Macaé - RJ,1,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Barão de Cocais - MG,1,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Ipatinga - MG,1,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Ouro Preto - MG,1,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Senhora de Oliveira - MG,1,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Brumado - BA,1,2026-08-21 07:00:00.000000,INT
+Ouro Branco,cidade,Belo Horizonte - MG,1,2026-08-21 07:00:00.000000,INT
+Ouro Preto,tipo,Pública Municipal,259,2026-08-21 07:00:00.000000,INT
+Ouro Preto,tipo,Pública Estadual,205,2026-08-21 07:00:00.000000,INT
+Ouro Preto,tipo,Privada,136,2026-08-21 07:00:00.000000,INT
+Ouro Preto,tipo,Pública Federal,4,2026-08-21 07:00:00.000000,INT
+Ouro Preto,area,Urbana,587,2026-08-21 07:00:00.000000,INT
+Ouro Preto,area,Rural,17,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Ouro Preto - MG,297,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Mariana - MG,160,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Itabirito - MG,83,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Outra - OU,12,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Catas Altas - MG,12,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Santa Bárbara - MG,12,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Belo Horizonte - MG,7,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Conselheiro Lafaiete - MG,3,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Barão de Cocais - MG,2,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Piranga - MG,2,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Rio Casca - MG,2,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Lagoa Santa - MG,1,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Mateus Leme - MG,1,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Barra Longa - MG,1,2026-08-21 07:00:00.000000,INT
+Ouro Preto,cidade,Betim - MG,1,2026-08-21 07:00:00.000000,INT
+Piumhi,tipo,Pública Estadual,62,2026-08-21 07:00:00.000000,INT
+Piumhi,tipo,Privada,26,2026-08-21 07:00:00.000000,INT
+Piumhi,tipo,Pública Municipal,3,2026-08-21 07:00:00.000000,INT
+Piumhi,area,Urbana,91,2026-08-21 07:00:00.000000,INT
+Piumhi,cidade,Piumhi - MG,62,2026-08-21 07:00:00.000000,INT
+Piumhi,cidade,Pimenta - MG,16,2026-08-21 07:00:00.000000,INT
+Piumhi,cidade,Capitólio - MG,10,2026-08-21 07:00:00.000000,INT
+Piumhi,cidade,Doresópolis - MG,3,2026-08-21 07:00:00.000000,INT
+Ponte Nova,tipo,Pública Estadual,168,2026-08-21 07:00:00.000000,INT
+Ponte Nova,tipo,Pública Municipal,153,2026-08-21 07:00:00.000000,INT
+Ponte Nova,tipo,Privada,98,2026-08-21 07:00:00.000000,INT
+Ponte Nova,area,Urbana,416,2026-08-21 07:00:00.000000,INT
+Ponte Nova,area,Rural,3,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Ponte Nova - MG,262,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Urucânia - MG,20,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Jequeri - MG,18,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Dom Silvério - MG,18,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Amparo do Serra - MG,15,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Alvinópolis - MG,11,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Raul Soares - MG,10,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Rio Casca - MG,9,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Oratórios - MG,8,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Santa Cruz do Escalvado - MG,8,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Outra - OU,6,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Piedade de Ponte Nova - MG,6,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Guaraciaba - MG,5,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Rio Doce - MG,4,2026-08-21 07:00:00.000000,INT
+Ponte Nova,cidade,Sem-Peixe - MG,3,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,tipo,Pública Estadual,391,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,tipo,Pública Municipal,235,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,tipo,Privada,128,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,tipo,Pública Federal,5,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,area,Urbana,759,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,Ribeirão das Neves - MG,457,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,Belo Horizonte - MG,201,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,Esmeraldas - MG,25,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,Contagem - MG,21,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,São José da Lapa - MG,20,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,Outra - OU,17,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,Vespasiano - MG,4,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,Pedro Leopoldo - MG,3,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,Betim - MG,1,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,Conceição do Mato Dentro - MG,1,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,Governador Valadares - MG,1,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,Itamarandiba - MG,1,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,Matozinhos - MG,1,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,Santa Rita do Itueto - MG,1,2026-08-21 07:00:00.000000,INT
+Ribeirão das Neves,cidade,Brumadinho - MG,1,2026-08-21 07:00:00.000000,INT
+Sabará,tipo,Pública Estadual,295,2026-08-21 07:00:00.000000,INT
+Sabará,tipo,Pública Municipal,186,2026-08-21 07:00:00.000000,INT
+Sabará,tipo,Privada,139,2026-08-21 07:00:00.000000,INT
+Sabará,tipo,Pública Federal,5,2026-08-21 07:00:00.000000,INT
+Sabará,area,Urbana,625,2026-08-21 07:00:00.000000,INT
+Sabará,cidade,Sabará - MG,349,2026-08-21 07:00:00.000000,INT
+Sabará,cidade,Belo Horizonte - MG,201,2026-08-21 07:00:00.000000,INT
+Sabará,cidade,Caeté - MG,46,2026-08-21 07:00:00.000000,INT
+Sabará,cidade,Outra - OU,12,2026-08-21 07:00:00.000000,INT
+Sabará,cidade,Santa Luzia - MG,6,2026-08-21 07:00:00.000000,INT
+Sabará,cidade,Nova Lima - MG,5,2026-08-21 07:00:00.000000,INT
+Sabará,cidade,Contagem - MG,2,2026-08-21 07:00:00.000000,INT
+Sabará,cidade,Santa Bárbara - MG,1,2026-08-21 07:00:00.000000,INT
+Sabará,cidade,São José da Lapa - MG,1,2026-08-21 07:00:00.000000,INT
+Sabará,cidade,Carmópolis de Minas - MG,1,2026-08-21 07:00:00.000000,INT
+Sabará,cidade,Jaboticatubas - MG,1,2026-08-21 07:00:00.000000,INT
+Santa Luzia,tipo,Pública Estadual,226,2026-08-21 07:00:00.000000,INT
+Santa Luzia,tipo,Pública Municipal,187,2026-08-21 07:00:00.000000,INT
+Santa Luzia,tipo,Privada,140,2026-08-21 07:00:00.000000,INT
+Santa Luzia,tipo,Pública Federal,7,2026-08-21 07:00:00.000000,INT
+Santa Luzia,area,Urbana,560,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,Santa Luzia - MG,336,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,Belo Horizonte - MG,150,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,Vespasiano - MG,20,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,Outra - OU,15,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,Lagoa Santa - MG,9,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,São José da Lapa - MG,6,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,Pedro Leopoldo - MG,5,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,Caeté - MG,2,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,Contagem - MG,2,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,Sabará - MG,2,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,Brasília - DF,2,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,Confins - MG,1,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,Engenheiro Navarro - MG,1,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,Jaboticatubas - MG,1,2026-08-21 07:00:00.000000,INT
+Santa Luzia,cidade,Mateus Leme - MG,1,2026-08-21 07:00:00.000000,INT
+São João Evangelista,tipo,Pública Estadual,523,2026-08-21 07:00:00.000000,INT
+São João Evangelista,tipo,Pública Municipal,34,2026-08-21 07:00:00.000000,INT
+São João Evangelista,tipo,Privada,32,2026-08-21 07:00:00.000000,INT
+São João Evangelista,area,Urbana,563,2026-08-21 07:00:00.000000,INT
+São João Evangelista,area,Rural,26,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,Guanhães - MG,112,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,São João Evangelista - MG,101,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,Peçanha - MG,51,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,Santa Maria do Suaçuí - MG,39,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,Virginópolis - MG,28,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,Coluna - MG,26,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,São Pedro do Suaçuí - MG,20,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,São José do Jacuri - MG,16,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,Paulistas - MG,15,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,Capelinha - MG,15,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,Dom Joaquim - MG,15,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,Cantagalo - MG,15,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,Divinolândia de Minas - MG,10,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,Frei Lagonegro - MG,10,2026-08-21 07:00:00.000000,INT
+São João Evangelista,cidade,Angelândia - MG,9,2026-08-21 07:00:00.000000,INT
+Todas as unidades,tipo,Pública Estadual,489,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,tipo,Privada,75,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,tipo,Pública Federal,25,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,tipo,Pública Municipal,22,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,area,Urbana,601,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,area,Rural,10,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,Belo Horizonte - MG,46,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,Conselheiro Lafaiete - MG,43,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,Santa Luzia - MG,41,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,Ouro Preto - MG,39,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,Outra - OU,33,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,Piumhi - MG,25,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,Ribeirão das Neves - MG,24,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,Congonhas - MG,24,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,Governador Valadares - MG,14,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,Contagem - MG,12,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,Ipatinga - MG,12,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,Mariana - MG,11,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,São Paulo - SP,7,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,Bambuí - MG,7,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,cidade,Betim - MG,7,2026-08-21 07:00:00.000000,SUB
+Bambuí,tipo,Pública Estadual,11,2026-08-21 07:00:00.000000,SUB
+Bambuí,tipo,Pública Municipal,4,2026-08-21 07:00:00.000000,SUB
+Bambuí,tipo,Privada,4,2026-08-21 07:00:00.000000,SUB
+Bambuí,area,Urbana,16,2026-08-21 07:00:00.000000,SUB
+Bambuí,area,Rural,3,2026-08-21 07:00:00.000000,SUB
+Bambuí,cidade,Bambuí - MG,5,2026-08-21 07:00:00.000000,SUB
+Bambuí,cidade,Arcos - MG,2,2026-08-21 07:00:00.000000,SUB
+Bambuí,cidade,Formiga - MG,2,2026-08-21 07:00:00.000000,SUB
+Bambuí,cidade,Belo Horizonte - MG,1,2026-08-21 07:00:00.000000,SUB
+Bambuí,cidade,Perdões - MG,1,2026-08-21 07:00:00.000000,SUB
+Bambuí,cidade,Santa Rosa da Serra - MG,1,2026-08-21 07:00:00.000000,SUB
+Bambuí,cidade,Campinas - SP,1,2026-08-21 07:00:00.000000,SUB
+Bambuí,cidade,Santa Filomena - PE,1,2026-08-21 07:00:00.000000,SUB
+Bambuí,cidade,Caraí - MG,1,2026-08-21 07:00:00.000000,SUB
+Bambuí,cidade,Oliveira - MG,1,2026-08-21 07:00:00.000000,SUB
+Bambuí,cidade,Pimenta - MG,1,2026-08-21 07:00:00.000000,SUB
+Bambuí,cidade,Tapiraí - MG,1,2026-08-21 07:00:00.000000,SUB
+Bambuí,cidade,Leme - SP,1,2026-08-21 07:00:00.000000,SUB
+Congonhas,tipo,Pública Estadual,28,2026-08-21 07:00:00.000000,SUB
+Congonhas,tipo,Privada,2,2026-08-21 07:00:00.000000,SUB
+Congonhas,area,Urbana,30,2026-08-21 07:00:00.000000,SUB
+Congonhas,cidade,Congonhas - MG,17,2026-08-21 07:00:00.000000,SUB
+Congonhas,cidade,Santos Dumont - MG,1,2026-08-21 07:00:00.000000,SUB
+Congonhas,cidade,Barrinha - SP,1,2026-08-21 07:00:00.000000,SUB
+Congonhas,cidade,Outra - OU,1,2026-08-21 07:00:00.000000,SUB
+Congonhas,cidade,Oriximiná - PA,1,2026-08-21 07:00:00.000000,SUB
+Congonhas,cidade,Belo Horizonte - MG,1,2026-08-21 07:00:00.000000,SUB
+Congonhas,cidade,Entre Rios de Minas - MG,1,2026-08-21 07:00:00.000000,SUB
+Congonhas,cidade,Sabará - MG,1,2026-08-21 07:00:00.000000,SUB
+Congonhas,cidade,São Brás do Suaçuí - MG,1,2026-08-21 07:00:00.000000,SUB
+Congonhas,cidade,Ubiratã - PR,1,2026-08-21 07:00:00.000000,SUB
+Congonhas,cidade,Maceió - AL,1,2026-08-21 07:00:00.000000,SUB
+Congonhas,cidade,Betim - MG,1,2026-08-21 07:00:00.000000,SUB
+Congonhas,cidade,Conselheiro Lafaiete - MG,1,2026-08-21 07:00:00.000000,SUB
+Congonhas,cidade,Ouro Preto - MG,1,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,tipo,Pública Estadual,53,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,tipo,Pública Municipal,10,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,tipo,Privada,6,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,tipo,Pública Federal,1,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,area,Urbana,70,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,Conselheiro Lafaiete - MG,40,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,Congonhas - MG,4,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,Barbacena - MG,3,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,Outra - OU,3,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,Ouro Branco - MG,3,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,Senhora de Oliveira - MG,2,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,Carandaí - MG,2,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,Entre Rios de Minas - MG,2,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,Rio de Janeiro - RJ,1,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,Guanhães - MG,1,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,Patos de Minas - MG,1,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,São Brás do Suaçuí - MG,1,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,Varginha - MG,1,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,Recife - PE,1,2026-08-21 07:00:00.000000,SUB
+Conselheiro Lafaiete,cidade,Mairiporã - SP,1,2026-08-21 07:00:00.000000,SUB
+Governador Valadares,tipo,Pública Estadual,20,2026-08-21 07:00:00.000000,SUB
+Governador Valadares,tipo,Privada,3,2026-08-21 07:00:00.000000,SUB
+Governador Valadares,tipo,Pública Municipal,1,2026-08-21 07:00:00.000000,SUB
+Governador Valadares,area,Urbana,24,2026-08-21 07:00:00.000000,SUB
+Governador Valadares,cidade,Governador Valadares - MG,13,2026-08-21 07:00:00.000000,SUB
+Governador Valadares,cidade,Galiléia - MG,2,2026-08-21 07:00:00.000000,SUB
+Governador Valadares,cidade,Outra - OU,2,2026-08-21 07:00:00.000000,SUB
+Governador Valadares,cidade,Resplendor - MG,1,2026-08-21 07:00:00.000000,SUB
+Governador Valadares,cidade,São Félix de Minas - MG,1,2026-08-21 07:00:00.000000,SUB
+Governador Valadares,cidade,São Mateus - ES,1,2026-08-21 07:00:00.000000,SUB
+Governador Valadares,cidade,Itabuna - BA,1,2026-08-21 07:00:00.000000,SUB
+Governador Valadares,cidade,Santa Maria do Suaçuí - MG,1,2026-08-21 07:00:00.000000,SUB
+Governador Valadares,cidade,São Domingos do Norte - ES,1,2026-08-21 07:00:00.000000,SUB
+Governador Valadares,cidade,São Paulo - SP,1,2026-08-21 07:00:00.000000,SUB
+Ipatinga,tipo,Pública Estadual,34,2026-08-21 07:00:00.000000,SUB
+Ipatinga,tipo,Pública Federal,1,2026-08-21 07:00:00.000000,SUB
+Ipatinga,tipo,Privada,1,2026-08-21 07:00:00.000000,SUB
+Ipatinga,tipo,Pública Municipal,1,2026-08-21 07:00:00.000000,SUB
+Ipatinga,area,Urbana,35,2026-08-21 07:00:00.000000,SUB
+Ipatinga,area,Rural,2,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,Ipatinga - MG,12,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,Coronel Fabriciano - MG,4,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,Santana do Paraíso - MG,3,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,Timóteo - MG,3,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,Pavão - MG,2,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,São Paulo - SP,1,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,Açucena - MG,1,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,Belo Horizonte - MG,1,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,Carlos Chagas - MG,1,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,Dores de Guanhães - MG,1,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,Mesquita - MG,1,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,Pingo-d'Água - MG,1,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,Salvador - BA,1,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,Outra - OU,1,2026-08-21 07:00:00.000000,SUB
+Ipatinga,cidade,Araçuaí - MG,1,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,tipo,Pública Estadual,75,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,tipo,Privada,14,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,tipo,Pública Federal,5,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,tipo,Pública Municipal,2,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,area,Urbana,96,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Ouro Preto - MG,37,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Mariana - MG,11,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Belo Horizonte - MG,4,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Outra - OU,4,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Congonhas - MG,3,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Catas Altas - MG,3,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Salvador - BA,2,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Itabirito - MG,2,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Muriaé - MG,2,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Padre Paraíso - MG,1,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Carmo do Rio Claro - MG,1,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Rodeiro - MG,1,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Urucânia - MG,1,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Guaraciaba - MG,1,2026-08-21 07:00:00.000000,SUB
+Ouro Preto,cidade,Belém - PA,1,2026-08-21 07:00:00.000000,SUB
+Piumhi,tipo,Pública Estadual,37,2026-08-21 07:00:00.000000,SUB
+Piumhi,tipo,Privada,5,2026-08-21 07:00:00.000000,SUB
+Piumhi,tipo,Pública Federal,3,2026-08-21 07:00:00.000000,SUB
+Piumhi,tipo,Pública Municipal,1,2026-08-21 07:00:00.000000,SUB
+Piumhi,area,Urbana,45,2026-08-21 07:00:00.000000,SUB
+Piumhi,area,Rural,1,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,Piumhi - MG,25,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,Pimenta - MG,5,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,Doresópolis - MG,2,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,São Roque de Minas - MG,2,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,Franca - SP,2,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,Ribeirão Preto - SP,1,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,Outra - OU,1,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,Ibicuí - BA,1,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,Bambuí - MG,1,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,Rio Verde - GO,1,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,Icó - CE,1,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,Arcos - MG,1,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,Belo Horizonte - MG,1,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,São Francisco - MG,1,2026-08-21 07:00:00.000000,SUB
+Piumhi,cidade,Vargem Bonita - MG,1,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,tipo,Pública Estadual,150,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,tipo,Privada,25,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,tipo,Pública Federal,9,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,tipo,Pública Municipal,2,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,area,Urbana,183,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,area,Rural,3,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,Ribeirão das Neves - MG,23,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,Belo Horizonte - MG,20,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,Outra - OU,14,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,Contagem - MG,10,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,Betim - MG,3,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,Salvador - BA,3,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,Campos dos Goytacazes - RJ,3,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,Matozinhos - MG,2,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,São Bernardo do Campo - SP,2,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,Vila Velha - ES,2,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,Cataguases - MG,2,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,Volta Redonda - RJ,2,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,Vespasiano - MG,2,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,São Paulo - SP,2,2026-08-21 07:00:00.000000,SUB
+Ribeirão das Neves,cidade,Itaobim - MG,2,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,tipo,Pública Estadual,81,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,tipo,Privada,15,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,tipo,Pública Federal,6,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,tipo,Pública Municipal,1,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,area,Urbana,102,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,area,Rural,1,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,Santa Luzia - MG,40,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,Belo Horizonte - MG,18,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,Outra - OU,7,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,Sabará - MG,3,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,Betim - MG,2,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,São Paulo - SP,2,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,Contagem - MG,2,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,Barreiras - BA,1,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,Santa Rita do Sapucaí - MG,1,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,Arinos - MG,1,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,Três Corações - MG,1,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,Várzea da Palma - MG,1,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,Corinto - MG,1,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,Duque de Caxias - RJ,1,2026-08-21 07:00:00.000000,SUB
+Santa Luzia,cidade,Eugenópolis - MG,1,2026-08-21 07:00:00.000000,SUB
+Todas as unidades,tipo,Pública Estadual,1527,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,tipo,Pública Federal,320,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,tipo,Privada,234,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,tipo,Pública Municipal,48,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,area,Urbana,2041,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,area,Rural,88,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Belo Horizonte - MG,233,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Ouro Branco - MG,120,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Ribeirão das Neves - MG,119,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Betim - MG,107,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Formiga - MG,92,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Arcos - MG,90,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Bambuí - MG,85,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Sabará - MG,82,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Congonhas - MG,68,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Santa Luzia - MG,63,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Outra - OU,61,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Governador Valadares - MG,59,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Contagem - MG,55,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Ibirité - MG,53,2026-08-21 07:00:00.000000,SUP
+Todas as unidades,cidade,Ouro Preto - MG,48,2026-08-21 07:00:00.000000,SUP
+Arcos,tipo,Pública Estadual,113,2026-08-21 07:00:00.000000,SUP
+Arcos,tipo,Pública Federal,22,2026-08-21 07:00:00.000000,SUP
+Arcos,tipo,Privada,21,2026-08-21 07:00:00.000000,SUP
+Arcos,tipo,Pública Municipal,1,2026-08-21 07:00:00.000000,SUP
+Arcos,area,Urbana,152,2026-08-21 07:00:00.000000,SUP
+Arcos,area,Rural,5,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Arcos - MG,69,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Formiga - MG,14,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Iguatama - MG,9,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Lagoa da Prata - MG,6,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Bambuí - MG,5,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Outra - OU,5,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Belo Horizonte - MG,4,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Piumhi - MG,4,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Pains - MG,2,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Contagem - MG,2,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Manaus - AM,2,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Florestal - MG,2,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Passos - MG,1,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Capitão Enéas - MG,1,2026-08-21 07:00:00.000000,SUP
+Arcos,cidade,Porteirinha - MG,1,2026-08-21 07:00:00.000000,SUP
+Bambuí,tipo,Pública Estadual,128,2026-08-21 07:00:00.000000,SUP
+Bambuí,tipo,Pública Federal,58,2026-08-21 07:00:00.000000,SUP
+Bambuí,tipo,Privada,30,2026-08-21 07:00:00.000000,SUP
+Bambuí,tipo,Pública Municipal,6,2026-08-21 07:00:00.000000,SUP
+Bambuí,area,Urbana,175,2026-08-21 07:00:00.000000,SUP
+Bambuí,area,Rural,47,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Bambuí - MG,78,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Piumhi - MG,12,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Belo Horizonte - MG,11,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Divinópolis - MG,8,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Lagoa da Prata - MG,7,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Arcos - MG,7,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Medeiros - MG,5,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Araxá - MG,5,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Dores do Indaiá - MG,5,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Ipatinga - MG,4,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Luz - MG,4,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Carmópolis de Minas - MG,3,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Bom Despacho - MG,3,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Betim - MG,3,2026-08-21 07:00:00.000000,SUP
+Bambuí,cidade,Outra - OU,3,2026-08-21 07:00:00.000000,SUP
+Betim,tipo,Pública Estadual,121,2026-08-21 07:00:00.000000,SUP
+Betim,tipo,Pública Federal,37,2026-08-21 07:00:00.000000,SUP
+Betim,tipo,Privada,24,2026-08-21 07:00:00.000000,SUP
+Betim,tipo,Pública Municipal,5,2026-08-21 07:00:00.000000,SUP
+Betim,area,Urbana,183,2026-08-21 07:00:00.000000,SUP
+Betim,area,Rural,4,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,Betim - MG,91,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,Contagem - MG,32,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,Belo Horizonte - MG,16,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,Outra - OU,8,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,Ibirité - MG,7,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,Igarapé - MG,3,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,Sarzedo - MG,3,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,Mateus Leme - MG,2,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,São Joaquim de Bicas - MG,2,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,São José dos Campos - SP,1,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,Governador Valadares - MG,1,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,Matões - MA,1,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,Matipó - MG,1,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,Pedro Leopoldo - MG,1,2026-08-21 07:00:00.000000,SUP
+Betim,cidade,Brumadinho - MG,1,2026-08-21 07:00:00.000000,SUP
+Congonhas,tipo,Pública Estadual,75,2026-08-21 07:00:00.000000,SUP
+Congonhas,tipo,Pública Federal,8,2026-08-21 07:00:00.000000,SUP
+Congonhas,tipo,Privada,3,2026-08-21 07:00:00.000000,SUP
+Congonhas,tipo,Pública Municipal,1,2026-08-21 07:00:00.000000,SUP
+Congonhas,area,Urbana,87,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,Congonhas - MG,50,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,Conselheiro Lafaiete - MG,8,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,Belo Horizonte - MG,5,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,São Brás do Suaçuí - MG,4,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,Carandaí - MG,2,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,Entre Rios de Minas - MG,2,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,Jeceaba - MG,2,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,Ouro Branco - MG,2,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,Itaguara - MG,1,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,Montes Claros - MG,1,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,Pará de Minas - MG,1,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,Resende Costa - MG,1,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,Santos Dumont - MG,1,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,Barrinha - SP,1,2026-08-21 07:00:00.000000,SUP
+Congonhas,cidade,Piranga - MG,1,2026-08-21 07:00:00.000000,SUP
+Formiga,tipo,Pública Estadual,83,2026-08-21 07:00:00.000000,SUP
+Formiga,tipo,Pública Federal,23,2026-08-21 07:00:00.000000,SUP
+Formiga,tipo,Privada,15,2026-08-21 07:00:00.000000,SUP
+Formiga,tipo,Pública Municipal,1,2026-08-21 07:00:00.000000,SUP
+Formiga,area,Urbana,120,2026-08-21 07:00:00.000000,SUP
+Formiga,area,Rural,2,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,Formiga - MG,71,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,Arcos - MG,14,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,Lagoa da Prata - MG,5,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,Campo Belo - MG,2,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,Córrego Fundo - MG,2,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,São Paulo - SP,2,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,Salvador - BA,2,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,Rio de Janeiro - RJ,2,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,Divinópolis - MG,2,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,Piumhi - MG,1,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,São João Evangelista - MG,1,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,Cláudio - MG,1,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,Guarapari - ES,1,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,Franca - SP,1,2026-08-21 07:00:00.000000,SUP
+Formiga,cidade,Itapecerica - MG,1,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,tipo,Pública Estadual,90,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,tipo,Privada,8,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,tipo,Pública Federal,7,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,tipo,Pública Municipal,4,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,area,Urbana,109,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,Governador Valadares - MG,57,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,Frei Inocêncio - MG,3,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,Coroaci - MG,2,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,Divinolândia de Minas - MG,2,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,São Paulo - SP,2,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,Águas Formosas - MG,2,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,Outra - OU,2,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,Guanhães - MG,1,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,Teixeira de Freitas - BA,1,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,Bom Jesus de Goiás - GO,1,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,Itaobim - MG,1,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,Aimorés - MG,1,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,Leopoldina - MG,1,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,Campanário - MG,1,2026-08-21 07:00:00.000000,SUP
+Governador Valadares,cidade,Rio Piracicaba - MG,1,2026-08-21 07:00:00.000000,SUP
+Ibirité,tipo,Pública Estadual,65,2026-08-21 07:00:00.000000,SUP
+Ibirité,tipo,Privada,33,2026-08-21 07:00:00.000000,SUP
+Ibirité,tipo,Pública Federal,24,2026-08-21 07:00:00.000000,SUP
+Ibirité,tipo,Pública Municipal,4,2026-08-21 07:00:00.000000,SUP
+Ibirité,area,Urbana,126,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Ibirité - MG,45,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Belo Horizonte - MG,42,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Outra - OU,10,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Contagem - MG,7,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Betim - MG,6,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Sarzedo - MG,4,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Brasília - DF,1,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Catuti - MG,1,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Joaíma - MG,1,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Mato Verde - MG,1,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Nova Serrana - MG,1,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Ribeirão das Neves - MG,1,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Urucânia - MG,1,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Capim Branco - MG,1,2026-08-21 07:00:00.000000,SUP
+Ibirité,cidade,Itabira - MG,1,2026-08-21 07:00:00.000000,SUP
+Ipatinga,tipo,Pública Estadual,37,2026-08-21 07:00:00.000000,SUP
+Ipatinga,tipo,Pública Federal,9,2026-08-21 07:00:00.000000,SUP
+Ipatinga,tipo,Privada,5,2026-08-21 07:00:00.000000,SUP
+Ipatinga,area,Urbana,51,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,Ipatinga - MG,23,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,Coronel Fabriciano - MG,5,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,Santana do Paraíso - MG,4,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,Timóteo - MG,4,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,Outra - OU,2,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,Iapu - MG,2,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,Teófilo Otoni - MG,1,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,Barbacena - MG,1,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,Betim - MG,1,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,João Monlevade - MG,1,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,Pingo-d'Água - MG,1,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,Santa Rita do Itueto - MG,1,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,Santo Antônio dos Lopes - MA,1,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,Belo Horizonte - MG,1,2026-08-21 07:00:00.000000,SUP
+Ipatinga,cidade,Caratinga - MG,1,2026-08-21 07:00:00.000000,SUP
+Itabirito,tipo,Pública Estadual,20,2026-08-21 07:00:00.000000,SUP
+Itabirito,tipo,Pública Federal,12,2026-08-21 07:00:00.000000,SUP
+Itabirito,tipo,Privada,2,2026-08-21 07:00:00.000000,SUP
+Itabirito,area,Urbana,33,2026-08-21 07:00:00.000000,SUP
+Itabirito,area,Rural,1,2026-08-21 07:00:00.000000,SUP
+Itabirito,cidade,Itabirito - MG,20,2026-08-21 07:00:00.000000,SUP
+Itabirito,cidade,Ouro Preto - MG,4,2026-08-21 07:00:00.000000,SUP
+Itabirito,cidade,Potim - SP,1,2026-08-21 07:00:00.000000,SUP
+Itabirito,cidade,Tutóia - MA,1,2026-08-21 07:00:00.000000,SUP
+Itabirito,cidade,Barra Longa - MG,1,2026-08-21 07:00:00.000000,SUP
+Itabirito,cidade,Contagem - MG,1,2026-08-21 07:00:00.000000,SUP
+Itabirito,cidade,Nova Lima - MG,1,2026-08-21 07:00:00.000000,SUP
+Itabirito,cidade,Ponte Nova - MG,1,2026-08-21 07:00:00.000000,SUP
+Itabirito,cidade,Outra - OU,1,2026-08-21 07:00:00.000000,SUP
+Itabirito,cidade,Curionópolis - PA,1,2026-08-21 07:00:00.000000,SUP
+Itabirito,cidade,Campo Formoso - BA,1,2026-08-21 07:00:00.000000,SUP
+Itabirito,cidade,Conselheiro Lafaiete - MG,1,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,tipo,Pública Estadual,186,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,tipo,Pública Federal,34,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,tipo,Privada,14,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,tipo,Pública Municipal,6,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,area,Urbana,239,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,area,Rural,1,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,Ouro Branco - MG,116,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,Conselheiro Lafaiete - MG,37,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,Congonhas - MG,16,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,Outra - OU,5,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,Ouro Preto - MG,5,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,Caranaíba - MG,4,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,Barbacena - MG,3,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,Belo Horizonte - MG,3,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,Nova Lima - MG,3,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,Entre Rios de Minas - MG,2,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,Ipatinga - MG,2,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,São Paulo - SP,2,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,Mariana - MG,2,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,São Sebastião - SP,1,2026-08-21 07:00:00.000000,SUP
+Ouro Branco,cidade,Pedra Azul - MG,1,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,tipo,Pública Estadual,55,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,tipo,Pública Federal,13,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,tipo,Privada,6,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,area,Urbana,74,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,Ouro Preto - MG,38,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,Mariana - MG,6,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,Belo Horizonte - MG,3,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,Sabará - MG,2,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,São Luís - MA,2,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,Eunápolis - BA,1,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,Carapicuíba - SP,1,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,São Bernardo do Campo - SP,1,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,Conselheiro Lafaiete - MG,1,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,São Paulo - SP,1,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,Rio Casca - MG,1,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,Porto Velho - RO,1,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,Laranjal do Jari - AP,1,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,Virginópolis - MG,1,2026-08-21 07:00:00.000000,SUP
+Ouro Preto,cidade,Três Rios - RJ,1,2026-08-21 07:00:00.000000,SUP
+Piumhi,tipo,Pública Estadual,8,2026-08-21 07:00:00.000000,SUP
+Piumhi,tipo,Pública Federal,1,2026-08-21 07:00:00.000000,SUP
+Piumhi,tipo,Pública Municipal,1,2026-08-21 07:00:00.000000,SUP
+Piumhi,area,Urbana,9,2026-08-21 07:00:00.000000,SUP
+Piumhi,area,Rural,1,2026-08-21 07:00:00.000000,SUP
+Piumhi,cidade,Piumhi - MG,6,2026-08-21 07:00:00.000000,SUP
+Piumhi,cidade,Belo Horizonte - MG,1,2026-08-21 07:00:00.000000,SUP
+Piumhi,cidade,Lavras - MG,1,2026-08-21 07:00:00.000000,SUP
+Piumhi,cidade,São João da Ponte - MG,1,2026-08-21 07:00:00.000000,SUP
+Piumhi,cidade,Formiga - MG,1,2026-08-21 07:00:00.000000,SUP
+Ponte Nova,tipo,Pública Estadual,27,2026-08-21 07:00:00.000000,SUP
+Ponte Nova,tipo,Privada,2,2026-08-21 07:00:00.000000,SUP
+Ponte Nova,tipo,Pública Federal,1,2026-08-21 07:00:00.000000,SUP
+Ponte Nova,area,Urbana,30,2026-08-21 07:00:00.000000,SUP
+Ponte Nova,cidade,Ponte Nova - MG,25,2026-08-21 07:00:00.000000,SUP
+Ponte Nova,cidade,Oratórios - MG,1,2026-08-21 07:00:00.000000,SUP
+Ponte Nova,cidade,Piraúba - MG,1,2026-08-21 07:00:00.000000,SUP
+Ponte Nova,cidade,Santo Antônio do Grama - MG,1,2026-08-21 07:00:00.000000,SUP
+Ponte Nova,cidade,Amparo do Serra - MG,1,2026-08-21 07:00:00.000000,SUP
+Ponte Nova,cidade,Ouro Preto - MG,1,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,tipo,Pública Estadual,148,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,tipo,Privada,14,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,tipo,Pública Federal,12,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,tipo,Pública Municipal,4,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,area,Urbana,177,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,area,Rural,1,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,Ribeirão das Neves - MG,108,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,Belo Horizonte - MG,36,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,Esmeraldas - MG,7,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,Contagem - MG,6,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,Outra - OU,4,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,Sete Lagoas - MG,2,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,Vespasiano - MG,2,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,Vitória - ES,1,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,Eunápolis - BA,1,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,Tangará da Serra - MT,1,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,Betim - MG,1,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,Formiga - MG,1,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,Lagoa Santa - MG,1,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,Santa Luzia - MG,1,2026-08-21 07:00:00.000000,SUP
+Ribeirão das Neves,cidade,São Luís - MA,1,2026-08-21 07:00:00.000000,SUP
+Sabará,tipo,Pública Estadual,129,2026-08-21 07:00:00.000000,SUP
+Sabará,tipo,Privada,28,2026-08-21 07:00:00.000000,SUP
+Sabará,tipo,Pública Federal,20,2026-08-21 07:00:00.000000,SUP
+Sabará,tipo,Pública Municipal,7,2026-08-21 07:00:00.000000,SUP
+Sabará,area,Urbana,181,2026-08-21 07:00:00.000000,SUP
+Sabará,area,Rural,3,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Sabará - MG,74,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Belo Horizonte - MG,70,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Outra - OU,5,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Santa Luzia - MG,5,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Caeté - MG,4,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Contagem - MG,2,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Divinópolis - MG,2,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Ribeirão das Neves - MG,2,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Carinhanha - BA,1,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Cariacica - ES,1,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Betim - MG,1,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Hortolândia - SP,1,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Brasília - DF,1,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Janaúba - MG,1,2026-08-21 07:00:00.000000,SUP
+Sabará,cidade,Lagoa Santa - MG,1,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,tipo,Pública Estadual,110,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,tipo,Privada,26,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,tipo,Pública Federal,19,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,tipo,Pública Municipal,8,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,area,Urbana,162,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,area,Rural,1,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Santa Luzia - MG,55,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Belo Horizonte - MG,38,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Outra - OU,12,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Ribeirão das Neves - MG,7,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Vespasiano - MG,5,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Sabará - MG,3,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Matozinhos - MG,2,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Formiga - MG,2,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Araxá - MG,2,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Betim - MG,2,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Sete Lagoas - MG,2,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Ibirité - MG,1,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Abreu e Lima - PE,1,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Viçosa - MG,1,2026-08-21 07:00:00.000000,SUP
+Santa Luzia,cidade,Ilhéus - BA,1,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,tipo,Pública Estadual,132,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,tipo,Pública Federal,20,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,tipo,Privada,3,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,area,Urbana,133,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,area,Rural,22,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,São João Evangelista - MG,42,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,Guanhães - MG,27,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,São Pedro do Suaçuí - MG,15,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,Virginópolis - MG,10,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,Peçanha - MG,7,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,Sabinópolis - MG,5,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,Dores de Guanhães - MG,5,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,Dom Joaquim - MG,4,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,Santa Maria do Suaçuí - MG,4,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,Paulistas - MG,3,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,Serro - MG,2,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,Ipatinga - MG,2,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,Água Boa - MG,2,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,Capelinha - MG,2,2026-08-21 07:00:00.000000,SUP
+São João Evangelista,cidade,Coluna - MG,2,2026-08-21 07:00:00.000000,SUP
