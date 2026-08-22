@@ -271,21 +271,50 @@ def ultima_coleta_por_modalidade(df):
 
 
 def plot_evolucao(df, titulo="Evolução das Inscrições ao Longo do Tempo", key="evolucao"):
-    df_grouped = df.groupby("Data")['Inscritos'].sum().reset_index().sort_values("Data")
+    df_grouped = df.groupby(["Data", "Modalidade"])['Inscritos'].sum().reset_index().sort_values("Data")
     if df_grouped.empty:
         st.info("Sem dados para exibir.")
         return
-    fig = px.line(df_grouped, x="Data", y="Inscritos", markers=True,
-                  title=titulo, height=500, color_discrete_sequence=["#2e7d32"])
-    fig.update_traces(mode="lines+markers", hovertemplate="%{y}")
+    df_grouped['Modalidade'] = df_grouped['Modalidade'].map(MODALIDADE_LABELS).fillna(df_grouped['Modalidade'])
+    multi = df_grouped['Modalidade'].nunique() > 1
+
+    if multi:
+        fig = px.line(df_grouped, x="Data", y="Inscritos", color="Modalidade", markers=True,
+                      title=titulo, height=550,
+                      color_discrete_sequence=["#2e7d32", "#1565c0", "#ef6c00"])
+        fig.update_traces(
+            mode="lines+markers",
+            line=dict(width=4, shape="spline", smoothing=0.5),
+            marker=dict(size=11, line=dict(color="#ffffff", width=2), symbol="circle"),
+            hovertemplate="<b>%{x|%d/%m/%Y}</b><br>%{fullData.name}: <b>%{y:,}</b><extra></extra>",
+        )
+        showlegend = True
+    else:
+        fig = px.line(df_grouped, x="Data", y="Inscritos", markers=True,
+                      title=titulo, height=550, color_discrete_sequence=["#2e7d32"])
+        fig.update_traces(
+            mode="lines+markers",
+            line=dict(width=5, shape="spline", smoothing=0.5),
+            marker=dict(size=12, color="#2e7d32",
+                        line=dict(color="#ffffff", width=2.5),
+                        symbol="circle"),
+            fill="tozeroy",
+            fillcolor="rgba(46, 125, 50, 0.12)",
+            hovertemplate="<b>%{x|%d/%m/%Y}</b><br>Inscrições: <b>%{y:,}</b><extra></extra>",
+        )
+        showlegend = False
+
     fig.update_layout(
         hovermode="x unified",
+        showlegend=showlegend,
         plot_bgcolor="rgba(0,0,0,0)",
         paper_bgcolor="rgba(0,0,0,0)",
         font=dict(family="Segoe UI, Arial", size=14),
-        title=dict(font=dict(size=18, color="#1a3d2f")),
-        xaxis=dict(gridcolor="#e9ecef"),
-        yaxis=dict(gridcolor="#e9ecef"),
+        title=dict(font=dict(size=20, color="#1a3d2f")),
+        margin=dict(l=60, r=30, t=70, b=60),
+        xaxis=dict(gridcolor="#e9ecef", tickangle=0),
+        yaxis=dict(gridcolor="#e9ecef", tickformat=","),
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="left", x=0),
     )
     st.plotly_chart(fig, width='stretch', key=key)
 
@@ -370,7 +399,16 @@ with tab_geral:
         y='Inscritos', 
         color='Modalidade',
         title='Total de Inscrições por Unidade e Modalidade',
-        barmode='group'
+        barmode='group',
+        text='Inscritos',
+        color_discrete_sequence=["#2e7d32", "#1565c0", "#ef6c00"],
+    )
+    
+    fig_barras.update_traces(
+        texttemplate="%{text:,}",
+        textposition="outside",
+        cliponaxis=False,
+        marker=dict(line=dict(width=0), cornerradius=6),
     )
     
     fig_barras.update_layout(
@@ -381,10 +419,15 @@ with tab_geral:
         plot_bgcolor="rgba(0,0,0,0)",
         paper_bgcolor="rgba(0,0,0,0)",
         font=dict(family="Segoe UI, Arial", size=14),
-        title=dict(font=dict(size=18, color="#1a3d2f")),
+        title=dict(font=dict(size=20, color="#1a3d2f")),
+        margin=dict(l=60, r=30, t=70, b=60),
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="left", x=0),
+        xaxis=dict(gridcolor="#e9ecef", tickangle=45),
+        yaxis=dict(gridcolor="#e9ecef", tickformat=","),
     )
-    
-    fig_barras.update_xaxes(tickangle=45)
+    fig_barras.update_traces(
+        hovertemplate="<b>%{x}</b><br>%{fullData.name}: <b>%{y:,}</b><extra></extra>"
+    )
     
     st.plotly_chart(fig_barras, width='stretch', key='bar_unidades')
 
@@ -404,14 +447,24 @@ with tab_geral:
         markers=True,
         category_orders={'Unidade': ordem_legenda}
     )
-    fig_evolucao.update_traces(mode="lines+markers", hovertemplate="%{y}")
+    fig_evolucao.update_traces(
+        mode="lines+markers",
+        line=dict(width=4, shape="spline", smoothing=0.4),
+        marker=dict(size=11, line=dict(color="#ffffff", width=2), symbol="circle"),
+        fill="tozeroy",
+        fillcolor="rgba(21, 101, 192, 0.08)",
+        hovertemplate="<b>%{x|%d/%m/%Y}</b><br>%{fullData.name}: <b>%{y:,}</b><extra></extra>",
+    )
     fig_evolucao.update_layout(
         height=600,
         hovermode="x unified",
         plot_bgcolor="rgba(0,0,0,0)",
         paper_bgcolor="rgba(0,0,0,0)",
         font=dict(family="Segoe UI, Arial", size=14),
-        title=dict(font=dict(size=18, color="#1a3d2f")),
+        title=dict(font=dict(size=20, color="#1a3d2f")),
+        margin=dict(l=60, r=30, t=70, b=60),
+        xaxis=dict(gridcolor="#e9ecef", tickangle=0),
+        yaxis=dict(gridcolor="#e9ecef", tickformat=","),
     )
 
     st.plotly_chart(fig_evolucao, width='stretch', key='evol_unidades')
@@ -493,22 +546,40 @@ with tab_curso:
             cota_cols = [c for c in COTA_LABELS if c in df_curso_sel.columns]
             if cota_cols:
                 df_cotas = df_curso_sel[['Curso'] + cota_cols].groupby('Curso', as_index=False).sum(numeric_only=True)
-                df_cotas_melt = df_cotas.melt(id_vars='Curso', var_name='Cota', value_name='Inscritos')
-                df_cotas_melt['Cota'] = df_cotas_melt['Cota'].map(COTA_LABELS)
+                df_cotas_total = df_cotas[cota_cols].sum().reset_index()
+                df_cotas_total.columns = ['Cota', 'Inscritos']
+                df_cotas_total['Cota'] = df_cotas_total['Cota'].map(COTA_LABELS)
+                df_cotas_total = df_cotas_total.sort_values('Inscritos', ascending=True)
+                cota_palette = ["#2e7d32", "#43a047", "#66bb6a", "#1565c0", "#1e88e5",
+                                "#6a1b9a", "#8e24aa", "#ef6c00", "#f9a825"]
 
                 fig_cotas = px.bar(
-                    df_cotas_melt,
+                    df_cotas_total,
                     x='Inscritos', y='Cota', color='Cota',
                     orientation='h',
                     title='Inscritos por Cota',
                     height=max(400, 60 * len(cota_cols) + 100),
+                    text='Inscritos',
+                    color_discrete_map=dict(zip(df_cotas_total['Cota'], cota_palette)),
+                )
+                fig_cotas.update_traces(
+                    texttemplate="%{text:,}",
+                    textposition="outside",
+                    cliponaxis=False,
+                    marker=dict(line=dict(width=0), cornerradius=6),
                 )
                 fig_cotas.update_layout(
                     showlegend=False,
                     plot_bgcolor="rgba(0,0,0,0)",
                     paper_bgcolor="rgba(0,0,0,0)",
                     font=dict(family="Segoe UI, Arial", size=14),
-                    title=dict(font=dict(size=18, color="#1a3d2f")),
+                    title=dict(font=dict(size=20, color="#1a3d2f")),
+                    margin=dict(l=60, r=80, t=70, b=60),
+                    xaxis=dict(gridcolor="#e9ecef", tickformat=","),
+                    yaxis=dict(gridcolor="#e9ecef"),
+                )
+                fig_cotas.update_traces(
+                    hovertemplate="<b>%{y}</b><br>Inscritos: <b>%{x:,}</b><extra></extra>"
                 )
                 st.plotly_chart(fig_cotas, width='stretch', key='bar_cotas')
 
@@ -565,14 +636,30 @@ with tab_escola:
             color='Inscritos',
             color_continuous_scale='Greens',
             height=800,
+            text='Inscritos',
+        )
+        fig_escolas.update_traces(
+            texttemplate="%{text:,}",
+            textposition="outside",
+            cliponaxis=False,
+            marker=dict(line=dict(width=0), cornerradius=6),
         )
         fig_escolas.update_layout(
             plot_bgcolor="rgba(0,0,0,0)",
             paper_bgcolor="rgba(0,0,0,0)",
             font=dict(family="Segoe UI, Arial", size=14),
-            title=dict(font=dict(size=18, color="#1a3d2f")),
+            title=dict(font=dict(size=20, color="#1a3d2f")),
+            margin=dict(l=220, r=80, t=70, b=60),
+            xaxis=dict(gridcolor="#e9ecef", tickformat=","),
+            yaxis=dict(gridcolor="#e9ecef"),
+            coloraxis_colorbar=dict(title="Inscritos", thickness=12, len=0.6),
         )
         fig_escolas.update_yaxes(autorange="reversed")
+        if 'Cidade' in df_top.columns:
+            fig_escolas.update_traces(
+                hovertemplate="<b>%{y}</b><br>%{customdata[0]}: <b>%{x:,}</b><extra></extra>",
+                customdata=df_top[['Cidade']].astype(str),
+            )
         st.plotly_chart(fig_escolas, width='stretch', key='bar_escolas')
 
         # Tabela
@@ -596,23 +683,40 @@ with tab_escola:
 
                 categorias = ['tipo', 'area', 'cidade']
                 donut_cols = st.columns(3)
+                donut_palette = ["#2e7d32", "#66bb6a", "#a5d6a7", "#1565c0", "#ef6c00", "#6a1b9a",
+                                 "#00838f", "#c62828", "#f9a825", "#5d4037", "#455a64", "#7b1fa2"]
                 for i, cat in enumerate(categorias):
                     df_cat = df_resumo_ultima[df_resumo_ultima['Categoria'] == cat]
                     if df_cat.empty:
                         continue
+                    df_cat = df_cat.groupby('Label', as_index=False)['Valor'].sum()
+                    if len(df_cat) > 12:
+                        df_cat = df_cat.sort_values('Valor', ascending=False)
+                        df_outros = pd.DataFrame(
+                            [{'Label': 'Outros', 'Valor': df_cat.iloc[12:]['Valor'].sum()}]
+                        )
+                        df_cat = pd.concat([df_cat.head(12), df_outros], ignore_index=True)
                     with donut_cols[i]:
                         fig_donut = px.pie(
                             df_cat,
                             names='Label', values='Valor',
                             title=f'Por {cat.capitalize()}',
-                            hole=0.5,
-                            height=350,
+                            hole=0.55,
+                            height=380,
+                            color_discrete_sequence=donut_palette,
+                        )
+                        fig_donut.update_traces(
+                            textinfo="label+percent",
+                            textfont=dict(size=11),
+                            pull=0.02,
+                            marker=dict(line=dict(color="#ffffff", width=2)),
+                            hovertemplate="<b>%{label}</b><br>%{value:,} inscrições (%{percent})<extra></extra>",
                         )
                         fig_donut.update_layout(
                             plot_bgcolor="rgba(0,0,0,0)",
                             paper_bgcolor="rgba(0,0,0,0)",
                             font=dict(family="Segoe UI, Arial", size=13),
-                            title=dict(font=dict(size=16, color="#1a3d2f")),
+                            title=dict(font=dict(size=17, color="#1a3d2f")),
                             showlegend=True,
                             legend=dict(orientation="h", yanchor="bottom", y=-0.3, font=dict(size=11)),
                         )
@@ -635,13 +739,21 @@ with tab_escola:
             markers=True,
             height=600,
         )
-        fig_evol_esc.update_traces(mode="lines+markers", hovertemplate="%{y}")
+        fig_evol_esc.update_traces(
+            mode="lines+markers",
+            line=dict(width=4, shape="spline", smoothing=0.4),
+            marker=dict(size=11, line=dict(color="#ffffff", width=2), symbol="circle"),
+            hovertemplate="<b>%{x|%d/%m/%Y}</b><br>%{fullData.name}: <b>%{y:,}</b><extra></extra>",
+        )
         fig_evol_esc.update_layout(
             hovermode="x unified",
             plot_bgcolor="rgba(0,0,0,0)",
             paper_bgcolor="rgba(0,0,0,0)",
             font=dict(family="Segoe UI, Arial", size=14),
-            title=dict(font=dict(size=18, color="#1a3d2f")),
+            title=dict(font=dict(size=20, color="#1a3d2f")),
+            margin=dict(l=60, r=30, t=70, b=60),
+            xaxis=dict(gridcolor="#e9ecef", tickangle=0),
+            yaxis=dict(gridcolor="#e9ecef", tickformat=","),
         )
         st.plotly_chart(fig_evol_esc, width='stretch', key='evol_escolas')
 
